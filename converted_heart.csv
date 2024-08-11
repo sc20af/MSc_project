@@ -1,1026 +1,1026 @@
 age,sex,cp,trestbps,chol,fbs,restecg,thalch,exang,oldpeak,slope,ca,thal,dataset
-52,Male,typical angina,125,212,False,st-t wave abnormality,168,False,1.0,downsloping,2.0,reversable defect,Unknown
-53,Male,typical angina,140,203,True,normal,155,True,3.1,upsloping,0.0,reversable defect,Unknown
-70,Male,typical angina,145,174,False,st-t wave abnormality,125,True,2.6,upsloping,0.0,reversable defect,Unknown
-61,Male,typical angina,148,203,False,st-t wave abnormality,161,False,0.0,downsloping,1.0,reversable defect,Unknown
-62,Female,typical angina,138,294,True,st-t wave abnormality,106,False,1.9,flat,3.0,reversable defect,Unknown
-58,Female,typical angina,100,248,False,normal,122,False,1.0,flat,0.0,reversable defect,Unknown
-58,Male,typical angina,114,318,False,left ventricular hypertrophy,140,False,4.4,upsloping,3.0,fixed defect,Unknown
-55,Male,typical angina,160,289,False,normal,145,True,0.8,flat,1.0,reversable defect,Unknown
-46,Male,typical angina,120,249,False,normal,144,False,0.8,downsloping,0.0,reversable defect,Unknown
-54,Male,typical angina,122,286,False,normal,116,True,3.2,flat,2.0,reversable defect,Unknown
-71,Female,typical angina,112,149,False,st-t wave abnormality,125,False,1.6,flat,0.0,reversable defect,Unknown
-43,Female,typical angina,132,341,True,normal,136,True,3.0,flat,0.0,reversable defect,Unknown
-34,Female,atypical angina,118,210,False,st-t wave abnormality,192,False,0.7,downsloping,0.0,reversable defect,Unknown
-51,Male,typical angina,140,298,False,st-t wave abnormality,122,True,4.2,flat,3.0,reversable defect,Unknown
-52,Male,typical angina,128,204,True,st-t wave abnormality,156,True,1.0,flat,0.0,normal,Unknown
-34,Female,atypical angina,118,210,False,st-t wave abnormality,192,False,0.7,downsloping,0.0,reversable defect,Unknown
-51,Female,non-anginal pain,140,308,False,normal,142,False,1.5,downsloping,1.0,reversable defect,Unknown
-54,Male,typical angina,124,266,False,normal,109,True,2.2,flat,1.0,reversable defect,Unknown
-50,Female,atypical angina,120,244,False,st-t wave abnormality,162,False,1.1,downsloping,0.0,reversable defect,Unknown
-58,Male,non-anginal pain,140,211,True,normal,165,False,0.0,downsloping,0.0,reversable defect,Unknown
-60,Male,non-anginal pain,140,185,False,normal,155,False,3.0,flat,0.0,reversable defect,Unknown
-67,Female,typical angina,106,223,False,st-t wave abnormality,142,False,0.3,downsloping,2.0,reversable defect,Unknown
-45,Male,typical angina,104,208,False,normal,148,True,3.0,flat,0.0,reversable defect,Unknown
-63,Female,non-anginal pain,135,252,False,normal,172,False,0.0,downsloping,0.0,reversable defect,Unknown
-42,Female,non-anginal pain,120,209,False,st-t wave abnormality,173,False,0.0,flat,0.0,reversable defect,Unknown
-61,Female,typical angina,145,307,False,normal,146,True,1.0,flat,0.0,reversable defect,Unknown
-44,Male,non-anginal pain,130,233,False,st-t wave abnormality,179,True,0.4,downsloping,0.0,reversable defect,Unknown
-58,Female,atypical angina,136,319,True,normal,152,False,0.0,downsloping,2.0,reversable defect,Unknown
-56,Male,non-anginal pain,130,256,True,normal,142,True,0.6,flat,1.0,fixed defect,Unknown
-55,Female,typical angina,180,327,False,left ventricular hypertrophy,117,True,3.4,flat,0.0,reversable defect,Unknown
-44,Male,typical angina,120,169,False,st-t wave abnormality,144,True,2.8,upsloping,0.0,fixed defect,Unknown
-50,Female,atypical angina,120,244,False,st-t wave abnormality,162,False,1.1,downsloping,0.0,reversable defect,Unknown
-57,Male,typical angina,130,131,False,st-t wave abnormality,115,True,1.2,flat,1.0,reversable defect,Unknown
-70,Male,non-anginal pain,160,269,False,st-t wave abnormality,112,True,2.9,flat,1.0,reversable defect,Unknown
-50,Male,non-anginal pain,129,196,False,st-t wave abnormality,163,False,0.0,downsloping,0.0,reversable defect,Unknown
-46,Male,non-anginal pain,150,231,False,st-t wave abnormality,147,False,3.6,flat,0.0,reversable defect,Unknown
-51,Male,asymptomatic,125,213,False,normal,125,True,1.4,downsloping,1.0,reversable defect,Unknown
-59,Male,typical angina,138,271,False,normal,182,False,0.0,downsloping,0.0,reversable defect,Unknown
-64,Male,typical angina,128,263,False,st-t wave abnormality,105,True,0.2,flat,1.0,reversable defect,Unknown
-57,Male,non-anginal pain,128,229,False,normal,150,False,0.4,flat,1.0,reversable defect,Unknown
-65,Female,non-anginal pain,160,360,False,normal,151,False,0.8,downsloping,0.0,reversable defect,Unknown
-54,Male,non-anginal pain,120,258,False,normal,147,False,0.4,flat,0.0,reversable defect,Unknown
-61,Female,typical angina,130,330,False,normal,169,False,0.0,downsloping,0.0,reversable defect,Unknown
-46,Male,typical angina,120,249,False,normal,144,False,0.8,downsloping,0.0,reversable defect,Unknown
-55,Female,atypical angina,132,342,False,st-t wave abnormality,166,False,1.2,downsloping,0.0,reversable defect,Unknown
-42,Male,typical angina,140,226,False,st-t wave abnormality,178,False,0.0,downsloping,0.0,reversable defect,Unknown
-41,Male,atypical angina,135,203,False,st-t wave abnormality,132,False,0.0,flat,0.0,fixed defect,Unknown
-66,Female,typical angina,178,228,True,st-t wave abnormality,165,True,1.0,flat,2.0,reversable defect,Unknown
-66,Female,non-anginal pain,146,278,False,normal,152,False,0.0,flat,1.0,reversable defect,Unknown
-60,Male,typical angina,117,230,True,st-t wave abnormality,160,True,1.4,downsloping,2.0,reversable defect,Unknown
-58,Female,asymptomatic,150,283,True,normal,162,False,1.0,downsloping,0.0,reversable defect,Unknown
-57,Female,typical angina,140,241,False,st-t wave abnormality,123,True,0.2,flat,0.0,reversable defect,Unknown
-38,Male,non-anginal pain,138,175,False,st-t wave abnormality,173,False,0.0,downsloping,4.0,reversable defect,Unknown
-49,Male,non-anginal pain,120,188,False,st-t wave abnormality,139,False,2.0,flat,3.0,reversable defect,Unknown
-55,Male,typical angina,140,217,False,st-t wave abnormality,111,True,5.6,upsloping,0.0,reversable defect,Unknown
-55,Male,typical angina,140,217,False,st-t wave abnormality,111,True,5.6,upsloping,0.0,reversable defect,Unknown
-56,Male,asymptomatic,120,193,False,normal,162,False,1.9,flat,0.0,reversable defect,Unknown
-48,Male,atypical angina,130,245,False,normal,180,False,0.2,flat,0.0,reversable defect,Unknown
-67,Male,non-anginal pain,152,212,False,normal,150,False,0.8,flat,0.0,reversable defect,Unknown
-57,Male,atypical angina,154,232,False,normal,164,False,0.0,downsloping,1.0,reversable defect,Unknown
-29,Male,atypical angina,130,204,False,normal,202,False,0.0,downsloping,0.0,reversable defect,Unknown
-66,Female,non-anginal pain,146,278,False,normal,152,False,0.0,flat,1.0,reversable defect,Unknown
-67,Male,typical angina,100,299,False,normal,125,True,0.9,flat,2.0,reversable defect,Unknown
-59,Male,non-anginal pain,150,212,True,st-t wave abnormality,157,False,1.6,downsloping,0.0,reversable defect,Unknown
-29,Male,atypical angina,130,204,False,normal,202,False,0.0,downsloping,0.0,reversable defect,Unknown
-59,Male,asymptomatic,170,288,False,normal,159,False,0.2,flat,0.0,reversable defect,Unknown
-53,Male,non-anginal pain,130,197,True,normal,152,False,1.2,upsloping,0.0,reversable defect,Unknown
-42,Male,typical angina,136,315,False,st-t wave abnormality,125,True,1.8,flat,0.0,fixed defect,Unknown
-37,Female,non-anginal pain,120,215,False,st-t wave abnormality,170,False,0.0,downsloping,0.0,reversable defect,Unknown
-62,Female,typical angina,160,164,False,normal,145,False,6.2,upsloping,3.0,reversable defect,Unknown
-59,Male,typical angina,170,326,False,normal,140,True,3.4,upsloping,0.0,reversable defect,Unknown
-61,Male,typical angina,140,207,False,normal,138,True,1.9,downsloping,1.0,reversable defect,Unknown
-56,Male,typical angina,125,249,True,normal,144,True,1.2,flat,1.0,reversable defect,Unknown
-59,Male,typical angina,140,177,False,st-t wave abnormality,162,True,0.0,downsloping,1.0,reversable defect,Unknown
-48,Male,typical angina,130,256,True,normal,150,True,0.0,downsloping,2.0,reversable defect,Unknown
-47,Male,non-anginal pain,138,257,False,normal,156,False,0.0,downsloping,0.0,reversable defect,Unknown
-48,Male,non-anginal pain,124,255,True,st-t wave abnormality,175,False,0.0,downsloping,2.0,reversable defect,Unknown
-63,Male,typical angina,140,187,False,normal,144,True,4.0,downsloping,2.0,reversable defect,Unknown
-52,Male,atypical angina,134,201,False,st-t wave abnormality,158,False,0.8,downsloping,1.0,reversable defect,Unknown
-52,Male,atypical angina,134,201,False,st-t wave abnormality,158,False,0.8,downsloping,1.0,reversable defect,Unknown
-50,Male,non-anginal pain,140,233,False,st-t wave abnormality,163,False,0.6,flat,1.0,reversable defect,Unknown
-49,Male,non-anginal pain,118,149,False,normal,126,False,0.8,downsloping,3.0,reversable defect,Unknown
-46,Male,non-anginal pain,150,231,False,st-t wave abnormality,147,False,3.6,flat,0.0,reversable defect,Unknown
-38,Male,non-anginal pain,138,175,False,st-t wave abnormality,173,False,0.0,downsloping,4.0,reversable defect,Unknown
-37,Female,non-anginal pain,120,215,False,st-t wave abnormality,170,False,0.0,downsloping,0.0,reversable defect,Unknown
-44,Male,atypical angina,120,220,False,st-t wave abnormality,170,False,0.0,downsloping,0.0,reversable defect,Unknown
-58,Male,non-anginal pain,140,211,True,normal,165,False,0.0,downsloping,0.0,reversable defect,Unknown
-59,Female,typical angina,174,249,False,st-t wave abnormality,143,True,0.0,flat,0.0,reversable defect,Unknown
-62,Female,typical angina,140,268,False,normal,160,False,3.6,upsloping,2.0,reversable defect,Unknown
-68,Male,typical angina,144,193,True,st-t wave abnormality,141,False,3.4,flat,2.0,reversable defect,Unknown
-54,Female,non-anginal pain,108,267,False,normal,167,False,0.0,downsloping,0.0,reversable defect,Unknown
-62,Female,typical angina,124,209,False,st-t wave abnormality,163,False,0.0,downsloping,0.0,reversable defect,Unknown
-63,Male,typical angina,140,187,False,normal,144,True,4.0,downsloping,2.0,reversable defect,Unknown
-44,Male,typical angina,120,169,False,st-t wave abnormality,144,True,2.8,upsloping,0.0,fixed defect,Unknown
-62,Male,atypical angina,128,208,True,normal,140,False,0.0,downsloping,0.0,reversable defect,Unknown
-45,Female,typical angina,138,236,False,normal,152,True,0.2,flat,0.0,reversable defect,Unknown
-57,Female,typical angina,128,303,False,normal,159,False,0.0,downsloping,1.0,reversable defect,Unknown
-53,Male,typical angina,123,282,False,st-t wave abnormality,95,True,2.0,flat,2.0,reversable defect,Unknown
-65,Male,typical angina,110,248,False,normal,158,False,0.6,downsloping,2.0,fixed defect,Unknown
-76,Female,non-anginal pain,140,197,False,left ventricular hypertrophy,116,False,1.1,flat,0.0,reversable defect,Unknown
-43,Female,non-anginal pain,122,213,False,st-t wave abnormality,165,False,0.2,flat,0.0,reversable defect,Unknown
-57,Male,non-anginal pain,150,126,True,st-t wave abnormality,173,False,0.2,downsloping,1.0,reversable defect,Unknown
-54,Male,atypical angina,108,309,False,st-t wave abnormality,156,False,0.0,downsloping,0.0,reversable defect,Unknown
-47,Male,non-anginal pain,138,257,False,normal,156,False,0.0,downsloping,0.0,reversable defect,Unknown
-52,Male,asymptomatic,118,186,False,normal,190,False,0.0,flat,0.0,fixed defect,Unknown
-47,Male,typical angina,110,275,False,normal,118,True,1.0,flat,1.0,reversable defect,Unknown
-51,Male,typical angina,140,299,False,st-t wave abnormality,173,True,1.6,downsloping,0.0,reversable defect,Unknown
-62,Male,atypical angina,120,281,False,normal,103,False,1.4,flat,1.0,reversable defect,Unknown
-40,Male,typical angina,152,223,False,st-t wave abnormality,181,False,0.0,downsloping,0.0,reversable defect,Unknown
-54,Male,typical angina,110,206,False,normal,108,True,0.0,flat,1.0,reversable defect,Unknown
-44,Male,typical angina,110,197,False,normal,177,False,0.0,downsloping,1.0,reversable defect,Unknown
-53,Male,typical angina,142,226,False,normal,111,True,0.0,downsloping,0.0,reversable defect,Unknown
-48,Male,typical angina,130,256,True,normal,150,True,0.0,downsloping,2.0,reversable defect,Unknown
-57,Male,typical angina,110,335,False,st-t wave abnormality,143,True,3.0,flat,1.0,reversable defect,Unknown
-59,Male,non-anginal pain,126,218,True,st-t wave abnormality,134,False,2.2,flat,1.0,fixed defect,Unknown
-61,Female,typical angina,145,307,False,normal,146,True,1.0,flat,0.0,reversable defect,Unknown
-63,Male,typical angina,130,254,False,normal,147,False,1.4,flat,1.0,reversable defect,Unknown
-43,Male,typical angina,120,177,False,normal,120,True,2.5,flat,0.0,reversable defect,Unknown
-29,Male,atypical angina,130,204,False,normal,202,False,0.0,downsloping,0.0,reversable defect,Unknown
-42,Male,atypical angina,120,295,False,st-t wave abnormality,162,False,0.0,downsloping,0.0,reversable defect,Unknown
-54,Male,atypical angina,108,309,False,st-t wave abnormality,156,False,0.0,downsloping,0.0,reversable defect,Unknown
-44,Male,typical angina,120,169,False,st-t wave abnormality,144,True,2.8,upsloping,0.0,fixed defect,Unknown
-60,Male,typical angina,145,282,False,normal,142,True,2.8,flat,2.0,reversable defect,Unknown
-65,Female,non-anginal pain,140,417,True,normal,157,False,0.8,downsloping,1.0,reversable defect,Unknown
-61,Male,typical angina,120,260,False,st-t wave abnormality,140,True,3.6,flat,1.0,reversable defect,Unknown
-60,Female,asymptomatic,150,240,False,st-t wave abnormality,171,False,0.9,downsloping,0.0,reversable defect,Unknown
-66,Male,typical angina,120,302,False,normal,151,False,0.4,flat,0.0,reversable defect,Unknown
-53,Male,non-anginal pain,130,197,True,normal,152,False,1.2,upsloping,0.0,reversable defect,Unknown
-52,Male,non-anginal pain,138,223,False,st-t wave abnormality,169,False,0.0,downsloping,4.0,reversable defect,Unknown
-57,Male,typical angina,140,192,False,st-t wave abnormality,148,False,0.4,flat,0.0,fixed defect,Unknown
-60,Female,asymptomatic,150,240,False,st-t wave abnormality,171,False,0.9,downsloping,0.0,reversable defect,Unknown
-51,Female,non-anginal pain,130,256,False,normal,149,False,0.5,downsloping,0.0,reversable defect,Unknown
-41,Male,atypical angina,135,203,False,st-t wave abnormality,132,False,0.0,flat,0.0,fixed defect,Unknown
-50,Male,non-anginal pain,129,196,False,st-t wave abnormality,163,False,0.0,downsloping,0.0,reversable defect,Unknown
-54,Male,atypical angina,108,309,False,st-t wave abnormality,156,False,0.0,downsloping,0.0,reversable defect,Unknown
-58,Female,typical angina,170,225,True,normal,146,True,2.8,flat,2.0,fixed defect,Unknown
-55,Female,atypical angina,132,342,False,st-t wave abnormality,166,False,1.2,downsloping,0.0,reversable defect,Unknown
-64,Female,typical angina,180,325,False,st-t wave abnormality,154,True,0.0,downsloping,0.0,reversable defect,Unknown
-47,Male,non-anginal pain,138,257,False,normal,156,False,0.0,downsloping,0.0,reversable defect,Unknown
-41,Male,atypical angina,110,235,False,st-t wave abnormality,153,False,0.0,downsloping,0.0,reversable defect,Unknown
-57,Male,typical angina,152,274,False,st-t wave abnormality,88,True,1.2,flat,1.0,reversable defect,Unknown
-63,Female,typical angina,124,197,False,st-t wave abnormality,136,True,0.0,flat,0.0,reversable defect,Unknown
-61,Male,asymptomatic,134,234,False,st-t wave abnormality,145,False,2.6,flat,2.0,reversable defect,Unknown
-34,Male,asymptomatic,118,182,False,normal,174,False,0.0,downsloping,0.0,reversable defect,Unknown
-47,Male,typical angina,112,204,False,st-t wave abnormality,143,False,0.1,downsloping,0.0,reversable defect,Unknown
-40,Male,typical angina,110,167,False,normal,114,True,2.0,flat,0.0,reversable defect,Unknown
-51,Female,non-anginal pain,120,295,False,normal,157,False,0.6,downsloping,0.0,reversable defect,Unknown
-41,Male,typical angina,110,172,False,normal,158,False,0.0,downsloping,0.0,reversable defect,Unknown
-52,Male,asymptomatic,152,298,True,st-t wave abnormality,178,False,1.2,flat,0.0,reversable defect,Unknown
-39,Male,non-anginal pain,140,321,False,normal,182,False,0.0,downsloping,0.0,reversable defect,Unknown
-58,Male,typical angina,114,318,False,left ventricular hypertrophy,140,False,4.4,upsloping,3.0,fixed defect,Unknown
-54,Male,atypical angina,192,283,False,normal,195,False,0.0,downsloping,1.0,reversable defect,Unknown
-58,Male,typical angina,125,300,False,normal,171,False,0.0,downsloping,2.0,reversable defect,Unknown
-54,Male,non-anginal pain,120,258,False,normal,147,False,0.4,flat,0.0,reversable defect,Unknown
-63,Male,typical angina,130,330,True,normal,132,True,1.8,downsloping,3.0,reversable defect,Unknown
-54,Male,atypical angina,108,309,False,st-t wave abnormality,156,False,0.0,downsloping,0.0,reversable defect,Unknown
-40,Male,asymptomatic,140,199,False,st-t wave abnormality,178,True,1.4,downsloping,0.0,reversable defect,Unknown
-54,Male,non-anginal pain,120,258,False,normal,147,False,0.4,flat,0.0,reversable defect,Unknown
-67,Female,non-anginal pain,115,564,False,normal,160,False,1.6,flat,0.0,reversable defect,Unknown
-41,Male,atypical angina,120,157,False,st-t wave abnormality,182,False,0.0,downsloping,0.0,reversable defect,Unknown
-77,Male,typical angina,125,304,False,normal,162,True,0.0,downsloping,3.0,reversable defect,Unknown
-51,Male,non-anginal pain,100,222,False,st-t wave abnormality,143,True,1.2,flat,0.0,reversable defect,Unknown
-77,Male,typical angina,125,304,False,normal,162,True,0.0,downsloping,3.0,reversable defect,Unknown
-48,Male,typical angina,124,274,False,normal,166,False,0.5,flat,0.0,reversable defect,Unknown
-56,Male,typical angina,125,249,True,normal,144,True,1.2,flat,1.0,reversable defect,Unknown
-59,Male,typical angina,170,326,False,normal,140,True,3.4,upsloping,0.0,reversable defect,Unknown
-56,Male,typical angina,132,184,False,normal,105,True,2.1,flat,1.0,fixed defect,Unknown
-57,Female,typical angina,120,354,False,st-t wave abnormality,163,True,0.6,downsloping,0.0,reversable defect,Unknown
-43,Male,non-anginal pain,130,315,False,st-t wave abnormality,162,False,1.9,downsloping,1.0,reversable defect,Unknown
-45,Female,atypical angina,112,160,False,st-t wave abnormality,138,False,0.0,flat,0.0,reversable defect,Unknown
-43,Male,typical angina,150,247,False,st-t wave abnormality,171,False,1.5,downsloping,0.0,reversable defect,Unknown
-56,Male,typical angina,130,283,True,normal,103,True,1.6,upsloping,0.0,reversable defect,Unknown
-56,Male,atypical angina,120,240,False,st-t wave abnormality,169,False,0.0,upsloping,0.0,reversable defect,Unknown
-39,Female,non-anginal pain,94,199,False,st-t wave abnormality,179,False,0.0,downsloping,0.0,reversable defect,Unknown
-54,Male,typical angina,110,239,False,st-t wave abnormality,126,True,2.8,flat,1.0,reversable defect,Unknown
-56,Female,typical angina,200,288,True,normal,133,True,4.0,upsloping,2.0,reversable defect,Unknown
-56,Male,typical angina,130,283,True,normal,103,True,1.6,upsloping,0.0,reversable defect,Unknown
-64,Male,typical angina,120,246,False,normal,96,True,2.2,upsloping,1.0,reversable defect,Unknown
-44,Male,typical angina,110,197,False,normal,177,False,0.0,downsloping,1.0,reversable defect,Unknown
-56,Female,typical angina,134,409,False,normal,150,True,1.9,flat,2.0,reversable defect,Unknown
-63,Male,typical angina,140,187,False,normal,144,True,4.0,downsloping,2.0,reversable defect,Unknown
-64,Male,asymptomatic,110,211,False,normal,144,True,1.8,flat,0.0,reversable defect,Unknown
-60,Male,typical angina,140,293,False,normal,170,False,1.2,flat,2.0,reversable defect,Unknown
-42,Male,non-anginal pain,130,180,False,st-t wave abnormality,150,False,0.0,downsloping,0.0,reversable defect,Unknown
-45,Male,atypical angina,128,308,False,normal,170,False,0.0,downsloping,0.0,reversable defect,Unknown
-57,Male,typical angina,165,289,True,normal,124,False,1.0,flat,3.0,reversable defect,Unknown
-40,Male,typical angina,110,167,False,normal,114,True,2.0,flat,0.0,reversable defect,Unknown
-56,Male,typical angina,125,249,True,normal,144,True,1.2,flat,1.0,reversable defect,Unknown
-63,Male,typical angina,130,254,False,normal,147,False,1.4,flat,1.0,reversable defect,Unknown
-64,Male,non-anginal pain,125,309,False,st-t wave abnormality,131,True,1.8,flat,0.0,reversable defect,Unknown
-41,Male,non-anginal pain,112,250,False,st-t wave abnormality,179,False,0.0,downsloping,0.0,reversable defect,Unknown
-56,Male,atypical angina,130,221,False,normal,163,False,0.0,downsloping,0.0,reversable defect,Unknown
-67,Female,non-anginal pain,115,564,False,normal,160,False,1.6,flat,0.0,reversable defect,Unknown
-69,Male,asymptomatic,160,234,True,normal,131,False,0.1,flat,1.0,reversable defect,Unknown
-67,Male,typical angina,160,286,False,normal,108,True,1.5,flat,3.0,reversable defect,Unknown
-59,Male,non-anginal pain,150,212,True,st-t wave abnormality,157,False,1.6,downsloping,0.0,reversable defect,Unknown
-58,Male,typical angina,100,234,False,st-t wave abnormality,156,False,0.1,downsloping,1.0,reversable defect,Unknown
-45,Male,typical angina,115,260,False,normal,185,False,0.0,downsloping,0.0,reversable defect,Unknown
-60,Female,non-anginal pain,102,318,False,st-t wave abnormality,160,False,0.0,downsloping,1.0,reversable defect,Unknown
-50,Male,typical angina,144,200,False,normal,126,True,0.9,flat,0.0,reversable defect,Unknown
-62,Female,typical angina,124,209,False,st-t wave abnormality,163,False,0.0,downsloping,0.0,reversable defect,Unknown
-34,Male,asymptomatic,118,182,False,normal,174,False,0.0,downsloping,0.0,reversable defect,Unknown
-52,Male,asymptomatic,152,298,True,st-t wave abnormality,178,False,1.2,flat,0.0,reversable defect,Unknown
-64,Male,asymptomatic,170,227,False,normal,155,False,0.6,flat,0.0,reversable defect,Unknown
-66,Female,non-anginal pain,146,278,False,normal,152,False,0.0,flat,1.0,reversable defect,Unknown
-42,Male,asymptomatic,148,244,False,normal,178,False,0.8,downsloping,2.0,reversable defect,Unknown
-59,Male,non-anginal pain,126,218,True,st-t wave abnormality,134,False,2.2,flat,1.0,fixed defect,Unknown
-41,Male,non-anginal pain,112,250,False,st-t wave abnormality,179,False,0.0,downsloping,0.0,reversable defect,Unknown
-38,Male,non-anginal pain,138,175,False,st-t wave abnormality,173,False,0.0,downsloping,4.0,reversable defect,Unknown
-62,Male,atypical angina,120,281,False,normal,103,False,1.4,flat,1.0,reversable defect,Unknown
-42,Male,non-anginal pain,120,240,True,st-t wave abnormality,194,False,0.8,upsloping,0.0,reversable defect,Unknown
-67,Male,typical angina,100,299,False,normal,125,True,0.9,flat,2.0,reversable defect,Unknown
-50,Male,typical angina,150,243,False,normal,128,False,2.6,flat,0.0,reversable defect,Unknown
-43,Male,non-anginal pain,130,315,False,st-t wave abnormality,162,False,1.9,downsloping,1.0,reversable defect,Unknown
-45,Male,atypical angina,128,308,False,normal,170,False,0.0,downsloping,0.0,reversable defect,Unknown
-49,Male,atypical angina,130,266,False,st-t wave abnormality,171,False,0.6,downsloping,0.0,reversable defect,Unknown
-65,Male,typical angina,135,254,False,normal,127,False,2.8,flat,1.0,reversable defect,Unknown
-41,Male,atypical angina,120,157,False,st-t wave abnormality,182,False,0.0,downsloping,0.0,reversable defect,Unknown
-46,Male,typical angina,140,311,False,st-t wave abnormality,120,True,1.8,flat,2.0,reversable defect,Unknown
-54,Male,typical angina,122,286,False,normal,116,True,3.2,flat,2.0,reversable defect,Unknown
-57,Female,atypical angina,130,236,False,normal,174,False,0.0,flat,1.0,reversable defect,Unknown
-63,Male,typical angina,130,254,False,normal,147,False,1.4,flat,1.0,reversable defect,Unknown
-64,Male,asymptomatic,110,211,False,normal,144,True,1.8,flat,0.0,reversable defect,Unknown
-39,Female,non-anginal pain,94,199,False,st-t wave abnormality,179,False,0.0,downsloping,0.0,reversable defect,Unknown
-51,Male,typical angina,140,261,False,normal,186,True,0.0,downsloping,0.0,reversable defect,Unknown
-54,Male,non-anginal pain,150,232,False,normal,165,False,1.6,downsloping,0.0,reversable defect,Unknown
-49,Male,non-anginal pain,118,149,False,normal,126,False,0.8,downsloping,3.0,reversable defect,Unknown
-44,Female,non-anginal pain,118,242,False,st-t wave abnormality,149,False,0.3,flat,1.0,reversable defect,Unknown
-52,Male,atypical angina,128,205,True,st-t wave abnormality,184,False,0.0,downsloping,0.0,reversable defect,Unknown
-66,Female,typical angina,178,228,True,st-t wave abnormality,165,True,1.0,flat,2.0,reversable defect,Unknown
-58,Male,typical angina,125,300,False,normal,171,False,0.0,downsloping,2.0,reversable defect,Unknown
-56,Male,atypical angina,120,236,False,st-t wave abnormality,178,False,0.8,downsloping,0.0,reversable defect,Unknown
-60,Male,typical angina,125,258,False,normal,141,True,2.8,flat,1.0,reversable defect,Unknown
-41,Female,atypical angina,126,306,False,st-t wave abnormality,163,False,0.0,downsloping,0.0,reversable defect,Unknown
-49,Female,typical angina,130,269,False,st-t wave abnormality,163,False,0.0,downsloping,0.0,reversable defect,Unknown
-64,Male,asymptomatic,170,227,False,normal,155,False,0.6,flat,0.0,reversable defect,Unknown
-49,Male,non-anginal pain,118,149,False,normal,126,False,0.8,downsloping,3.0,reversable defect,Unknown
-57,Male,atypical angina,124,261,False,st-t wave abnormality,141,False,0.3,downsloping,0.0,reversable defect,Unknown
-60,Male,typical angina,117,230,True,st-t wave abnormality,160,True,1.4,downsloping,2.0,reversable defect,Unknown
-62,Female,typical angina,150,244,False,st-t wave abnormality,154,True,1.4,flat,0.0,reversable defect,Unknown
-54,Female,atypical angina,132,288,True,normal,159,True,0.0,downsloping,1.0,reversable defect,Unknown
-67,Male,non-anginal pain,152,212,False,normal,150,False,0.8,flat,0.0,reversable defect,Unknown
-38,Male,non-anginal pain,138,175,False,st-t wave abnormality,173,False,0.0,downsloping,4.0,reversable defect,Unknown
-60,Male,non-anginal pain,140,185,False,normal,155,False,3.0,flat,0.0,reversable defect,Unknown
-51,Male,non-anginal pain,125,245,True,normal,166,False,2.4,flat,0.0,reversable defect,Unknown
-44,Male,atypical angina,130,219,False,normal,188,False,0.0,downsloping,0.0,reversable defect,Unknown
-54,Male,atypical angina,192,283,False,normal,195,False,0.0,downsloping,1.0,reversable defect,Unknown
-46,Male,typical angina,140,311,False,st-t wave abnormality,120,True,1.8,flat,2.0,reversable defect,Unknown
-39,Female,non-anginal pain,138,220,False,st-t wave abnormality,152,False,0.0,flat,0.0,reversable defect,Unknown
-42,Male,non-anginal pain,130,180,False,st-t wave abnormality,150,False,0.0,downsloping,0.0,reversable defect,Unknown
-47,Male,typical angina,110,275,False,normal,118,True,1.0,flat,1.0,reversable defect,Unknown
-45,Female,atypical angina,112,160,False,st-t wave abnormality,138,False,0.0,flat,0.0,reversable defect,Unknown
-55,Male,typical angina,132,353,False,st-t wave abnormality,132,True,1.2,flat,1.0,reversable defect,Unknown
-57,Male,typical angina,165,289,True,normal,124,False,1.0,flat,3.0,reversable defect,Unknown
-35,Male,typical angina,120,198,False,st-t wave abnormality,130,True,1.6,flat,0.0,reversable defect,Unknown
-62,Female,typical angina,140,394,False,normal,157,False,1.2,flat,0.0,reversable defect,Unknown
-35,Female,typical angina,138,183,False,st-t wave abnormality,182,False,1.4,downsloping,0.0,reversable defect,Unknown
-64,Female,typical angina,180,325,False,st-t wave abnormality,154,True,0.0,downsloping,0.0,reversable defect,Unknown
-38,Male,asymptomatic,120,231,False,st-t wave abnormality,182,True,3.8,flat,0.0,reversable defect,Unknown
-66,Male,typical angina,120,302,False,normal,151,False,0.4,flat,0.0,reversable defect,Unknown
-44,Male,non-anginal pain,120,226,False,st-t wave abnormality,169,False,0.0,downsloping,0.0,reversable defect,Unknown
-54,Male,non-anginal pain,150,232,False,normal,165,False,1.6,downsloping,0.0,reversable defect,Unknown
-48,Male,typical angina,122,222,False,normal,186,False,0.0,downsloping,0.0,reversable defect,Unknown
-55,Female,atypical angina,132,342,False,st-t wave abnormality,166,False,1.2,downsloping,0.0,reversable defect,Unknown
-58,Female,typical angina,170,225,True,normal,146,True,2.8,flat,2.0,fixed defect,Unknown
-45,Male,typical angina,104,208,False,normal,148,True,3.0,flat,0.0,reversable defect,Unknown
-53,Male,typical angina,123,282,False,st-t wave abnormality,95,True,2.0,flat,2.0,reversable defect,Unknown
-67,Male,typical angina,120,237,False,st-t wave abnormality,71,False,1.0,flat,0.0,reversable defect,Unknown
-58,Male,non-anginal pain,132,224,False,normal,173,False,3.2,downsloping,2.0,reversable defect,Unknown
-71,Female,non-anginal pain,110,265,True,normal,130,False,0.0,downsloping,1.0,reversable defect,Unknown
-43,Male,typical angina,110,211,False,st-t wave abnormality,161,False,0.0,downsloping,0.0,reversable defect,Unknown
-44,Male,atypical angina,120,263,False,st-t wave abnormality,173,False,0.0,downsloping,0.0,reversable defect,Unknown
-39,Female,non-anginal pain,138,220,False,st-t wave abnormality,152,False,0.0,flat,0.0,reversable defect,Unknown
-54,Male,typical angina,110,206,False,normal,108,True,0.0,flat,1.0,reversable defect,Unknown
-66,Male,typical angina,160,228,False,normal,138,False,2.3,downsloping,0.0,fixed defect,Unknown
-56,Male,typical angina,130,283,True,normal,103,True,1.6,upsloping,0.0,reversable defect,Unknown
-57,Male,typical angina,132,207,False,st-t wave abnormality,168,True,0.0,downsloping,0.0,reversable defect,Unknown
-44,Male,atypical angina,130,219,False,normal,188,False,0.0,downsloping,0.0,reversable defect,Unknown
-55,Male,typical angina,160,289,False,normal,145,True,0.8,flat,1.0,reversable defect,Unknown
-41,Female,atypical angina,105,198,False,st-t wave abnormality,168,False,0.0,downsloping,1.0,reversable defect,Unknown
-45,Female,atypical angina,130,234,False,normal,175,False,0.6,flat,0.0,reversable defect,Unknown
-35,Male,atypical angina,122,192,False,st-t wave abnormality,174,False,0.0,downsloping,0.0,reversable defect,Unknown
-41,Female,atypical angina,130,204,False,normal,172,False,1.4,downsloping,0.0,reversable defect,Unknown
-64,Male,asymptomatic,110,211,False,normal,144,True,1.8,flat,0.0,reversable defect,Unknown
-58,Male,non-anginal pain,132,224,False,normal,173,False,3.2,downsloping,2.0,reversable defect,Unknown
-71,Female,non-anginal pain,110,265,True,normal,130,False,0.0,downsloping,1.0,reversable defect,Unknown
-64,Female,non-anginal pain,140,313,False,st-t wave abnormality,133,False,0.2,downsloping,0.0,reversable defect,Unknown
-71,Female,atypical angina,160,302,False,st-t wave abnormality,162,False,0.4,downsloping,2.0,reversable defect,Unknown
-58,Female,non-anginal pain,120,340,False,st-t wave abnormality,172,False,0.0,downsloping,0.0,reversable defect,Unknown
-40,Male,typical angina,152,223,False,st-t wave abnormality,181,False,0.0,downsloping,0.0,reversable defect,Unknown
-52,Male,non-anginal pain,138,223,False,st-t wave abnormality,169,False,0.0,downsloping,4.0,reversable defect,Unknown
-58,Male,typical angina,128,259,False,normal,130,True,3.0,flat,2.0,reversable defect,Unknown
-61,Male,non-anginal pain,150,243,True,st-t wave abnormality,137,True,1.0,flat,0.0,reversable defect,Unknown
-59,Male,non-anginal pain,150,212,True,st-t wave abnormality,157,False,1.6,downsloping,0.0,reversable defect,Unknown
-56,Female,typical angina,200,288,True,normal,133,True,4.0,upsloping,2.0,reversable defect,Unknown
-67,Male,typical angina,100,299,False,normal,125,True,0.9,flat,2.0,reversable defect,Unknown
-67,Male,typical angina,120,237,False,st-t wave abnormality,71,False,1.0,flat,0.0,reversable defect,Unknown
-58,Male,typical angina,150,270,False,normal,111,True,0.8,downsloping,0.0,reversable defect,Unknown
-35,Male,atypical angina,122,192,False,st-t wave abnormality,174,False,0.0,downsloping,0.0,reversable defect,Unknown
-52,Male,atypical angina,120,325,False,st-t wave abnormality,172,False,0.2,downsloping,0.0,reversable defect,Unknown
-46,Female,atypical angina,105,204,False,st-t wave abnormality,172,False,0.0,downsloping,0.0,reversable defect,Unknown
-51,Male,non-anginal pain,94,227,False,st-t wave abnormality,154,True,0.0,downsloping,1.0,reversable defect,Unknown
-55,Female,atypical angina,132,342,False,st-t wave abnormality,166,False,1.2,downsloping,0.0,reversable defect,Unknown
-60,Male,typical angina,145,282,False,normal,142,True,2.8,flat,2.0,reversable defect,Unknown
-52,Female,non-anginal pain,136,196,False,normal,169,False,0.1,flat,0.0,reversable defect,Unknown
-62,Male,typical angina,120,267,False,st-t wave abnormality,99,True,1.8,flat,2.0,reversable defect,Unknown
-44,Female,non-anginal pain,118,242,False,st-t wave abnormality,149,False,0.3,flat,1.0,reversable defect,Unknown
-44,Male,atypical angina,120,220,False,st-t wave abnormality,170,False,0.0,downsloping,0.0,reversable defect,Unknown
-59,Male,non-anginal pain,126,218,True,st-t wave abnormality,134,False,2.2,flat,1.0,fixed defect,Unknown
-56,Female,atypical angina,140,294,False,normal,153,False,1.3,flat,0.0,reversable defect,Unknown
-61,Male,typical angina,120,260,False,st-t wave abnormality,140,True,3.6,flat,1.0,reversable defect,Unknown
-48,Male,typical angina,130,256,True,normal,150,True,0.0,downsloping,2.0,reversable defect,Unknown
-70,Male,non-anginal pain,160,269,False,st-t wave abnormality,112,True,2.9,flat,1.0,reversable defect,Unknown
-74,Female,atypical angina,120,269,False,normal,121,True,0.2,downsloping,1.0,reversable defect,Unknown
-40,Male,asymptomatic,140,199,False,st-t wave abnormality,178,True,1.4,downsloping,0.0,reversable defect,Unknown
-42,Male,asymptomatic,148,244,False,normal,178,False,0.8,downsloping,2.0,reversable defect,Unknown
-64,Female,non-anginal pain,140,313,False,st-t wave abnormality,133,False,0.2,downsloping,0.0,reversable defect,Unknown
-63,Female,non-anginal pain,135,252,False,normal,172,False,0.0,downsloping,0.0,reversable defect,Unknown
-59,Male,typical angina,140,177,False,st-t wave abnormality,162,True,0.0,downsloping,1.0,reversable defect,Unknown
-53,Female,non-anginal pain,128,216,False,normal,115,False,0.0,downsloping,0.0,normal,Unknown
-53,Female,typical angina,130,264,False,normal,143,False,0.4,flat,0.0,reversable defect,Unknown
-48,Female,non-anginal pain,130,275,False,st-t wave abnormality,139,False,0.2,downsloping,0.0,reversable defect,Unknown
-45,Male,typical angina,142,309,False,normal,147,True,0.0,flat,3.0,reversable defect,Unknown
-66,Male,atypical angina,160,246,False,st-t wave abnormality,120,True,0.0,flat,3.0,fixed defect,Unknown
-48,Male,atypical angina,130,245,False,normal,180,False,0.2,flat,0.0,reversable defect,Unknown
-56,Female,atypical angina,140,294,False,normal,153,False,1.3,flat,0.0,reversable defect,Unknown
-54,Male,atypical angina,192,283,False,normal,195,False,0.0,downsloping,1.0,reversable defect,Unknown
-57,Male,typical angina,150,276,False,normal,112,True,0.6,flat,1.0,fixed defect,Unknown
-70,Male,typical angina,130,322,False,normal,109,False,2.4,flat,3.0,reversable defect,Unknown
-53,Female,non-anginal pain,128,216,False,normal,115,False,0.0,downsloping,0.0,normal,Unknown
-37,Female,non-anginal pain,120,215,False,st-t wave abnormality,170,False,0.0,downsloping,0.0,reversable defect,Unknown
-63,Female,typical angina,108,269,False,st-t wave abnormality,169,True,1.8,flat,2.0,reversable defect,Unknown
-37,Male,non-anginal pain,130,250,False,st-t wave abnormality,187,False,3.5,upsloping,0.0,reversable defect,Unknown
-54,Female,non-anginal pain,110,214,False,st-t wave abnormality,158,False,1.6,flat,0.0,reversable defect,Unknown
-60,Male,typical angina,130,206,False,normal,132,True,2.4,flat,2.0,reversable defect,Unknown
-58,Male,typical angina,150,270,False,normal,111,True,0.8,downsloping,0.0,reversable defect,Unknown
-57,Male,non-anginal pain,150,126,True,st-t wave abnormality,173,False,0.2,downsloping,1.0,reversable defect,Unknown
-54,Male,non-anginal pain,125,273,False,normal,152,False,0.5,upsloping,1.0,reversable defect,Unknown
-56,Male,non-anginal pain,130,256,True,normal,142,True,0.6,flat,1.0,fixed defect,Unknown
-60,Male,typical angina,130,253,False,st-t wave abnormality,144,True,1.4,downsloping,1.0,reversable defect,Unknown
-38,Male,non-anginal pain,138,175,False,st-t wave abnormality,173,False,0.0,downsloping,4.0,reversable defect,Unknown
-44,Male,non-anginal pain,120,226,False,st-t wave abnormality,169,False,0.0,downsloping,0.0,reversable defect,Unknown
-65,Female,non-anginal pain,155,269,False,st-t wave abnormality,148,False,0.8,downsloping,0.0,reversable defect,Unknown
-52,Male,non-anginal pain,172,199,True,st-t wave abnormality,162,False,0.5,downsloping,0.0,reversable defect,Unknown
-41,Male,atypical angina,120,157,False,st-t wave abnormality,182,False,0.0,downsloping,0.0,reversable defect,Unknown
-66,Male,atypical angina,160,246,False,st-t wave abnormality,120,True,0.0,flat,3.0,fixed defect,Unknown
-50,Male,typical angina,150,243,False,normal,128,False,2.6,flat,0.0,reversable defect,Unknown
-54,Female,non-anginal pain,108,267,False,normal,167,False,0.0,downsloping,0.0,reversable defect,Unknown
-43,Male,typical angina,132,247,True,normal,143,True,0.1,flat,4.0,reversable defect,Unknown
-62,Female,non-anginal pain,130,263,False,st-t wave abnormality,97,False,1.2,flat,1.0,reversable defect,Unknown
-66,Male,typical angina,120,302,False,normal,151,False,0.4,flat,0.0,reversable defect,Unknown
-50,Male,typical angina,144,200,False,normal,126,True,0.9,flat,0.0,reversable defect,Unknown
-57,Male,typical angina,110,335,False,st-t wave abnormality,143,True,3.0,flat,1.0,reversable defect,Unknown
-57,Male,typical angina,110,201,False,st-t wave abnormality,126,True,1.5,flat,0.0,fixed defect,Unknown
-57,Male,atypical angina,124,261,False,st-t wave abnormality,141,False,0.3,downsloping,0.0,reversable defect,Unknown
-46,Female,typical angina,138,243,False,normal,152,True,0.0,flat,0.0,reversable defect,Unknown
-59,Male,typical angina,164,176,True,normal,90,False,1.0,flat,2.0,fixed defect,Unknown
-67,Male,typical angina,160,286,False,normal,108,True,1.5,flat,3.0,reversable defect,Unknown
-59,Male,asymptomatic,134,204,False,st-t wave abnormality,162,False,0.8,downsloping,2.0,reversable defect,Unknown
-53,Female,non-anginal pain,128,216,False,normal,115,False,0.0,downsloping,0.0,normal,Unknown
-48,Male,typical angina,122,222,False,normal,186,False,0.0,downsloping,0.0,reversable defect,Unknown
-62,Male,non-anginal pain,130,231,False,st-t wave abnormality,146,False,1.8,flat,3.0,reversable defect,Unknown
-43,Female,non-anginal pain,122,213,False,st-t wave abnormality,165,False,0.2,flat,0.0,reversable defect,Unknown
-53,Male,non-anginal pain,130,246,True,normal,173,False,0.0,downsloping,3.0,reversable defect,Unknown
-57,Female,atypical angina,130,236,False,normal,174,False,0.0,flat,1.0,reversable defect,Unknown
-53,Male,non-anginal pain,130,246,True,normal,173,False,0.0,downsloping,3.0,reversable defect,Unknown
-58,Male,non-anginal pain,112,230,False,normal,165,False,2.5,flat,1.0,reversable defect,Unknown
-48,Male,atypical angina,110,229,False,st-t wave abnormality,168,False,1.0,upsloping,0.0,reversable defect,Unknown
-58,Male,non-anginal pain,105,240,False,normal,154,True,0.6,flat,0.0,reversable defect,Unknown
-51,Male,non-anginal pain,110,175,False,st-t wave abnormality,123,False,0.6,downsloping,0.0,reversable defect,Unknown
-43,Female,typical angina,132,341,True,normal,136,True,3.0,flat,0.0,reversable defect,Unknown
-55,Male,typical angina,132,353,False,st-t wave abnormality,132,True,1.2,flat,1.0,reversable defect,Unknown
-54,Female,non-anginal pain,110,214,False,st-t wave abnormality,158,False,1.6,flat,0.0,reversable defect,Unknown
-58,Male,atypical angina,120,284,False,normal,160,False,1.8,flat,0.0,reversable defect,Unknown
-46,Female,non-anginal pain,142,177,False,normal,160,True,1.4,upsloping,0.0,reversable defect,Unknown
-66,Male,typical angina,160,228,False,normal,138,False,2.3,downsloping,0.0,fixed defect,Unknown
-59,Male,atypical angina,140,221,False,st-t wave abnormality,164,True,0.0,downsloping,0.0,reversable defect,Unknown
-64,Female,typical angina,130,303,False,st-t wave abnormality,122,False,2.0,flat,2.0,reversable defect,Unknown
-67,Male,typical angina,120,237,False,st-t wave abnormality,71,False,1.0,flat,0.0,reversable defect,Unknown
-52,Male,asymptomatic,118,186,False,normal,190,False,0.0,flat,0.0,fixed defect,Unknown
-58,Male,typical angina,146,218,False,st-t wave abnormality,105,False,2.0,flat,1.0,reversable defect,Unknown
-58,Male,non-anginal pain,132,224,False,normal,173,False,3.2,downsloping,2.0,reversable defect,Unknown
-59,Male,typical angina,110,239,False,normal,142,True,1.2,flat,1.0,reversable defect,Unknown
-58,Male,typical angina,150,270,False,normal,111,True,0.8,downsloping,0.0,reversable defect,Unknown
-35,Male,typical angina,126,282,False,normal,156,True,0.0,downsloping,0.0,reversable defect,Unknown
-51,Male,non-anginal pain,110,175,False,st-t wave abnormality,123,False,0.6,downsloping,0.0,reversable defect,Unknown
-42,Female,non-anginal pain,120,209,False,st-t wave abnormality,173,False,0.0,flat,0.0,reversable defect,Unknown
-77,Male,typical angina,125,304,False,normal,162,True,0.0,downsloping,3.0,reversable defect,Unknown
-64,Male,typical angina,120,246,False,normal,96,True,2.2,upsloping,1.0,reversable defect,Unknown
-63,Male,asymptomatic,145,233,True,normal,150,False,2.3,upsloping,0.0,fixed defect,Unknown
-58,Female,atypical angina,136,319,True,normal,152,False,0.0,downsloping,2.0,reversable defect,Unknown
-45,Male,asymptomatic,110,264,False,st-t wave abnormality,132,False,1.2,flat,0.0,reversable defect,Unknown
-51,Male,non-anginal pain,110,175,False,st-t wave abnormality,123,False,0.6,downsloping,0.0,reversable defect,Unknown
-62,Female,typical angina,160,164,False,normal,145,False,6.2,upsloping,3.0,reversable defect,Unknown
-63,Male,typical angina,130,330,True,normal,132,True,1.8,downsloping,3.0,reversable defect,Unknown
-66,Female,non-anginal pain,146,278,False,normal,152,False,0.0,flat,1.0,reversable defect,Unknown
-68,Male,non-anginal pain,180,274,True,normal,150,True,1.6,flat,0.0,reversable defect,Unknown
-40,Male,typical angina,110,167,False,normal,114,True,2.0,flat,0.0,reversable defect,Unknown
-66,Male,typical angina,160,228,False,normal,138,False,2.3,downsloping,0.0,fixed defect,Unknown
-63,Male,asymptomatic,145,233,True,normal,150,False,2.3,upsloping,0.0,fixed defect,Unknown
-49,Male,non-anginal pain,120,188,False,st-t wave abnormality,139,False,2.0,flat,3.0,reversable defect,Unknown
-71,Female,typical angina,112,149,False,st-t wave abnormality,125,False,1.6,flat,0.0,reversable defect,Unknown
-70,Male,atypical angina,156,245,False,normal,143,False,0.0,downsloping,0.0,reversable defect,Unknown
-46,Female,atypical angina,105,204,False,st-t wave abnormality,172,False,0.0,downsloping,0.0,reversable defect,Unknown
-61,Male,typical angina,140,207,False,normal,138,True,1.9,downsloping,1.0,reversable defect,Unknown
-56,Male,non-anginal pain,130,256,True,normal,142,True,0.6,flat,1.0,fixed defect,Unknown
-58,Male,non-anginal pain,140,211,True,normal,165,False,0.0,downsloping,0.0,reversable defect,Unknown
-58,Male,typical angina,100,234,False,st-t wave abnormality,156,False,0.1,downsloping,1.0,reversable defect,Unknown
-46,Female,typical angina,138,243,False,normal,152,True,0.0,flat,0.0,reversable defect,Unknown
-46,Male,non-anginal pain,150,231,False,st-t wave abnormality,147,False,3.6,flat,0.0,reversable defect,Unknown
-41,Female,atypical angina,105,198,False,st-t wave abnormality,168,False,0.0,downsloping,1.0,reversable defect,Unknown
-56,Male,typical angina,125,249,True,normal,144,True,1.2,flat,1.0,reversable defect,Unknown
-57,Male,typical angina,150,276,False,normal,112,True,0.6,flat,1.0,fixed defect,Unknown
-70,Male,typical angina,130,322,False,normal,109,False,2.4,flat,3.0,reversable defect,Unknown
-59,Male,asymptomatic,170,288,False,normal,159,False,0.2,flat,0.0,reversable defect,Unknown
-41,Female,atypical angina,130,204,False,normal,172,False,1.4,downsloping,0.0,reversable defect,Unknown
-54,Male,non-anginal pain,125,273,False,normal,152,False,0.5,upsloping,1.0,reversable defect,Unknown
-52,Male,non-anginal pain,138,223,False,st-t wave abnormality,169,False,0.0,downsloping,4.0,reversable defect,Unknown
-62,Female,typical angina,124,209,False,st-t wave abnormality,163,False,0.0,downsloping,0.0,reversable defect,Unknown
-65,Female,non-anginal pain,160,360,False,normal,151,False,0.8,downsloping,0.0,reversable defect,Unknown
-57,Female,typical angina,128,303,False,normal,159,False,0.0,downsloping,1.0,reversable defect,Unknown
-42,Female,typical angina,102,265,False,normal,122,False,0.6,flat,0.0,reversable defect,Unknown
-57,Female,typical angina,120,354,False,st-t wave abnormality,163,True,0.6,downsloping,0.0,reversable defect,Unknown
-58,Female,atypical angina,136,319,True,normal,152,False,0.0,downsloping,2.0,reversable defect,Unknown
-45,Male,typical angina,142,309,False,normal,147,True,0.0,flat,3.0,reversable defect,Unknown
-51,Female,typical angina,130,305,False,st-t wave abnormality,142,True,1.2,flat,0.0,reversable defect,Unknown
-54,Female,non-anginal pain,160,201,False,st-t wave abnormality,163,False,0.0,downsloping,1.0,reversable defect,Unknown
-57,Male,non-anginal pain,150,168,False,st-t wave abnormality,174,False,1.6,downsloping,0.0,reversable defect,Unknown
-43,Male,typical angina,132,247,True,normal,143,True,0.1,flat,4.0,reversable defect,Unknown
-47,Male,non-anginal pain,108,243,False,st-t wave abnormality,152,False,0.0,downsloping,0.0,reversable defect,Unknown
-67,Male,non-anginal pain,152,212,False,normal,150,False,0.8,flat,0.0,reversable defect,Unknown
-65,Female,typical angina,150,225,False,normal,114,False,1.0,flat,3.0,reversable defect,Unknown
-60,Female,non-anginal pain,102,318,False,st-t wave abnormality,160,False,0.0,downsloping,1.0,reversable defect,Unknown
-37,Male,non-anginal pain,130,250,False,st-t wave abnormality,187,False,3.5,upsloping,0.0,reversable defect,Unknown
-41,Female,non-anginal pain,112,268,False,normal,172,True,0.0,downsloping,0.0,reversable defect,Unknown
-57,Female,typical angina,120,354,False,st-t wave abnormality,163,True,0.6,downsloping,0.0,reversable defect,Unknown
-59,Female,typical angina,174,249,False,st-t wave abnormality,143,True,0.0,flat,0.0,reversable defect,Unknown
-67,Male,typical angina,120,229,False,normal,129,True,2.6,flat,2.0,reversable defect,Unknown
-47,Male,non-anginal pain,130,253,False,st-t wave abnormality,179,False,0.0,downsloping,0.0,reversable defect,Unknown
-58,Male,atypical angina,120,284,False,normal,160,False,1.8,flat,0.0,reversable defect,Unknown
-62,Female,typical angina,150,244,False,st-t wave abnormality,154,True,1.4,flat,0.0,reversable defect,Unknown
-60,Male,typical angina,140,293,False,normal,170,False,1.2,flat,2.0,reversable defect,Unknown
-57,Male,typical angina,152,274,False,st-t wave abnormality,88,True,1.2,flat,1.0,reversable defect,Unknown
-57,Male,non-anginal pain,150,168,False,st-t wave abnormality,174,False,1.6,downsloping,0.0,reversable defect,Unknown
-47,Male,non-anginal pain,130,253,False,st-t wave abnormality,179,False,0.0,downsloping,0.0,reversable defect,Unknown
-52,Male,atypical angina,128,205,True,st-t wave abnormality,184,False,0.0,downsloping,0.0,reversable defect,Unknown
-53,Male,non-anginal pain,130,246,True,normal,173,False,0.0,downsloping,3.0,reversable defect,Unknown
-55,Male,typical angina,160,289,False,normal,145,True,0.8,flat,1.0,reversable defect,Unknown
-51,Female,non-anginal pain,120,295,False,normal,157,False,0.6,downsloping,0.0,reversable defect,Unknown
-52,Male,typical angina,112,230,False,st-t wave abnormality,160,False,0.0,downsloping,1.0,reversable defect,Unknown
-63,Female,typical angina,150,407,False,normal,154,False,4.0,flat,3.0,reversable defect,Unknown
-49,Female,atypical angina,134,271,False,st-t wave abnormality,162,False,0.0,flat,0.0,reversable defect,Unknown
-66,Female,typical angina,178,228,True,st-t wave abnormality,165,True,1.0,flat,2.0,reversable defect,Unknown
-49,Female,atypical angina,134,271,False,st-t wave abnormality,162,False,0.0,flat,0.0,reversable defect,Unknown
-65,Female,typical angina,150,225,False,normal,114,False,1.0,flat,3.0,reversable defect,Unknown
-69,Male,asymptomatic,160,234,True,normal,131,False,0.1,flat,1.0,reversable defect,Unknown
-47,Male,non-anginal pain,108,243,False,st-t wave abnormality,152,False,0.0,downsloping,0.0,reversable defect,Unknown
-39,Female,non-anginal pain,138,220,False,st-t wave abnormality,152,False,0.0,flat,0.0,reversable defect,Unknown
-43,Male,typical angina,150,247,False,st-t wave abnormality,171,False,1.5,downsloping,0.0,reversable defect,Unknown
-51,Male,typical angina,140,261,False,normal,186,True,0.0,downsloping,0.0,reversable defect,Unknown
-69,Male,non-anginal pain,140,254,False,normal,146,False,2.0,flat,3.0,reversable defect,Unknown
-48,Male,non-anginal pain,124,255,True,st-t wave abnormality,175,False,0.0,downsloping,2.0,reversable defect,Unknown
-52,Male,asymptomatic,118,186,False,normal,190,False,0.0,flat,0.0,fixed defect,Unknown
-43,Male,typical angina,110,211,False,st-t wave abnormality,161,False,0.0,downsloping,0.0,reversable defect,Unknown
-67,Female,non-anginal pain,115,564,False,normal,160,False,1.6,flat,0.0,reversable defect,Unknown
-38,Male,non-anginal pain,138,175,False,st-t wave abnormality,173,False,0.0,downsloping,4.0,reversable defect,Unknown
-44,Male,atypical angina,130,219,False,normal,188,False,0.0,downsloping,0.0,reversable defect,Unknown
-47,Male,typical angina,110,275,False,normal,118,True,1.0,flat,1.0,reversable defect,Unknown
-61,Male,non-anginal pain,150,243,True,st-t wave abnormality,137,True,1.0,flat,0.0,reversable defect,Unknown
-67,Male,typical angina,160,286,False,normal,108,True,1.5,flat,3.0,reversable defect,Unknown
-60,Female,asymptomatic,150,240,False,st-t wave abnormality,171,False,0.9,downsloping,0.0,reversable defect,Unknown
-64,Female,non-anginal pain,140,313,False,st-t wave abnormality,133,False,0.2,downsloping,0.0,reversable defect,Unknown
-58,Female,typical angina,130,197,False,st-t wave abnormality,131,False,0.6,flat,0.0,reversable defect,Unknown
-41,Male,non-anginal pain,130,214,False,normal,168,False,2.0,flat,0.0,reversable defect,Unknown
-48,Male,atypical angina,110,229,False,st-t wave abnormality,168,False,1.0,upsloping,0.0,reversable defect,Unknown
-57,Male,non-anginal pain,150,126,True,st-t wave abnormality,173,False,0.2,downsloping,1.0,reversable defect,Unknown
-57,Male,typical angina,165,289,True,normal,124,False,1.0,flat,3.0,reversable defect,Unknown
-57,Male,non-anginal pain,128,229,False,normal,150,False,0.4,flat,1.0,reversable defect,Unknown
-39,Male,non-anginal pain,140,321,False,normal,182,False,0.0,downsloping,0.0,reversable defect,Unknown
-58,Male,typical angina,128,216,False,normal,131,True,2.2,flat,3.0,reversable defect,Unknown
-51,Female,typical angina,130,305,False,st-t wave abnormality,142,True,1.2,flat,0.0,reversable defect,Unknown
-63,Female,typical angina,150,407,False,normal,154,False,4.0,flat,3.0,reversable defect,Unknown
-51,Male,typical angina,140,298,False,st-t wave abnormality,122,True,4.2,flat,3.0,reversable defect,Unknown
-35,Male,atypical angina,122,192,False,st-t wave abnormality,174,False,0.0,downsloping,0.0,reversable defect,Unknown
-65,Male,typical angina,110,248,False,normal,158,False,0.6,downsloping,2.0,fixed defect,Unknown
-62,Male,atypical angina,120,281,False,normal,103,False,1.4,flat,1.0,reversable defect,Unknown
-41,Male,typical angina,110,172,False,normal,158,False,0.0,downsloping,0.0,reversable defect,Unknown
-65,Male,typical angina,135,254,False,normal,127,False,2.8,flat,1.0,reversable defect,Unknown
-54,Female,atypical angina,132,288,True,normal,159,True,0.0,downsloping,1.0,reversable defect,Unknown
-61,Male,non-anginal pain,150,243,True,st-t wave abnormality,137,True,1.0,flat,0.0,reversable defect,Unknown
-57,Female,typical angina,128,303,False,normal,159,False,0.0,downsloping,1.0,reversable defect,Unknown
-57,Male,non-anginal pain,150,168,False,st-t wave abnormality,174,False,1.6,downsloping,0.0,reversable defect,Unknown
-64,Male,non-anginal pain,125,309,False,st-t wave abnormality,131,True,1.8,flat,0.0,reversable defect,Unknown
-55,Male,typical angina,132,353,False,st-t wave abnormality,132,True,1.2,flat,1.0,reversable defect,Unknown
-51,Male,non-anginal pain,125,245,True,normal,166,False,2.4,flat,0.0,reversable defect,Unknown
-59,Male,typical angina,135,234,False,st-t wave abnormality,161,False,0.5,flat,0.0,reversable defect,Unknown
-68,Male,non-anginal pain,180,274,True,normal,150,True,1.6,flat,0.0,reversable defect,Unknown
-57,Male,atypical angina,154,232,False,normal,164,False,0.0,downsloping,1.0,reversable defect,Unknown
-54,Male,typical angina,140,239,False,st-t wave abnormality,160,False,1.2,downsloping,0.0,reversable defect,Unknown
-46,Female,non-anginal pain,142,177,False,normal,160,True,1.4,upsloping,0.0,reversable defect,Unknown
-71,Female,typical angina,112,149,False,st-t wave abnormality,125,False,1.6,flat,0.0,reversable defect,Unknown
-35,Female,typical angina,138,183,False,st-t wave abnormality,182,False,1.4,downsloping,0.0,reversable defect,Unknown
-46,Female,non-anginal pain,142,177,False,normal,160,True,1.4,upsloping,0.0,reversable defect,Unknown
-45,Female,atypical angina,130,234,False,normal,175,False,0.6,flat,0.0,reversable defect,Unknown
-47,Male,non-anginal pain,108,243,False,st-t wave abnormality,152,False,0.0,downsloping,0.0,reversable defect,Unknown
-44,Female,non-anginal pain,118,242,False,st-t wave abnormality,149,False,0.3,flat,1.0,reversable defect,Unknown
-61,Male,typical angina,120,260,False,st-t wave abnormality,140,True,3.6,flat,1.0,reversable defect,Unknown
-41,Female,atypical angina,130,204,False,normal,172,False,1.4,downsloping,0.0,reversable defect,Unknown
-56,Female,typical angina,200,288,True,normal,133,True,4.0,upsloping,2.0,reversable defect,Unknown
-55,Female,typical angina,180,327,False,left ventricular hypertrophy,117,True,3.4,flat,0.0,reversable defect,Unknown
-54,Female,atypical angina,132,288,True,normal,159,True,0.0,downsloping,1.0,reversable defect,Unknown
-43,Male,typical angina,120,177,False,normal,120,True,2.5,flat,0.0,reversable defect,Unknown
-44,Male,typical angina,112,290,False,normal,153,False,0.0,downsloping,1.0,reversable defect,Unknown
-54,Male,typical angina,110,206,False,normal,108,True,0.0,flat,1.0,reversable defect,Unknown
-44,Male,atypical angina,120,220,False,st-t wave abnormality,170,False,0.0,downsloping,0.0,reversable defect,Unknown
-49,Male,non-anginal pain,120,188,False,st-t wave abnormality,139,False,2.0,flat,3.0,reversable defect,Unknown
-60,Male,typical angina,130,206,False,normal,132,True,2.4,flat,2.0,reversable defect,Unknown
-41,Female,atypical angina,105,198,False,st-t wave abnormality,168,False,0.0,downsloping,1.0,reversable defect,Unknown
-49,Male,non-anginal pain,120,188,False,st-t wave abnormality,139,False,2.0,flat,3.0,reversable defect,Unknown
-61,Male,typical angina,148,203,False,st-t wave abnormality,161,False,0.0,downsloping,1.0,reversable defect,Unknown
-59,Male,typical angina,140,177,False,st-t wave abnormality,162,True,0.0,downsloping,1.0,reversable defect,Unknown
-58,Male,atypical angina,125,220,False,st-t wave abnormality,144,False,0.4,flat,4.0,reversable defect,Unknown
-67,Female,non-anginal pain,152,277,False,st-t wave abnormality,172,False,0.0,downsloping,1.0,reversable defect,Unknown
-61,Male,typical angina,148,203,False,st-t wave abnormality,161,False,0.0,downsloping,1.0,reversable defect,Unknown
-58,Male,non-anginal pain,112,230,False,normal,165,False,2.5,flat,1.0,reversable defect,Unknown
-51,Female,non-anginal pain,130,256,False,normal,149,False,0.5,downsloping,0.0,reversable defect,Unknown
-62,Female,typical angina,160,164,False,normal,145,False,6.2,upsloping,3.0,reversable defect,Unknown
-62,Female,typical angina,124,209,False,st-t wave abnormality,163,False,0.0,downsloping,0.0,reversable defect,Unknown
-59,Male,asymptomatic,178,270,False,normal,145,False,4.2,upsloping,0.0,reversable defect,Unknown
-69,Male,asymptomatic,160,234,True,normal,131,False,0.1,flat,1.0,reversable defect,Unknown
-60,Female,typical angina,150,258,False,normal,157,False,2.6,flat,2.0,reversable defect,Unknown
-65,Female,non-anginal pain,155,269,False,st-t wave abnormality,148,False,0.8,downsloping,0.0,reversable defect,Unknown
-63,Female,typical angina,124,197,False,st-t wave abnormality,136,True,0.0,flat,0.0,reversable defect,Unknown
-53,Female,typical angina,138,234,False,normal,160,False,0.0,downsloping,0.0,reversable defect,Unknown
-54,Female,non-anginal pain,108,267,False,normal,167,False,0.0,downsloping,0.0,reversable defect,Unknown
-76,Female,non-anginal pain,140,197,False,left ventricular hypertrophy,116,False,1.1,flat,0.0,reversable defect,Unknown
-50,Female,non-anginal pain,120,219,False,st-t wave abnormality,158,False,1.6,flat,0.0,reversable defect,Unknown
-52,Male,atypical angina,120,325,False,st-t wave abnormality,172,False,0.2,downsloping,0.0,reversable defect,Unknown
-46,Male,typical angina,120,249,False,normal,144,False,0.8,downsloping,0.0,reversable defect,Unknown
-64,Male,asymptomatic,170,227,False,normal,155,False,0.6,flat,0.0,reversable defect,Unknown
-58,Male,typical angina,128,259,False,normal,130,True,3.0,flat,2.0,reversable defect,Unknown
-44,Male,non-anginal pain,140,235,False,normal,180,False,0.0,downsloping,0.0,reversable defect,Unknown
-62,Female,typical angina,140,394,False,normal,157,False,1.2,flat,0.0,reversable defect,Unknown
-59,Male,asymptomatic,134,204,False,st-t wave abnormality,162,False,0.8,downsloping,2.0,reversable defect,Unknown
-54,Male,non-anginal pain,125,273,False,normal,152,False,0.5,upsloping,1.0,reversable defect,Unknown
-48,Male,atypical angina,110,229,False,st-t wave abnormality,168,False,1.0,upsloping,0.0,reversable defect,Unknown
-70,Male,typical angina,130,322,False,normal,109,False,2.4,flat,3.0,reversable defect,Unknown
-67,Female,typical angina,106,223,False,st-t wave abnormality,142,False,0.3,downsloping,2.0,reversable defect,Unknown
-51,Female,non-anginal pain,120,295,False,normal,157,False,0.6,downsloping,0.0,reversable defect,Unknown
-68,Male,non-anginal pain,118,277,False,st-t wave abnormality,151,False,1.0,downsloping,1.0,reversable defect,Unknown
-69,Male,non-anginal pain,140,254,False,normal,146,False,2.0,flat,3.0,reversable defect,Unknown
-54,Male,typical angina,122,286,False,normal,116,True,3.2,flat,2.0,reversable defect,Unknown
-43,Female,typical angina,132,341,True,normal,136,True,3.0,flat,0.0,reversable defect,Unknown
-53,Male,non-anginal pain,130,197,True,normal,152,False,1.2,upsloping,0.0,reversable defect,Unknown
-58,Male,typical angina,100,234,False,st-t wave abnormality,156,False,0.1,downsloping,1.0,reversable defect,Unknown
-67,Male,typical angina,125,254,True,st-t wave abnormality,163,False,0.2,flat,2.0,reversable defect,Unknown
-59,Male,typical angina,140,177,False,st-t wave abnormality,162,True,0.0,downsloping,1.0,reversable defect,Unknown
-48,Male,typical angina,122,222,False,normal,186,False,0.0,downsloping,0.0,reversable defect,Unknown
-39,Female,non-anginal pain,94,199,False,st-t wave abnormality,179,False,0.0,downsloping,0.0,reversable defect,Unknown
-67,Male,typical angina,120,237,False,st-t wave abnormality,71,False,1.0,flat,0.0,reversable defect,Unknown
-58,Female,typical angina,130,197,False,st-t wave abnormality,131,False,0.6,flat,0.0,reversable defect,Unknown
-65,Female,non-anginal pain,155,269,False,st-t wave abnormality,148,False,0.8,downsloping,0.0,reversable defect,Unknown
-42,Female,non-anginal pain,120,209,False,st-t wave abnormality,173,False,0.0,flat,0.0,reversable defect,Unknown
-44,Male,typical angina,112,290,False,normal,153,False,0.0,downsloping,1.0,reversable defect,Unknown
-56,Male,typical angina,132,184,False,normal,105,True,2.1,flat,1.0,fixed defect,Unknown
-53,Female,typical angina,138,234,False,normal,160,False,0.0,downsloping,0.0,reversable defect,Unknown
-50,Female,typical angina,110,254,False,normal,159,False,0.0,downsloping,0.0,reversable defect,Unknown
-41,Male,non-anginal pain,130,214,False,normal,168,False,2.0,flat,0.0,reversable defect,Unknown
-54,Female,non-anginal pain,160,201,False,st-t wave abnormality,163,False,0.0,downsloping,1.0,reversable defect,Unknown
-42,Male,non-anginal pain,120,240,True,st-t wave abnormality,194,False,0.8,upsloping,0.0,reversable defect,Unknown
-54,Female,non-anginal pain,135,304,True,st-t wave abnormality,170,False,0.0,downsloping,0.0,reversable defect,Unknown
-60,Male,typical angina,145,282,False,normal,142,True,2.8,flat,2.0,reversable defect,Unknown
-34,Male,asymptomatic,118,182,False,normal,174,False,0.0,downsloping,0.0,reversable defect,Unknown
-44,Male,typical angina,112,290,False,normal,153,False,0.0,downsloping,1.0,reversable defect,Unknown
-60,Male,typical angina,125,258,False,normal,141,True,2.8,flat,1.0,reversable defect,Unknown
-43,Male,typical angina,150,247,False,st-t wave abnormality,171,False,1.5,downsloping,0.0,reversable defect,Unknown
-52,Male,asymptomatic,152,298,True,st-t wave abnormality,178,False,1.2,flat,0.0,reversable defect,Unknown
-70,Male,typical angina,130,322,False,normal,109,False,2.4,flat,3.0,reversable defect,Unknown
-62,Female,typical angina,140,394,False,normal,157,False,1.2,flat,0.0,reversable defect,Unknown
-58,Male,typical angina,146,218,False,st-t wave abnormality,105,False,2.0,flat,1.0,reversable defect,Unknown
-46,Male,atypical angina,101,197,True,st-t wave abnormality,156,False,0.0,downsloping,0.0,reversable defect,Unknown
-44,Male,non-anginal pain,140,235,False,normal,180,False,0.0,downsloping,0.0,reversable defect,Unknown
-55,Male,atypical angina,130,262,False,st-t wave abnormality,155,False,0.0,downsloping,0.0,reversable defect,Unknown
-43,Male,typical angina,120,177,False,normal,120,True,2.5,flat,0.0,reversable defect,Unknown
-55,Male,typical angina,132,353,False,st-t wave abnormality,132,True,1.2,flat,1.0,reversable defect,Unknown
-40,Male,asymptomatic,140,199,False,st-t wave abnormality,178,True,1.4,downsloping,0.0,reversable defect,Unknown
-64,Male,non-anginal pain,125,309,False,st-t wave abnormality,131,True,1.8,flat,0.0,reversable defect,Unknown
-59,Male,typical angina,164,176,True,normal,90,False,1.0,flat,2.0,fixed defect,Unknown
-61,Female,typical angina,145,307,False,normal,146,True,1.0,flat,0.0,reversable defect,Unknown
-54,Male,typical angina,122,286,False,normal,116,True,3.2,flat,2.0,reversable defect,Unknown
-74,Female,atypical angina,120,269,False,normal,121,True,0.2,downsloping,1.0,reversable defect,Unknown
-63,Female,typical angina,108,269,False,st-t wave abnormality,169,True,1.8,flat,2.0,reversable defect,Unknown
-70,Male,non-anginal pain,160,269,False,st-t wave abnormality,112,True,2.9,flat,1.0,reversable defect,Unknown
-63,Female,typical angina,108,269,False,st-t wave abnormality,169,True,1.8,flat,2.0,reversable defect,Unknown
-64,Male,typical angina,145,212,False,normal,132,False,2.0,flat,2.0,fixed defect,Unknown
-61,Male,typical angina,148,203,False,st-t wave abnormality,161,False,0.0,downsloping,1.0,reversable defect,Unknown
-59,Male,atypical angina,140,221,False,st-t wave abnormality,164,True,0.0,downsloping,0.0,reversable defect,Unknown
-38,Male,non-anginal pain,138,175,False,st-t wave abnormality,173,False,0.0,downsloping,4.0,reversable defect,Unknown
-58,Male,atypical angina,120,284,False,normal,160,False,1.8,flat,0.0,reversable defect,Unknown
-63,Female,atypical angina,140,195,False,st-t wave abnormality,179,False,0.0,downsloping,2.0,reversable defect,Unknown
-62,Female,non-anginal pain,130,263,False,st-t wave abnormality,97,False,1.2,flat,1.0,reversable defect,Unknown
-46,Male,typical angina,140,311,False,st-t wave abnormality,120,True,1.8,flat,2.0,reversable defect,Unknown
-58,Female,non-anginal pain,120,340,False,st-t wave abnormality,172,False,0.0,downsloping,0.0,reversable defect,Unknown
-63,Female,atypical angina,140,195,False,st-t wave abnormality,179,False,0.0,downsloping,2.0,reversable defect,Unknown
-47,Male,non-anginal pain,130,253,False,st-t wave abnormality,179,False,0.0,downsloping,0.0,reversable defect,Unknown
-71,Female,non-anginal pain,110,265,True,normal,130,False,0.0,downsloping,1.0,reversable defect,Unknown
-66,Male,typical angina,112,212,False,normal,132,True,0.1,downsloping,1.0,reversable defect,Unknown
-42,Male,typical angina,136,315,False,st-t wave abnormality,125,True,1.8,flat,0.0,fixed defect,Unknown
-64,Male,typical angina,145,212,False,normal,132,False,2.0,flat,2.0,fixed defect,Unknown
-55,Female,typical angina,180,327,False,left ventricular hypertrophy,117,True,3.4,flat,0.0,reversable defect,Unknown
-43,Female,typical angina,132,341,True,normal,136,True,3.0,flat,0.0,reversable defect,Unknown
-55,Female,typical angina,128,205,False,left ventricular hypertrophy,130,True,2.0,flat,1.0,reversable defect,Unknown
-58,Female,typical angina,170,225,True,normal,146,True,2.8,flat,2.0,fixed defect,Unknown
-55,Male,typical angina,140,217,False,st-t wave abnormality,111,True,5.6,upsloping,0.0,reversable defect,Unknown
-51,Female,typical angina,130,305,False,st-t wave abnormality,142,True,1.2,flat,0.0,reversable defect,Unknown
-50,Female,non-anginal pain,120,219,False,st-t wave abnormality,158,False,1.6,flat,0.0,reversable defect,Unknown
-43,Male,typical angina,115,303,False,st-t wave abnormality,181,False,1.2,flat,0.0,reversable defect,Unknown
-41,Female,atypical angina,126,306,False,st-t wave abnormality,163,False,0.0,downsloping,0.0,reversable defect,Unknown
-49,Male,atypical angina,130,266,False,st-t wave abnormality,171,False,0.6,downsloping,0.0,reversable defect,Unknown
-65,Male,typical angina,110,248,False,normal,158,False,0.6,downsloping,2.0,fixed defect,Unknown
-57,Male,typical angina,152,274,False,st-t wave abnormality,88,True,1.2,flat,1.0,reversable defect,Unknown
-48,Male,typical angina,130,256,True,normal,150,True,0.0,downsloping,2.0,reversable defect,Unknown
-62,Female,typical angina,138,294,True,st-t wave abnormality,106,False,1.9,flat,3.0,reversable defect,Unknown
-61,Male,asymptomatic,134,234,False,st-t wave abnormality,145,False,2.6,flat,2.0,reversable defect,Unknown
-59,Male,asymptomatic,178,270,False,normal,145,False,4.2,upsloping,0.0,reversable defect,Unknown
-69,Male,non-anginal pain,140,254,False,normal,146,False,2.0,flat,3.0,reversable defect,Unknown
-58,Male,non-anginal pain,132,224,False,normal,173,False,3.2,downsloping,2.0,reversable defect,Unknown
-38,Male,asymptomatic,120,231,False,st-t wave abnormality,182,True,3.8,flat,0.0,reversable defect,Unknown
-69,Female,asymptomatic,140,239,False,st-t wave abnormality,151,False,1.8,downsloping,2.0,reversable defect,Unknown
-65,Male,asymptomatic,138,282,True,normal,174,False,1.4,flat,1.0,reversable defect,Unknown
-45,Male,asymptomatic,110,264,False,st-t wave abnormality,132,False,1.2,flat,0.0,reversable defect,Unknown
-49,Male,atypical angina,130,266,False,st-t wave abnormality,171,False,0.6,downsloping,0.0,reversable defect,Unknown
-45,Female,atypical angina,130,234,False,normal,175,False,0.6,flat,0.0,reversable defect,Unknown
-61,Male,typical angina,138,166,False,normal,125,True,3.6,flat,1.0,reversable defect,Unknown
-52,Male,typical angina,125,212,False,st-t wave abnormality,168,False,1.0,downsloping,2.0,reversable defect,Unknown
-53,Female,typical angina,130,264,False,normal,143,False,0.4,flat,0.0,reversable defect,Unknown
-59,Female,typical angina,174,249,False,st-t wave abnormality,143,True,0.0,flat,0.0,reversable defect,Unknown
-58,Female,non-anginal pain,120,340,False,st-t wave abnormality,172,False,0.0,downsloping,0.0,reversable defect,Unknown
-65,Male,asymptomatic,138,282,True,normal,174,False,1.4,flat,1.0,reversable defect,Unknown
-58,Female,typical angina,130,197,False,st-t wave abnormality,131,False,0.6,flat,0.0,reversable defect,Unknown
-46,Female,typical angina,138,243,False,normal,152,True,0.0,flat,0.0,reversable defect,Unknown
-56,Female,typical angina,134,409,False,normal,150,True,1.9,flat,2.0,reversable defect,Unknown
-64,Male,typical angina,128,263,False,st-t wave abnormality,105,True,0.2,flat,1.0,reversable defect,Unknown
-65,Male,typical angina,120,177,False,st-t wave abnormality,140,False,0.4,downsloping,0.0,reversable defect,Unknown
-44,Male,non-anginal pain,120,226,False,st-t wave abnormality,169,False,0.0,downsloping,0.0,reversable defect,Unknown
-50,Male,typical angina,150,243,False,normal,128,False,2.6,flat,0.0,reversable defect,Unknown
-47,Male,non-anginal pain,108,243,False,st-t wave abnormality,152,False,0.0,downsloping,0.0,reversable defect,Unknown
-64,Female,typical angina,130,303,False,st-t wave abnormality,122,False,2.0,flat,2.0,reversable defect,Unknown
-71,Female,typical angina,112,149,False,st-t wave abnormality,125,False,1.6,flat,0.0,reversable defect,Unknown
-45,Female,atypical angina,130,234,False,normal,175,False,0.6,flat,0.0,reversable defect,Unknown
-62,Male,typical angina,120,267,False,st-t wave abnormality,99,True,1.8,flat,2.0,reversable defect,Unknown
-41,Male,atypical angina,120,157,False,st-t wave abnormality,182,False,0.0,downsloping,0.0,reversable defect,Unknown
-66,Female,asymptomatic,150,226,False,st-t wave abnormality,114,False,2.6,upsloping,0.0,reversable defect,Unknown
-56,Male,typical angina,130,283,True,normal,103,True,1.6,upsloping,0.0,reversable defect,Unknown
-41,Female,atypical angina,126,306,False,st-t wave abnormality,163,False,0.0,downsloping,0.0,reversable defect,Unknown
-41,Male,atypical angina,110,235,False,st-t wave abnormality,153,False,0.0,downsloping,0.0,reversable defect,Unknown
-57,Female,atypical angina,130,236,False,normal,174,False,0.0,flat,1.0,reversable defect,Unknown
-39,Female,non-anginal pain,138,220,False,st-t wave abnormality,152,False,0.0,flat,0.0,reversable defect,Unknown
-64,Male,non-anginal pain,125,309,False,st-t wave abnormality,131,True,1.8,flat,0.0,reversable defect,Unknown
-59,Male,typical angina,138,271,False,normal,182,False,0.0,downsloping,0.0,reversable defect,Unknown
-61,Male,typical angina,138,166,False,normal,125,True,3.6,flat,1.0,reversable defect,Unknown
-58,Male,typical angina,114,318,False,left ventricular hypertrophy,140,False,4.4,upsloping,3.0,fixed defect,Unknown
-47,Male,typical angina,112,204,False,st-t wave abnormality,143,False,0.1,downsloping,0.0,reversable defect,Unknown
-58,Female,typical angina,100,248,False,normal,122,False,1.0,flat,0.0,reversable defect,Unknown
-66,Female,asymptomatic,150,226,False,st-t wave abnormality,114,False,2.6,upsloping,0.0,reversable defect,Unknown
-65,Female,non-anginal pain,140,417,True,normal,157,False,0.8,downsloping,1.0,reversable defect,Unknown
-35,Male,atypical angina,122,192,False,st-t wave abnormality,174,False,0.0,downsloping,0.0,reversable defect,Unknown
-57,Male,atypical angina,124,261,False,st-t wave abnormality,141,False,0.3,downsloping,0.0,reversable defect,Unknown
-29,Male,atypical angina,130,204,False,normal,202,False,0.0,downsloping,0.0,reversable defect,Unknown
-66,Male,atypical angina,160,246,False,st-t wave abnormality,120,True,0.0,flat,3.0,fixed defect,Unknown
-61,Female,typical angina,130,330,False,normal,169,False,0.0,downsloping,0.0,reversable defect,Unknown
-52,Male,typical angina,125,212,False,st-t wave abnormality,168,False,1.0,downsloping,2.0,reversable defect,Unknown
-68,Male,non-anginal pain,118,277,False,st-t wave abnormality,151,False,1.0,downsloping,1.0,reversable defect,Unknown
-54,Male,non-anginal pain,120,258,False,normal,147,False,0.4,flat,0.0,reversable defect,Unknown
-63,Male,typical angina,130,330,True,normal,132,True,1.8,downsloping,3.0,reversable defect,Unknown
-58,Male,typical angina,100,234,False,st-t wave abnormality,156,False,0.1,downsloping,1.0,reversable defect,Unknown
-60,Male,typical angina,130,253,False,st-t wave abnormality,144,True,1.4,downsloping,1.0,reversable defect,Unknown
-63,Male,typical angina,130,254,False,normal,147,False,1.4,flat,1.0,reversable defect,Unknown
-41,Female,non-anginal pain,112,268,False,normal,172,True,0.0,downsloping,0.0,reversable defect,Unknown
-68,Male,non-anginal pain,180,274,True,normal,150,True,1.6,flat,0.0,reversable defect,Unknown
-42,Male,atypical angina,120,295,False,st-t wave abnormality,162,False,0.0,downsloping,0.0,reversable defect,Unknown
-59,Male,typical angina,170,326,False,normal,140,True,3.4,upsloping,0.0,reversable defect,Unknown
-59,Male,typical angina,164,176,True,normal,90,False,1.0,flat,2.0,fixed defect,Unknown
-43,Male,typical angina,120,177,False,normal,120,True,2.5,flat,0.0,reversable defect,Unknown
-60,Male,non-anginal pain,140,185,False,normal,155,False,3.0,flat,0.0,reversable defect,Unknown
-63,Female,typical angina,150,407,False,normal,154,False,4.0,flat,3.0,reversable defect,Unknown
-52,Male,typical angina,128,204,True,st-t wave abnormality,156,True,1.0,flat,0.0,normal,Unknown
-58,Male,typical angina,125,300,False,normal,171,False,0.0,downsloping,2.0,reversable defect,Unknown
-56,Female,typical angina,200,288,True,normal,133,True,4.0,upsloping,2.0,reversable defect,Unknown
-54,Female,non-anginal pain,135,304,True,st-t wave abnormality,170,False,0.0,downsloping,0.0,reversable defect,Unknown
-58,Male,non-anginal pain,105,240,False,normal,154,True,0.6,flat,0.0,reversable defect,Unknown
-55,Female,atypical angina,135,250,False,normal,161,False,1.4,flat,0.0,reversable defect,Unknown
-53,Male,typical angina,140,203,True,normal,155,True,3.1,upsloping,0.0,reversable defect,Unknown
-63,Female,atypical angina,140,195,False,st-t wave abnormality,179,False,0.0,downsloping,2.0,reversable defect,Unknown
-39,Male,typical angina,118,219,False,st-t wave abnormality,140,False,1.2,flat,0.0,reversable defect,Unknown
-35,Male,typical angina,126,282,False,normal,156,True,0.0,downsloping,0.0,reversable defect,Unknown
-50,Female,non-anginal pain,120,219,False,st-t wave abnormality,158,False,1.6,flat,0.0,reversable defect,Unknown
-67,Male,non-anginal pain,152,212,False,normal,150,False,0.8,flat,0.0,reversable defect,Unknown
-66,Male,typical angina,112,212,False,normal,132,True,0.1,downsloping,1.0,reversable defect,Unknown
-35,Male,typical angina,126,282,False,normal,156,True,0.0,downsloping,0.0,reversable defect,Unknown
-41,Male,non-anginal pain,130,214,False,normal,168,False,2.0,flat,0.0,reversable defect,Unknown
-35,Male,typical angina,120,198,False,st-t wave abnormality,130,True,1.6,flat,0.0,reversable defect,Unknown
-71,Female,atypical angina,160,302,False,st-t wave abnormality,162,False,0.4,downsloping,2.0,reversable defect,Unknown
-57,Male,typical angina,110,201,False,st-t wave abnormality,126,True,1.5,flat,0.0,fixed defect,Unknown
-51,Male,non-anginal pain,94,227,False,st-t wave abnormality,154,True,0.0,downsloping,1.0,reversable defect,Unknown
-58,Male,typical angina,128,216,False,normal,131,True,2.2,flat,3.0,reversable defect,Unknown
-57,Male,non-anginal pain,128,229,False,normal,150,False,0.4,flat,1.0,reversable defect,Unknown
-56,Female,atypical angina,140,294,False,normal,153,False,1.3,flat,0.0,reversable defect,Unknown
-60,Female,non-anginal pain,120,178,True,st-t wave abnormality,96,False,0.0,downsloping,0.0,reversable defect,Unknown
-45,Male,asymptomatic,110,264,False,st-t wave abnormality,132,False,1.2,flat,0.0,reversable defect,Unknown
-56,Male,atypical angina,130,221,False,normal,163,False,0.0,downsloping,0.0,reversable defect,Unknown
-35,Male,typical angina,120,198,False,st-t wave abnormality,130,True,1.6,flat,0.0,reversable defect,Unknown
-45,Female,atypical angina,112,160,False,st-t wave abnormality,138,False,0.0,flat,0.0,reversable defect,Unknown
-66,Female,asymptomatic,150,226,False,st-t wave abnormality,114,False,2.6,upsloping,0.0,reversable defect,Unknown
-51,Male,asymptomatic,125,213,False,normal,125,True,1.4,downsloping,1.0,reversable defect,Unknown
-70,Male,atypical angina,156,245,False,normal,143,False,0.0,downsloping,0.0,reversable defect,Unknown
-55,Female,typical angina,128,205,False,left ventricular hypertrophy,130,True,2.0,flat,1.0,reversable defect,Unknown
-56,Male,non-anginal pain,130,256,True,normal,142,True,0.6,flat,1.0,fixed defect,Unknown
-55,Female,atypical angina,135,250,False,normal,161,False,1.4,flat,0.0,reversable defect,Unknown
-52,Male,typical angina,108,233,True,st-t wave abnormality,147,False,0.1,downsloping,3.0,reversable defect,Unknown
-64,Male,non-anginal pain,140,335,False,st-t wave abnormality,158,False,0.0,downsloping,0.0,reversable defect,Unknown
-45,Male,typical angina,115,260,False,normal,185,False,0.0,downsloping,0.0,reversable defect,Unknown
-67,Female,non-anginal pain,152,277,False,st-t wave abnormality,172,False,0.0,downsloping,1.0,reversable defect,Unknown
-68,Female,non-anginal pain,120,211,False,normal,115,False,1.5,flat,0.0,reversable defect,Unknown
-74,Female,atypical angina,120,269,False,normal,121,True,0.2,downsloping,1.0,reversable defect,Unknown
-60,Female,typical angina,150,258,False,normal,157,False,2.6,flat,2.0,reversable defect,Unknown
-48,Male,typical angina,124,274,False,normal,166,False,0.5,flat,0.0,reversable defect,Unknown
-56,Male,atypical angina,130,221,False,normal,163,False,0.0,downsloping,0.0,reversable defect,Unknown
-46,Male,typical angina,140,311,False,st-t wave abnormality,120,True,1.8,flat,2.0,reversable defect,Unknown
-55,Female,atypical angina,135,250,False,normal,161,False,1.4,flat,0.0,reversable defect,Unknown
-44,Male,atypical angina,120,220,False,st-t wave abnormality,170,False,0.0,downsloping,0.0,reversable defect,Unknown
-52,Male,typical angina,112,230,False,st-t wave abnormality,160,False,0.0,downsloping,1.0,reversable defect,Unknown
-51,Male,non-anginal pain,94,227,False,st-t wave abnormality,154,True,0.0,downsloping,1.0,reversable defect,Unknown
-44,Female,non-anginal pain,108,141,False,st-t wave abnormality,175,False,0.6,flat,0.0,reversable defect,Unknown
-52,Male,typical angina,128,204,True,st-t wave abnormality,156,True,1.0,flat,0.0,normal,Unknown
-50,Male,non-anginal pain,129,196,False,st-t wave abnormality,163,False,0.0,downsloping,0.0,reversable defect,Unknown
-59,Male,typical angina,110,239,False,normal,142,True,1.2,flat,1.0,reversable defect,Unknown
-67,Male,typical angina,120,229,False,normal,129,True,2.6,flat,2.0,reversable defect,Unknown
-58,Male,typical angina,125,300,False,normal,171,False,0.0,downsloping,2.0,reversable defect,Unknown
-52,Male,typical angina,128,255,False,st-t wave abnormality,161,True,0.0,downsloping,1.0,reversable defect,Unknown
-44,Male,non-anginal pain,140,235,False,normal,180,False,0.0,downsloping,0.0,reversable defect,Unknown
-41,Female,non-anginal pain,112,268,False,normal,172,True,0.0,downsloping,0.0,reversable defect,Unknown
-63,Male,typical angina,130,330,True,normal,132,True,1.8,downsloping,3.0,reversable defect,Unknown
-58,Male,atypical angina,125,220,False,st-t wave abnormality,144,False,0.4,flat,4.0,reversable defect,Unknown
-60,Female,non-anginal pain,102,318,False,st-t wave abnormality,160,False,0.0,downsloping,1.0,reversable defect,Unknown
-51,Male,non-anginal pain,100,222,False,st-t wave abnormality,143,True,1.2,flat,0.0,reversable defect,Unknown
-64,Male,non-anginal pain,140,335,False,st-t wave abnormality,158,False,0.0,downsloping,0.0,reversable defect,Unknown
-60,Male,typical angina,117,230,True,st-t wave abnormality,160,True,1.4,downsloping,2.0,reversable defect,Unknown
-44,Male,non-anginal pain,120,226,False,st-t wave abnormality,169,False,0.0,downsloping,0.0,reversable defect,Unknown
-58,Male,atypical angina,125,220,False,st-t wave abnormality,144,False,0.4,flat,4.0,reversable defect,Unknown
-55,Male,atypical angina,130,262,False,st-t wave abnormality,155,False,0.0,downsloping,0.0,reversable defect,Unknown
-65,Female,non-anginal pain,160,360,False,normal,151,False,0.8,downsloping,0.0,reversable defect,Unknown
-48,Male,atypical angina,130,245,False,normal,180,False,0.2,flat,0.0,reversable defect,Unknown
-65,Male,typical angina,120,177,False,st-t wave abnormality,140,False,0.4,downsloping,0.0,reversable defect,Unknown
-51,Female,non-anginal pain,130,256,False,normal,149,False,0.5,downsloping,0.0,reversable defect,Unknown
-48,Male,non-anginal pain,124,255,True,st-t wave abnormality,175,False,0.0,downsloping,2.0,reversable defect,Unknown
-64,Male,typical angina,120,246,False,normal,96,True,2.2,upsloping,1.0,reversable defect,Unknown
-66,Male,typical angina,160,228,False,normal,138,False,2.3,downsloping,0.0,fixed defect,Unknown
-46,Female,atypical angina,105,204,False,st-t wave abnormality,172,False,0.0,downsloping,0.0,reversable defect,Unknown
-61,Female,typical angina,130,330,False,normal,169,False,0.0,downsloping,0.0,reversable defect,Unknown
-57,Male,typical angina,150,276,False,normal,112,True,0.6,flat,1.0,fixed defect,Unknown
-49,Female,typical angina,130,269,False,st-t wave abnormality,163,False,0.0,downsloping,0.0,reversable defect,Unknown
-56,Male,atypical angina,130,221,False,normal,163,False,0.0,downsloping,0.0,reversable defect,Unknown
-58,Female,asymptomatic,150,283,True,normal,162,False,1.0,downsloping,0.0,reversable defect,Unknown
-63,Male,typical angina,140,187,False,normal,144,True,4.0,downsloping,2.0,reversable defect,Unknown
-57,Male,typical angina,110,335,False,st-t wave abnormality,143,True,3.0,flat,1.0,reversable defect,Unknown
-57,Male,typical angina,110,335,False,st-t wave abnormality,143,True,3.0,flat,1.0,reversable defect,Unknown
-68,Male,typical angina,144,193,True,st-t wave abnormality,141,False,3.4,flat,2.0,reversable defect,Unknown
-46,Male,atypical angina,101,197,True,st-t wave abnormality,156,False,0.0,downsloping,0.0,reversable defect,Unknown
-71,Female,non-anginal pain,110,265,True,normal,130,False,0.0,downsloping,1.0,reversable defect,Unknown
-41,Male,atypical angina,135,203,False,st-t wave abnormality,132,False,0.0,flat,0.0,fixed defect,Unknown
-45,Female,typical angina,138,236,False,normal,152,True,0.2,flat,0.0,reversable defect,Unknown
-62,Female,typical angina,150,244,False,st-t wave abnormality,154,True,1.4,flat,0.0,reversable defect,Unknown
-65,Female,typical angina,150,225,False,normal,114,False,1.0,flat,3.0,reversable defect,Unknown
-48,Female,non-anginal pain,130,275,False,st-t wave abnormality,139,False,0.2,downsloping,0.0,reversable defect,Unknown
-51,Male,non-anginal pain,100,222,False,st-t wave abnormality,143,True,1.2,flat,0.0,reversable defect,Unknown
-61,Female,typical angina,145,307,False,normal,146,True,1.0,flat,0.0,reversable defect,Unknown
-53,Male,typical angina,123,282,False,st-t wave abnormality,95,True,2.0,flat,2.0,reversable defect,Unknown
-59,Male,asymptomatic,134,204,False,st-t wave abnormality,162,False,0.8,downsloping,2.0,reversable defect,Unknown
-34,Female,atypical angina,118,210,False,st-t wave abnormality,192,False,0.7,downsloping,0.0,reversable defect,Unknown
-44,Male,typical angina,120,169,False,st-t wave abnormality,144,True,2.8,upsloping,0.0,fixed defect,Unknown
-58,Male,typical angina,146,218,False,st-t wave abnormality,105,False,2.0,flat,1.0,reversable defect,Unknown
-64,Female,typical angina,130,303,False,st-t wave abnormality,122,False,2.0,flat,2.0,reversable defect,Unknown
-56,Male,atypical angina,120,240,False,st-t wave abnormality,169,False,0.0,upsloping,0.0,reversable defect,Unknown
-54,Male,non-anginal pain,150,232,False,normal,165,False,1.6,downsloping,0.0,reversable defect,Unknown
-55,Male,typical angina,160,289,False,normal,145,True,0.8,flat,1.0,reversable defect,Unknown
-67,Male,typical angina,125,254,True,st-t wave abnormality,163,False,0.2,flat,2.0,reversable defect,Unknown
-51,Male,typical angina,140,298,False,st-t wave abnormality,122,True,4.2,flat,3.0,reversable defect,Unknown
-62,Female,typical angina,138,294,True,st-t wave abnormality,106,False,1.9,flat,3.0,reversable defect,Unknown
-62,Male,atypical angina,120,281,False,normal,103,False,1.4,flat,1.0,reversable defect,Unknown
-54,Male,typical angina,110,239,False,st-t wave abnormality,126,True,2.8,flat,1.0,reversable defect,Unknown
-54,Male,typical angina,110,239,False,st-t wave abnormality,126,True,2.8,flat,1.0,reversable defect,Unknown
-68,Male,typical angina,144,193,True,st-t wave abnormality,141,False,3.4,flat,2.0,reversable defect,Unknown
-60,Female,non-anginal pain,120,178,True,st-t wave abnormality,96,False,0.0,downsloping,0.0,reversable defect,Unknown
-61,Male,asymptomatic,134,234,False,st-t wave abnormality,145,False,2.6,flat,2.0,reversable defect,Unknown
-62,Male,atypical angina,128,208,True,normal,140,False,0.0,downsloping,0.0,reversable defect,Unknown
-41,Male,atypical angina,135,203,False,st-t wave abnormality,132,False,0.0,flat,0.0,fixed defect,Unknown
-65,Female,typical angina,150,225,False,normal,114,False,1.0,flat,3.0,reversable defect,Unknown
-59,Male,asymptomatic,170,288,False,normal,159,False,0.2,flat,0.0,reversable defect,Unknown
-43,Male,typical angina,115,303,False,st-t wave abnormality,181,False,1.2,flat,0.0,reversable defect,Unknown
-67,Male,typical angina,120,229,False,normal,129,True,2.6,flat,2.0,reversable defect,Unknown
-63,Male,asymptomatic,145,233,True,normal,150,False,2.3,upsloping,0.0,fixed defect,Unknown
-63,Female,typical angina,124,197,False,st-t wave abnormality,136,True,0.0,flat,0.0,reversable defect,Unknown
-52,Male,typical angina,112,230,False,st-t wave abnormality,160,False,0.0,downsloping,1.0,reversable defect,Unknown
-58,Female,typical angina,130,197,False,st-t wave abnormality,131,False,0.6,flat,0.0,reversable defect,Unknown
-53,Male,typical angina,142,226,False,normal,111,True,0.0,downsloping,0.0,reversable defect,Unknown
-57,Male,typical angina,150,276,False,normal,112,True,0.6,flat,1.0,fixed defect,Unknown
-44,Male,non-anginal pain,130,233,False,st-t wave abnormality,179,True,0.4,downsloping,0.0,reversable defect,Unknown
-51,Male,non-anginal pain,94,227,False,st-t wave abnormality,154,True,0.0,downsloping,1.0,reversable defect,Unknown
-54,Female,non-anginal pain,110,214,False,st-t wave abnormality,158,False,1.6,flat,0.0,reversable defect,Unknown
-40,Male,typical angina,110,167,False,normal,114,True,2.0,flat,0.0,reversable defect,Unknown
-57,Male,atypical angina,124,261,False,st-t wave abnormality,141,False,0.3,downsloping,0.0,reversable defect,Unknown
-62,Female,typical angina,140,268,False,normal,160,False,3.6,upsloping,2.0,reversable defect,Unknown
-53,Male,typical angina,140,203,True,normal,155,True,3.1,upsloping,0.0,reversable defect,Unknown
-62,Male,atypical angina,128,208,True,normal,140,False,0.0,downsloping,0.0,reversable defect,Unknown
-58,Male,non-anginal pain,105,240,False,normal,154,True,0.6,flat,0.0,reversable defect,Unknown
-70,Male,atypical angina,156,245,False,normal,143,False,0.0,downsloping,0.0,reversable defect,Unknown
-45,Male,typical angina,115,260,False,normal,185,False,0.0,downsloping,0.0,reversable defect,Unknown
-42,Male,asymptomatic,148,244,False,normal,178,False,0.8,downsloping,2.0,reversable defect,Unknown
-58,Female,typical angina,170,225,True,normal,146,True,2.8,flat,2.0,fixed defect,Unknown
-61,Male,typical angina,140,207,False,normal,138,True,1.9,downsloping,1.0,reversable defect,Unknown
-62,Female,typical angina,140,268,False,normal,160,False,3.6,upsloping,2.0,reversable defect,Unknown
-60,Male,typical angina,130,253,False,st-t wave abnormality,144,True,1.4,downsloping,1.0,reversable defect,Unknown
-54,Male,typical angina,140,239,False,st-t wave abnormality,160,False,1.2,downsloping,0.0,reversable defect,Unknown
-61,Male,typical angina,138,166,False,normal,125,True,3.6,flat,1.0,reversable defect,Unknown
-63,Female,non-anginal pain,135,252,False,normal,172,False,0.0,downsloping,0.0,reversable defect,Unknown
-42,Male,non-anginal pain,130,180,False,st-t wave abnormality,150,False,0.0,downsloping,0.0,reversable defect,Unknown
-57,Male,non-anginal pain,128,229,False,normal,150,False,0.4,flat,1.0,reversable defect,Unknown
-44,Male,non-anginal pain,130,233,False,st-t wave abnormality,179,True,0.4,downsloping,0.0,reversable defect,Unknown
-54,Male,typical angina,124,266,False,normal,109,True,2.2,flat,1.0,reversable defect,Unknown
-51,Male,non-anginal pain,100,222,False,st-t wave abnormality,143,True,1.2,flat,0.0,reversable defect,Unknown
-58,Male,atypical angina,125,220,False,st-t wave abnormality,144,False,0.4,flat,4.0,reversable defect,Unknown
-68,Male,non-anginal pain,118,277,False,st-t wave abnormality,151,False,1.0,downsloping,1.0,reversable defect,Unknown
-55,Male,typical angina,140,217,False,st-t wave abnormality,111,True,5.6,upsloping,0.0,reversable defect,Unknown
-42,Male,typical angina,136,315,False,st-t wave abnormality,125,True,1.8,flat,0.0,fixed defect,Unknown
-49,Male,non-anginal pain,118,149,False,normal,126,False,0.8,downsloping,3.0,reversable defect,Unknown
-53,Female,typical angina,138,234,False,normal,160,False,0.0,downsloping,0.0,reversable defect,Unknown
-52,Male,non-anginal pain,172,199,True,st-t wave abnormality,162,False,0.5,downsloping,0.0,reversable defect,Unknown
-51,Male,asymptomatic,125,213,False,normal,125,True,1.4,downsloping,1.0,reversable defect,Unknown
-51,Male,typical angina,140,261,False,normal,186,True,0.0,downsloping,0.0,reversable defect,Unknown
-70,Male,typical angina,145,174,False,st-t wave abnormality,125,True,2.6,upsloping,0.0,reversable defect,Unknown
-35,Female,typical angina,138,183,False,st-t wave abnormality,182,False,1.4,downsloping,0.0,reversable defect,Unknown
-58,Male,non-anginal pain,112,230,False,normal,165,False,2.5,flat,1.0,reversable defect,Unknown
-59,Male,asymptomatic,160,273,False,normal,125,False,0.0,downsloping,0.0,reversable defect,Unknown
-60,Male,typical angina,140,293,False,normal,170,False,1.2,flat,2.0,reversable defect,Unknown
-56,Male,typical angina,132,184,False,normal,105,True,2.1,flat,1.0,fixed defect,Unknown
-35,Female,typical angina,138,183,False,st-t wave abnormality,182,False,1.4,downsloping,0.0,reversable defect,Unknown
-61,Male,typical angina,138,166,False,normal,125,True,3.6,flat,1.0,reversable defect,Unknown
-58,Female,asymptomatic,150,283,True,normal,162,False,1.0,downsloping,0.0,reversable defect,Unknown
-52,Male,typical angina,128,255,False,st-t wave abnormality,161,True,0.0,downsloping,1.0,reversable defect,Unknown
-58,Male,atypical angina,120,284,False,normal,160,False,1.8,flat,0.0,reversable defect,Unknown
-37,Male,non-anginal pain,130,250,False,st-t wave abnormality,187,False,3.5,upsloping,0.0,reversable defect,Unknown
-52,Male,typical angina,128,255,False,st-t wave abnormality,161,True,0.0,downsloping,1.0,reversable defect,Unknown
-67,Male,typical angina,120,229,False,normal,129,True,2.6,flat,2.0,reversable defect,Unknown
-65,Male,asymptomatic,138,282,True,normal,174,False,1.4,flat,1.0,reversable defect,Unknown
-46,Male,atypical angina,101,197,True,st-t wave abnormality,156,False,0.0,downsloping,0.0,reversable defect,Unknown
-68,Female,non-anginal pain,120,211,False,normal,115,False,1.5,flat,0.0,reversable defect,Unknown
-43,Male,typical angina,115,303,False,st-t wave abnormality,181,False,1.2,flat,0.0,reversable defect,Unknown
-68,Female,non-anginal pain,120,211,False,normal,115,False,1.5,flat,0.0,reversable defect,Unknown
-51,Male,typical angina,140,299,False,st-t wave abnormality,173,True,1.6,downsloping,0.0,reversable defect,Unknown
-52,Male,typical angina,112,230,False,st-t wave abnormality,160,False,0.0,downsloping,1.0,reversable defect,Unknown
-64,Male,non-anginal pain,140,335,False,st-t wave abnormality,158,False,0.0,downsloping,0.0,reversable defect,Unknown
-59,Male,asymptomatic,170,288,False,normal,159,False,0.2,flat,0.0,reversable defect,Unknown
-52,Male,typical angina,125,212,False,st-t wave abnormality,168,False,1.0,downsloping,2.0,reversable defect,Unknown
-59,Male,asymptomatic,160,273,False,normal,125,False,0.0,downsloping,0.0,reversable defect,Unknown
-60,Female,asymptomatic,150,240,False,st-t wave abnormality,171,False,0.9,downsloping,0.0,reversable defect,Unknown
-41,Male,non-anginal pain,112,250,False,st-t wave abnormality,179,False,0.0,downsloping,0.0,reversable defect,Unknown
-41,Male,atypical angina,110,235,False,st-t wave abnormality,153,False,0.0,downsloping,0.0,reversable defect,Unknown
-56,Male,atypical angina,120,240,False,st-t wave abnormality,169,False,0.0,upsloping,0.0,reversable defect,Unknown
-56,Male,atypical angina,120,236,False,st-t wave abnormality,178,False,0.8,downsloping,0.0,reversable defect,Unknown
-48,Female,non-anginal pain,130,275,False,st-t wave abnormality,139,False,0.2,downsloping,0.0,reversable defect,Unknown
-39,Male,non-anginal pain,140,321,False,normal,182,False,0.0,downsloping,0.0,reversable defect,Unknown
-64,Male,asymptomatic,170,227,False,normal,155,False,0.6,flat,0.0,reversable defect,Unknown
-57,Male,typical angina,140,192,False,st-t wave abnormality,148,False,0.4,flat,0.0,fixed defect,Unknown
-59,Male,asymptomatic,160,273,False,normal,125,False,0.0,downsloping,0.0,reversable defect,Unknown
-60,Male,typical angina,130,206,False,normal,132,True,2.4,flat,2.0,reversable defect,Unknown
-61,Male,typical angina,140,207,False,normal,138,True,1.9,downsloping,1.0,reversable defect,Unknown
-43,Female,non-anginal pain,122,213,False,st-t wave abnormality,165,False,0.2,flat,0.0,reversable defect,Unknown
-54,Male,typical angina,120,188,False,st-t wave abnormality,113,False,1.4,flat,1.0,reversable defect,Unknown
-59,Male,typical angina,138,271,False,normal,182,False,0.0,downsloping,0.0,reversable defect,Unknown
-57,Male,typical angina,132,207,False,st-t wave abnormality,168,True,0.0,downsloping,0.0,reversable defect,Unknown
-57,Male,atypical angina,154,232,False,normal,164,False,0.0,downsloping,1.0,reversable defect,Unknown
-57,Male,typical angina,130,131,False,st-t wave abnormality,115,True,1.2,flat,1.0,reversable defect,Unknown
-48,Male,typical angina,124,274,False,normal,166,False,0.5,flat,0.0,reversable defect,Unknown
-70,Male,typical angina,145,174,False,st-t wave abnormality,125,True,2.6,upsloping,0.0,reversable defect,Unknown
-57,Male,typical angina,165,289,True,normal,124,False,1.0,flat,3.0,reversable defect,Unknown
-61,Male,typical angina,120,260,False,st-t wave abnormality,140,True,3.6,flat,1.0,reversable defect,Unknown
-57,Male,typical angina,110,201,False,st-t wave abnormality,126,True,1.5,flat,0.0,fixed defect,Unknown
-60,Female,typical angina,150,258,False,normal,157,False,2.6,flat,2.0,reversable defect,Unknown
-63,Female,typical angina,150,407,False,normal,154,False,4.0,flat,3.0,reversable defect,Unknown
-55,Female,typical angina,128,205,False,left ventricular hypertrophy,130,True,2.0,flat,1.0,reversable defect,Unknown
-64,Female,typical angina,180,325,False,st-t wave abnormality,154,True,0.0,downsloping,0.0,reversable defect,Unknown
-54,Male,typical angina,110,239,False,st-t wave abnormality,126,True,2.8,flat,1.0,reversable defect,Unknown
-52,Male,typical angina,128,204,True,st-t wave abnormality,156,True,1.0,flat,0.0,normal,Unknown
-51,Male,typical angina,140,299,False,st-t wave abnormality,173,True,1.6,downsloping,0.0,reversable defect,Unknown
-62,Female,non-anginal pain,130,263,False,st-t wave abnormality,97,False,1.2,flat,1.0,reversable defect,Unknown
-59,Male,asymptomatic,178,270,False,normal,145,False,4.2,upsloping,0.0,reversable defect,Unknown
-52,Male,atypical angina,134,201,False,st-t wave abnormality,158,False,0.8,downsloping,1.0,reversable defect,Unknown
-42,Female,typical angina,102,265,False,normal,122,False,0.6,flat,0.0,reversable defect,Unknown
-59,Male,typical angina,135,234,False,st-t wave abnormality,161,False,0.5,flat,0.0,reversable defect,Unknown
-61,Male,asymptomatic,134,234,False,st-t wave abnormality,145,False,2.6,flat,2.0,reversable defect,Unknown
-42,Female,typical angina,102,265,False,normal,122,False,0.6,flat,0.0,reversable defect,Unknown
-62,Female,typical angina,140,268,False,normal,160,False,3.6,upsloping,2.0,reversable defect,Unknown
-59,Male,non-anginal pain,126,218,True,st-t wave abnormality,134,False,2.2,flat,1.0,fixed defect,Unknown
-55,Male,atypical angina,130,262,False,st-t wave abnormality,155,False,0.0,downsloping,0.0,reversable defect,Unknown
-64,Male,typical angina,120,246,False,normal,96,True,2.2,upsloping,1.0,reversable defect,Unknown
-42,Male,typical angina,140,226,False,st-t wave abnormality,178,False,0.0,downsloping,0.0,reversable defect,Unknown
-50,Female,atypical angina,120,244,False,st-t wave abnormality,162,False,1.1,downsloping,0.0,reversable defect,Unknown
-62,Male,typical angina,120,267,False,st-t wave abnormality,99,True,1.8,flat,2.0,reversable defect,Unknown
-50,Male,typical angina,144,200,False,normal,126,True,0.9,flat,0.0,reversable defect,Unknown
-50,Male,non-anginal pain,140,233,False,st-t wave abnormality,163,False,0.6,flat,1.0,reversable defect,Unknown
-58,Female,atypical angina,136,319,True,normal,152,False,0.0,downsloping,2.0,reversable defect,Unknown
-35,Male,typical angina,120,198,False,st-t wave abnormality,130,True,1.6,flat,0.0,reversable defect,Unknown
-45,Male,typical angina,104,208,False,normal,148,True,3.0,flat,0.0,reversable defect,Unknown
-66,Male,typical angina,112,212,False,normal,132,True,0.1,downsloping,1.0,reversable defect,Unknown
-46,Male,typical angina,120,249,False,normal,144,False,0.8,downsloping,0.0,reversable defect,Unknown
-65,Male,typical angina,135,254,False,normal,127,False,2.8,flat,1.0,reversable defect,Unknown
-47,Male,non-anginal pain,130,253,False,st-t wave abnormality,179,False,0.0,downsloping,0.0,reversable defect,Unknown
-59,Male,asymptomatic,134,204,False,st-t wave abnormality,162,False,0.8,downsloping,2.0,reversable defect,Unknown
-38,Male,asymptomatic,120,231,False,st-t wave abnormality,182,True,3.8,flat,0.0,reversable defect,Unknown
-39,Male,typical angina,118,219,False,st-t wave abnormality,140,False,1.2,flat,0.0,reversable defect,Unknown
-58,Male,typical angina,146,218,False,st-t wave abnormality,105,False,2.0,flat,1.0,reversable defect,Unknown
-44,Male,atypical angina,120,263,False,st-t wave abnormality,173,False,0.0,downsloping,0.0,reversable defect,Unknown
-54,Male,typical angina,140,239,False,st-t wave abnormality,160,False,1.2,downsloping,0.0,reversable defect,Unknown
-61,Female,typical angina,130,330,False,normal,169,False,0.0,downsloping,0.0,reversable defect,Unknown
-57,Male,typical angina,130,131,False,st-t wave abnormality,115,True,1.2,flat,1.0,reversable defect,Unknown
-54,Male,typical angina,110,206,False,normal,108,True,0.0,flat,1.0,reversable defect,Unknown
-42,Male,non-anginal pain,120,240,True,st-t wave abnormality,194,False,0.8,upsloping,0.0,reversable defect,Unknown
-54,Male,typical angina,124,266,False,normal,109,True,2.2,flat,1.0,reversable defect,Unknown
-60,Male,typical angina,130,206,False,normal,132,True,2.4,flat,2.0,reversable defect,Unknown
-65,Male,typical angina,135,254,False,normal,127,False,2.8,flat,1.0,reversable defect,Unknown
-40,Male,typical angina,152,223,False,st-t wave abnormality,181,False,0.0,downsloping,0.0,reversable defect,Unknown
-51,Female,non-anginal pain,140,308,False,normal,142,False,1.5,downsloping,1.0,reversable defect,Unknown
-38,Male,asymptomatic,120,231,False,st-t wave abnormality,182,True,3.8,flat,0.0,reversable defect,Unknown
-42,Male,non-anginal pain,130,180,False,st-t wave abnormality,150,False,0.0,downsloping,0.0,reversable defect,Unknown
-56,Male,atypical angina,120,240,False,st-t wave abnormality,169,False,0.0,upsloping,0.0,reversable defect,Unknown
-43,Male,non-anginal pain,130,315,False,st-t wave abnormality,162,False,1.9,downsloping,1.0,reversable defect,Unknown
-64,Male,non-anginal pain,140,335,False,st-t wave abnormality,158,False,0.0,downsloping,0.0,reversable defect,Unknown
-53,Male,typical angina,142,226,False,normal,111,True,0.0,downsloping,0.0,reversable defect,Unknown
-49,Female,atypical angina,134,271,False,st-t wave abnormality,162,False,0.0,flat,0.0,reversable defect,Unknown
-57,Female,typical angina,140,241,False,st-t wave abnormality,123,True,0.2,flat,0.0,reversable defect,Unknown
-52,Female,non-anginal pain,136,196,False,normal,169,False,0.1,flat,0.0,reversable defect,Unknown
-69,Female,asymptomatic,140,239,False,st-t wave abnormality,151,False,1.8,downsloping,2.0,reversable defect,Unknown
-65,Male,typical angina,120,177,False,st-t wave abnormality,140,False,0.4,downsloping,0.0,reversable defect,Unknown
-66,Female,typical angina,178,228,True,st-t wave abnormality,165,True,1.0,flat,2.0,reversable defect,Unknown
-56,Male,asymptomatic,120,193,False,normal,162,False,1.9,flat,0.0,reversable defect,Unknown
-67,Female,non-anginal pain,152,277,False,st-t wave abnormality,172,False,0.0,downsloping,1.0,reversable defect,Unknown
-54,Female,non-anginal pain,160,201,False,st-t wave abnormality,163,False,0.0,downsloping,1.0,reversable defect,Unknown
-70,Male,typical angina,145,174,False,st-t wave abnormality,125,True,2.6,upsloping,0.0,reversable defect,Unknown
-57,Male,typical angina,132,207,False,st-t wave abnormality,168,True,0.0,downsloping,0.0,reversable defect,Unknown
-67,Male,typical angina,160,286,False,normal,108,True,1.5,flat,3.0,reversable defect,Unknown
-62,Female,non-anginal pain,130,263,False,st-t wave abnormality,97,False,1.2,flat,1.0,reversable defect,Unknown
-54,Female,non-anginal pain,135,304,True,st-t wave abnormality,170,False,0.0,downsloping,0.0,reversable defect,Unknown
-45,Female,typical angina,138,236,False,normal,152,True,0.2,flat,0.0,reversable defect,Unknown
-53,Female,typical angina,130,264,False,normal,143,False,0.4,flat,0.0,reversable defect,Unknown
-62,Male,non-anginal pain,130,231,False,st-t wave abnormality,146,False,1.8,flat,3.0,reversable defect,Unknown
-49,Female,typical angina,130,269,False,st-t wave abnormality,163,False,0.0,downsloping,0.0,reversable defect,Unknown
-50,Male,non-anginal pain,140,233,False,st-t wave abnormality,163,False,0.6,flat,1.0,reversable defect,Unknown
-65,Female,non-anginal pain,140,417,True,normal,157,False,0.8,downsloping,1.0,reversable defect,Unknown
-69,Female,asymptomatic,140,239,False,st-t wave abnormality,151,False,1.8,downsloping,2.0,reversable defect,Unknown
-52,Female,non-anginal pain,136,196,False,normal,169,False,0.1,flat,0.0,reversable defect,Unknown
-58,Female,typical angina,100,248,False,normal,122,False,1.0,flat,0.0,reversable defect,Unknown
-52,Male,typical angina,108,233,True,st-t wave abnormality,147,False,0.1,downsloping,3.0,reversable defect,Unknown
-57,Female,typical angina,140,241,False,st-t wave abnormality,123,True,0.2,flat,0.0,reversable defect,Unknown
-44,Female,non-anginal pain,108,141,False,st-t wave abnormality,175,False,0.6,flat,0.0,reversable defect,Unknown
-76,Female,non-anginal pain,140,197,False,left ventricular hypertrophy,116,False,1.1,flat,0.0,reversable defect,Unknown
-58,Male,typical angina,128,259,False,normal,130,True,3.0,flat,2.0,reversable defect,Unknown
-60,Female,non-anginal pain,120,178,True,st-t wave abnormality,96,False,0.0,downsloping,0.0,reversable defect,Unknown
-53,Male,typical angina,140,203,True,normal,155,True,3.1,upsloping,0.0,reversable defect,Unknown
-52,Male,atypical angina,120,325,False,st-t wave abnormality,172,False,0.2,downsloping,0.0,reversable defect,Unknown
-38,Male,non-anginal pain,138,175,False,st-t wave abnormality,173,False,0.0,downsloping,4.0,reversable defect,Unknown
-52,Male,non-anginal pain,172,199,True,st-t wave abnormality,162,False,0.5,downsloping,0.0,reversable defect,Unknown
-52,Male,asymptomatic,118,186,False,normal,190,False,0.0,flat,0.0,fixed defect,Unknown
-51,Male,non-anginal pain,125,245,True,normal,166,False,2.4,flat,0.0,reversable defect,Unknown
-43,Male,typical angina,110,211,False,st-t wave abnormality,161,False,0.0,downsloping,0.0,reversable defect,Unknown
-39,Male,typical angina,118,219,False,st-t wave abnormality,140,False,1.2,flat,0.0,reversable defect,Unknown
-63,Female,typical angina,108,269,False,st-t wave abnormality,169,True,1.8,flat,2.0,reversable defect,Unknown
-52,Male,atypical angina,128,205,True,st-t wave abnormality,184,False,0.0,downsloping,0.0,reversable defect,Unknown
-44,Male,typical angina,110,197,False,normal,177,False,0.0,downsloping,1.0,reversable defect,Unknown
-45,Male,typical angina,142,309,False,normal,147,True,0.0,flat,3.0,reversable defect,Unknown
-57,Male,typical angina,140,192,False,st-t wave abnormality,148,False,0.4,flat,0.0,fixed defect,Unknown
-39,Male,typical angina,118,219,False,st-t wave abnormality,140,False,1.2,flat,0.0,reversable defect,Unknown
-67,Female,typical angina,106,223,False,st-t wave abnormality,142,False,0.3,downsloping,2.0,reversable defect,Unknown
-64,Male,typical angina,128,263,False,st-t wave abnormality,105,True,0.2,flat,1.0,reversable defect,Unknown
-59,Male,typical angina,135,234,False,st-t wave abnormality,161,False,0.5,flat,0.0,reversable defect,Unknown
-62,Male,non-anginal pain,130,231,False,st-t wave abnormality,146,False,1.8,flat,3.0,reversable defect,Unknown
-55,Female,typical angina,180,327,False,left ventricular hypertrophy,117,True,3.4,flat,0.0,reversable defect,Unknown
-57,Male,atypical angina,154,232,False,normal,164,False,0.0,downsloping,1.0,reversable defect,Unknown
-60,Male,typical angina,140,293,False,normal,170,False,1.2,flat,2.0,reversable defect,Unknown
-71,Female,atypical angina,160,302,False,st-t wave abnormality,162,False,0.4,downsloping,2.0,reversable defect,Unknown
-56,Male,atypical angina,120,236,False,st-t wave abnormality,178,False,0.8,downsloping,0.0,reversable defect,Unknown
-60,Male,typical angina,117,230,True,st-t wave abnormality,160,True,1.4,downsloping,2.0,reversable defect,Unknown
-50,Female,typical angina,110,254,False,normal,159,False,0.0,downsloping,0.0,reversable defect,Unknown
-43,Male,typical angina,132,247,True,normal,143,True,0.1,flat,4.0,reversable defect,Unknown
-59,Male,typical angina,110,239,False,normal,142,True,1.2,flat,1.0,reversable defect,Unknown
-44,Male,atypical angina,120,263,False,st-t wave abnormality,173,False,0.0,downsloping,0.0,reversable defect,Unknown
-56,Female,typical angina,134,409,False,normal,150,True,1.9,flat,2.0,reversable defect,Unknown
-54,Male,typical angina,120,188,False,st-t wave abnormality,113,False,1.4,flat,1.0,reversable defect,Unknown
-42,Male,typical angina,136,315,False,st-t wave abnormality,125,True,1.8,flat,0.0,fixed defect,Unknown
-67,Male,typical angina,125,254,True,st-t wave abnormality,163,False,0.2,flat,2.0,reversable defect,Unknown
-64,Male,typical angina,145,212,False,normal,132,False,2.0,flat,2.0,fixed defect,Unknown
-42,Male,typical angina,140,226,False,st-t wave abnormality,178,False,0.0,downsloping,0.0,reversable defect,Unknown
-66,Male,typical angina,112,212,False,normal,132,True,0.1,downsloping,1.0,reversable defect,Unknown
-52,Male,typical angina,108,233,True,st-t wave abnormality,147,False,0.1,downsloping,3.0,reversable defect,Unknown
-51,Female,non-anginal pain,140,308,False,normal,142,False,1.5,downsloping,1.0,reversable defect,Unknown
-55,Female,typical angina,128,205,False,left ventricular hypertrophy,130,True,2.0,flat,1.0,reversable defect,Unknown
-58,Male,non-anginal pain,140,211,True,normal,165,False,0.0,downsloping,0.0,reversable defect,Unknown
-56,Male,asymptomatic,120,193,False,normal,162,False,1.9,flat,0.0,reversable defect,Unknown
-42,Male,atypical angina,120,295,False,st-t wave abnormality,162,False,0.0,downsloping,0.0,reversable defect,Unknown
-40,Male,typical angina,152,223,False,st-t wave abnormality,181,False,0.0,downsloping,0.0,reversable defect,Unknown
-51,Male,typical angina,140,299,False,st-t wave abnormality,173,True,1.6,downsloping,0.0,reversable defect,Unknown
-45,Male,atypical angina,128,308,False,normal,170,False,0.0,downsloping,0.0,reversable defect,Unknown
-48,Male,atypical angina,110,229,False,st-t wave abnormality,168,False,1.0,upsloping,0.0,reversable defect,Unknown
-58,Male,typical angina,114,318,False,left ventricular hypertrophy,140,False,4.4,upsloping,3.0,fixed defect,Unknown
-44,Female,non-anginal pain,108,141,False,st-t wave abnormality,175,False,0.6,flat,0.0,reversable defect,Unknown
-58,Male,typical angina,128,216,False,normal,131,True,2.2,flat,3.0,reversable defect,Unknown
-65,Male,asymptomatic,138,282,True,normal,174,False,1.4,flat,1.0,reversable defect,Unknown
-53,Male,typical angina,123,282,False,st-t wave abnormality,95,True,2.0,flat,2.0,reversable defect,Unknown
-41,Male,typical angina,110,172,False,normal,158,False,0.0,downsloping,0.0,reversable defect,Unknown
-47,Male,typical angina,112,204,False,st-t wave abnormality,143,False,0.1,downsloping,0.0,reversable defect,Unknown
-59,Male,atypical angina,140,221,False,st-t wave abnormality,164,True,0.0,downsloping,0.0,reversable defect,Unknown
-60,Male,typical angina,125,258,False,normal,141,True,2.8,flat,1.0,reversable defect,Unknown
-47,Male,typical angina,110,275,False,normal,118,True,1.0,flat,1.0,reversable defect,Unknown
-50,Female,typical angina,110,254,False,normal,159,False,0.0,downsloping,0.0,reversable defect,Unknown
-54,Male,typical angina,120,188,False,st-t wave abnormality,113,False,1.4,flat,1.0,reversable defect,Unknown
+52,1,0,125,212,False,1,168,0,1.0,2,2.0,3,Unknown
+53,1,0,140,203,True,0,155,1,3.1,0,0.0,3,Unknown
+70,1,0,145,174,False,1,125,1,2.6,0,0.0,3,Unknown
+61,1,0,148,203,False,1,161,0,0.0,2,1.0,3,Unknown
+62,0,0,138,294,True,1,106,0,1.9,1,3.0,2,Unknown
+58,0,0,100,248,False,0,122,0,1.0,1,0.0,2,Unknown
+58,1,0,114,318,False,2,140,0,4.4,0,3.0,1,Unknown
+55,1,0,160,289,False,0,145,1,0.8,1,1.0,3,Unknown
+46,1,0,120,249,False,0,144,0,0.8,2,0.0,3,Unknown
+54,1,0,122,286,False,0,116,1,3.2,1,2.0,2,Unknown
+71,0,0,112,149,False,1,125,0,1.6,1,0.0,2,Unknown
+43,0,0,132,341,True,0,136,1,3.0,1,0.0,3,Unknown
+34,0,1,118,210,False,1,192,0,0.7,2,0.0,2,Unknown
+51,1,0,140,298,False,1,122,1,4.2,1,3.0,3,Unknown
+52,1,0,128,204,True,1,156,1,1.0,1,0.0,0,Unknown
+34,0,1,118,210,False,1,192,0,0.7,2,0.0,2,Unknown
+51,0,2,140,308,False,0,142,0,1.5,2,1.0,2,Unknown
+54,1,0,124,266,False,0,109,1,2.2,1,1.0,3,Unknown
+50,0,1,120,244,False,1,162,0,1.1,2,0.0,2,Unknown
+58,1,2,140,211,True,0,165,0,0.0,2,0.0,2,Unknown
+60,1,2,140,185,False,0,155,0,3.0,1,0.0,2,Unknown
+67,0,0,106,223,False,1,142,0,0.3,2,2.0,2,Unknown
+45,1,0,104,208,False,0,148,1,3.0,1,0.0,2,Unknown
+63,0,2,135,252,False,0,172,0,0.0,2,0.0,2,Unknown
+42,0,2,120,209,False,1,173,0,0.0,1,0.0,2,Unknown
+61,0,0,145,307,False,0,146,1,1.0,1,0.0,3,Unknown
+44,1,2,130,233,False,1,179,1,0.4,2,0.0,2,Unknown
+58,0,1,136,319,True,0,152,0,0.0,2,2.0,2,Unknown
+56,1,2,130,256,True,0,142,1,0.6,1,1.0,1,Unknown
+55,0,0,180,327,False,2,117,1,3.4,1,0.0,2,Unknown
+44,1,0,120,169,False,1,144,1,2.8,0,0.0,1,Unknown
+50,0,1,120,244,False,1,162,0,1.1,2,0.0,2,Unknown
+57,1,0,130,131,False,1,115,1,1.2,1,1.0,3,Unknown
+70,1,2,160,269,False,1,112,1,2.9,1,1.0,3,Unknown
+50,1,2,129,196,False,1,163,0,0.0,2,0.0,2,Unknown
+46,1,2,150,231,False,1,147,0,3.6,1,0.0,2,Unknown
+51,1,3,125,213,False,0,125,1,1.4,2,1.0,2,Unknown
+59,1,0,138,271,False,0,182,0,0.0,2,0.0,2,Unknown
+64,1,0,128,263,False,1,105,1,0.2,1,1.0,3,Unknown
+57,1,2,128,229,False,0,150,0,0.4,1,1.0,3,Unknown
+65,0,2,160,360,False,0,151,0,0.8,2,0.0,2,Unknown
+54,1,2,120,258,False,0,147,0,0.4,1,0.0,3,Unknown
+61,0,0,130,330,False,0,169,0,0.0,2,0.0,2,Unknown
+46,1,0,120,249,False,0,144,0,0.8,2,0.0,3,Unknown
+55,0,1,132,342,False,1,166,0,1.2,2,0.0,2,Unknown
+42,1,0,140,226,False,1,178,0,0.0,2,0.0,2,Unknown
+41,1,1,135,203,False,1,132,0,0.0,1,0.0,1,Unknown
+66,0,0,178,228,True,1,165,1,1.0,1,2.0,3,Unknown
+66,0,2,146,278,False,0,152,0,0.0,1,1.0,2,Unknown
+60,1,0,117,230,True,1,160,1,1.4,2,2.0,3,Unknown
+58,0,3,150,283,True,0,162,0,1.0,2,0.0,2,Unknown
+57,0,0,140,241,False,1,123,1,0.2,1,0.0,3,Unknown
+38,1,2,138,175,False,1,173,0,0.0,2,4.0,2,Unknown
+49,1,2,120,188,False,1,139,0,2.0,1,3.0,3,Unknown
+55,1,0,140,217,False,1,111,1,5.6,0,0.0,3,Unknown
+55,1,0,140,217,False,1,111,1,5.6,0,0.0,3,Unknown
+56,1,3,120,193,False,0,162,0,1.9,1,0.0,3,Unknown
+48,1,1,130,245,False,0,180,0,0.2,1,0.0,2,Unknown
+67,1,2,152,212,False,0,150,0,0.8,1,0.0,3,Unknown
+57,1,1,154,232,False,0,164,0,0.0,2,1.0,2,Unknown
+29,1,1,130,204,False,0,202,0,0.0,2,0.0,2,Unknown
+66,0,2,146,278,False,0,152,0,0.0,1,1.0,2,Unknown
+67,1,0,100,299,False,0,125,1,0.9,1,2.0,2,Unknown
+59,1,2,150,212,True,1,157,0,1.6,2,0.0,2,Unknown
+29,1,1,130,204,False,0,202,0,0.0,2,0.0,2,Unknown
+59,1,3,170,288,False,0,159,0,0.2,1,0.0,3,Unknown
+53,1,2,130,197,True,0,152,0,1.2,0,0.0,2,Unknown
+42,1,0,136,315,False,1,125,1,1.8,1,0.0,1,Unknown
+37,0,2,120,215,False,1,170,0,0.0,2,0.0,2,Unknown
+62,0,0,160,164,False,0,145,0,6.2,0,3.0,3,Unknown
+59,1,0,170,326,False,0,140,1,3.4,0,0.0,3,Unknown
+61,1,0,140,207,False,0,138,1,1.9,2,1.0,3,Unknown
+56,1,0,125,249,True,0,144,1,1.2,1,1.0,2,Unknown
+59,1,0,140,177,False,1,162,1,0.0,2,1.0,3,Unknown
+48,1,0,130,256,True,0,150,1,0.0,2,2.0,3,Unknown
+47,1,2,138,257,False,0,156,0,0.0,2,0.0,2,Unknown
+48,1,2,124,255,True,1,175,0,0.0,2,2.0,2,Unknown
+63,1,0,140,187,False,0,144,1,4.0,2,2.0,3,Unknown
+52,1,1,134,201,False,1,158,0,0.8,2,1.0,2,Unknown
+52,1,1,134,201,False,1,158,0,0.8,2,1.0,2,Unknown
+50,1,2,140,233,False,1,163,0,0.6,1,1.0,3,Unknown
+49,1,2,118,149,False,0,126,0,0.8,2,3.0,2,Unknown
+46,1,2,150,231,False,1,147,0,3.6,1,0.0,2,Unknown
+38,1,2,138,175,False,1,173,0,0.0,2,4.0,2,Unknown
+37,0,2,120,215,False,1,170,0,0.0,2,0.0,2,Unknown
+44,1,1,120,220,False,1,170,0,0.0,2,0.0,2,Unknown
+58,1,2,140,211,True,0,165,0,0.0,2,0.0,2,Unknown
+59,0,0,174,249,False,1,143,1,0.0,1,0.0,2,Unknown
+62,0,0,140,268,False,0,160,0,3.6,0,2.0,2,Unknown
+68,1,0,144,193,True,1,141,0,3.4,1,2.0,3,Unknown
+54,0,2,108,267,False,0,167,0,0.0,2,0.0,2,Unknown
+62,0,0,124,209,False,1,163,0,0.0,2,0.0,2,Unknown
+63,1,0,140,187,False,0,144,1,4.0,2,2.0,3,Unknown
+44,1,0,120,169,False,1,144,1,2.8,0,0.0,1,Unknown
+62,1,1,128,208,True,0,140,0,0.0,2,0.0,2,Unknown
+45,0,0,138,236,False,0,152,1,0.2,1,0.0,2,Unknown
+57,0,0,128,303,False,0,159,0,0.0,2,1.0,2,Unknown
+53,1,0,123,282,False,1,95,1,2.0,1,2.0,3,Unknown
+65,1,0,110,248,False,0,158,0,0.6,2,2.0,1,Unknown
+76,0,2,140,197,False,2,116,0,1.1,1,0.0,2,Unknown
+43,0,2,122,213,False,1,165,0,0.2,1,0.0,2,Unknown
+57,1,2,150,126,True,1,173,0,0.2,2,1.0,3,Unknown
+54,1,1,108,309,False,1,156,0,0.0,2,0.0,3,Unknown
+47,1,2,138,257,False,0,156,0,0.0,2,0.0,2,Unknown
+52,1,3,118,186,False,0,190,0,0.0,1,0.0,1,Unknown
+47,1,0,110,275,False,0,118,1,1.0,1,1.0,2,Unknown
+51,1,0,140,299,False,1,173,1,1.6,2,0.0,3,Unknown
+62,1,1,120,281,False,0,103,0,1.4,1,1.0,3,Unknown
+40,1,0,152,223,False,1,181,0,0.0,2,0.0,3,Unknown
+54,1,0,110,206,False,0,108,1,0.0,1,1.0,2,Unknown
+44,1,0,110,197,False,0,177,0,0.0,2,1.0,2,Unknown
+53,1,0,142,226,False,0,111,1,0.0,2,0.0,3,Unknown
+48,1,0,130,256,True,0,150,1,0.0,2,2.0,3,Unknown
+57,1,0,110,335,False,1,143,1,3.0,1,1.0,3,Unknown
+59,1,2,126,218,True,1,134,0,2.2,1,1.0,1,Unknown
+61,0,0,145,307,False,0,146,1,1.0,1,0.0,3,Unknown
+63,1,0,130,254,False,0,147,0,1.4,1,1.0,3,Unknown
+43,1,0,120,177,False,0,120,1,2.5,1,0.0,3,Unknown
+29,1,1,130,204,False,0,202,0,0.0,2,0.0,2,Unknown
+42,1,1,120,295,False,1,162,0,0.0,2,0.0,2,Unknown
+54,1,1,108,309,False,1,156,0,0.0,2,0.0,3,Unknown
+44,1,0,120,169,False,1,144,1,2.8,0,0.0,1,Unknown
+60,1,0,145,282,False,0,142,1,2.8,1,2.0,3,Unknown
+65,0,2,140,417,True,0,157,0,0.8,2,1.0,2,Unknown
+61,1,0,120,260,False,1,140,1,3.6,1,1.0,3,Unknown
+60,0,3,150,240,False,1,171,0,0.9,2,0.0,2,Unknown
+66,1,0,120,302,False,0,151,0,0.4,1,0.0,2,Unknown
+53,1,2,130,197,True,0,152,0,1.2,0,0.0,2,Unknown
+52,1,2,138,223,False,1,169,0,0.0,2,4.0,2,Unknown
+57,1,0,140,192,False,1,148,0,0.4,1,0.0,1,Unknown
+60,0,3,150,240,False,1,171,0,0.9,2,0.0,2,Unknown
+51,0,2,130,256,False,0,149,0,0.5,2,0.0,2,Unknown
+41,1,1,135,203,False,1,132,0,0.0,1,0.0,1,Unknown
+50,1,2,129,196,False,1,163,0,0.0,2,0.0,2,Unknown
+54,1,1,108,309,False,1,156,0,0.0,2,0.0,3,Unknown
+58,0,0,170,225,True,0,146,1,2.8,1,2.0,1,Unknown
+55,0,1,132,342,False,1,166,0,1.2,2,0.0,2,Unknown
+64,0,0,180,325,False,1,154,1,0.0,2,0.0,2,Unknown
+47,1,2,138,257,False,0,156,0,0.0,2,0.0,2,Unknown
+41,1,1,110,235,False,1,153,0,0.0,2,0.0,2,Unknown
+57,1,0,152,274,False,1,88,1,1.2,1,1.0,3,Unknown
+63,0,0,124,197,False,1,136,1,0.0,1,0.0,2,Unknown
+61,1,3,134,234,False,1,145,0,2.6,1,2.0,2,Unknown
+34,1,3,118,182,False,0,174,0,0.0,2,0.0,2,Unknown
+47,1,0,112,204,False,1,143,0,0.1,2,0.0,2,Unknown
+40,1,0,110,167,False,0,114,1,2.0,1,0.0,3,Unknown
+51,0,2,120,295,False,0,157,0,0.6,2,0.0,2,Unknown
+41,1,0,110,172,False,0,158,0,0.0,2,0.0,3,Unknown
+52,1,3,152,298,True,1,178,0,1.2,1,0.0,3,Unknown
+39,1,2,140,321,False,0,182,0,0.0,2,0.0,2,Unknown
+58,1,0,114,318,False,2,140,0,4.4,0,3.0,1,Unknown
+54,1,1,192,283,False,0,195,0,0.0,2,1.0,3,Unknown
+58,1,0,125,300,False,0,171,0,0.0,2,2.0,3,Unknown
+54,1,2,120,258,False,0,147,0,0.4,1,0.0,3,Unknown
+63,1,0,130,330,True,0,132,1,1.8,2,3.0,3,Unknown
+54,1,1,108,309,False,1,156,0,0.0,2,0.0,3,Unknown
+40,1,3,140,199,False,1,178,1,1.4,2,0.0,3,Unknown
+54,1,2,120,258,False,0,147,0,0.4,1,0.0,3,Unknown
+67,0,2,115,564,False,0,160,0,1.6,1,0.0,3,Unknown
+41,1,1,120,157,False,1,182,0,0.0,2,0.0,2,Unknown
+77,1,0,125,304,False,0,162,1,0.0,2,3.0,2,Unknown
+51,1,2,100,222,False,1,143,1,1.2,1,0.0,2,Unknown
+77,1,0,125,304,False,0,162,1,0.0,2,3.0,2,Unknown
+48,1,0,124,274,False,0,166,0,0.5,1,0.0,3,Unknown
+56,1,0,125,249,True,0,144,1,1.2,1,1.0,2,Unknown
+59,1,0,170,326,False,0,140,1,3.4,0,0.0,3,Unknown
+56,1,0,132,184,False,0,105,1,2.1,1,1.0,1,Unknown
+57,0,0,120,354,False,1,163,1,0.6,2,0.0,2,Unknown
+43,1,2,130,315,False,1,162,0,1.9,2,1.0,2,Unknown
+45,0,1,112,160,False,1,138,0,0.0,1,0.0,2,Unknown
+43,1,0,150,247,False,1,171,0,1.5,2,0.0,2,Unknown
+56,1,0,130,283,True,0,103,1,1.6,0,0.0,3,Unknown
+56,1,1,120,240,False,1,169,0,0.0,0,0.0,2,Unknown
+39,0,2,94,199,False,1,179,0,0.0,2,0.0,2,Unknown
+54,1,0,110,239,False,1,126,1,2.8,1,1.0,3,Unknown
+56,0,0,200,288,True,0,133,1,4.0,0,2.0,3,Unknown
+56,1,0,130,283,True,0,103,1,1.6,0,0.0,3,Unknown
+64,1,0,120,246,False,0,96,1,2.2,0,1.0,2,Unknown
+44,1,0,110,197,False,0,177,0,0.0,2,1.0,2,Unknown
+56,0,0,134,409,False,0,150,1,1.9,1,2.0,3,Unknown
+63,1,0,140,187,False,0,144,1,4.0,2,2.0,3,Unknown
+64,1,3,110,211,False,0,144,1,1.8,1,0.0,2,Unknown
+60,1,0,140,293,False,0,170,0,1.2,1,2.0,3,Unknown
+42,1,2,130,180,False,1,150,0,0.0,2,0.0,2,Unknown
+45,1,1,128,308,False,0,170,0,0.0,2,0.0,2,Unknown
+57,1,0,165,289,True,0,124,0,1.0,1,3.0,3,Unknown
+40,1,0,110,167,False,0,114,1,2.0,1,0.0,3,Unknown
+56,1,0,125,249,True,0,144,1,1.2,1,1.0,2,Unknown
+63,1,0,130,254,False,0,147,0,1.4,1,1.0,3,Unknown
+64,1,2,125,309,False,1,131,1,1.8,1,0.0,3,Unknown
+41,1,2,112,250,False,1,179,0,0.0,2,0.0,2,Unknown
+56,1,1,130,221,False,0,163,0,0.0,2,0.0,3,Unknown
+67,0,2,115,564,False,0,160,0,1.6,1,0.0,3,Unknown
+69,1,3,160,234,True,0,131,0,0.1,1,1.0,2,Unknown
+67,1,0,160,286,False,0,108,1,1.5,1,3.0,2,Unknown
+59,1,2,150,212,True,1,157,0,1.6,2,0.0,2,Unknown
+58,1,0,100,234,False,1,156,0,0.1,2,1.0,3,Unknown
+45,1,0,115,260,False,0,185,0,0.0,2,0.0,2,Unknown
+60,0,2,102,318,False,1,160,0,0.0,2,1.0,2,Unknown
+50,1,0,144,200,False,0,126,1,0.9,1,0.0,3,Unknown
+62,0,0,124,209,False,1,163,0,0.0,2,0.0,2,Unknown
+34,1,3,118,182,False,0,174,0,0.0,2,0.0,2,Unknown
+52,1,3,152,298,True,1,178,0,1.2,1,0.0,3,Unknown
+64,1,3,170,227,False,0,155,0,0.6,1,0.0,3,Unknown
+66,0,2,146,278,False,0,152,0,0.0,1,1.0,2,Unknown
+42,1,3,148,244,False,0,178,0,0.8,2,2.0,2,Unknown
+59,1,2,126,218,True,1,134,0,2.2,1,1.0,1,Unknown
+41,1,2,112,250,False,1,179,0,0.0,2,0.0,2,Unknown
+38,1,2,138,175,False,1,173,0,0.0,2,4.0,2,Unknown
+62,1,1,120,281,False,0,103,0,1.4,1,1.0,3,Unknown
+42,1,2,120,240,True,1,194,0,0.8,0,0.0,3,Unknown
+67,1,0,100,299,False,0,125,1,0.9,1,2.0,2,Unknown
+50,1,0,150,243,False,0,128,0,2.6,1,0.0,3,Unknown
+43,1,2,130,315,False,1,162,0,1.9,2,1.0,2,Unknown
+45,1,1,128,308,False,0,170,0,0.0,2,0.0,2,Unknown
+49,1,1,130,266,False,1,171,0,0.6,2,0.0,2,Unknown
+65,1,0,135,254,False,0,127,0,2.8,1,1.0,3,Unknown
+41,1,1,120,157,False,1,182,0,0.0,2,0.0,2,Unknown
+46,1,0,140,311,False,1,120,1,1.8,1,2.0,3,Unknown
+54,1,0,122,286,False,0,116,1,3.2,1,2.0,2,Unknown
+57,0,1,130,236,False,0,174,0,0.0,1,1.0,2,Unknown
+63,1,0,130,254,False,0,147,0,1.4,1,1.0,3,Unknown
+64,1,3,110,211,False,0,144,1,1.8,1,0.0,2,Unknown
+39,0,2,94,199,False,1,179,0,0.0,2,0.0,2,Unknown
+51,1,0,140,261,False,0,186,1,0.0,2,0.0,2,Unknown
+54,1,2,150,232,False,0,165,0,1.6,2,0.0,3,Unknown
+49,1,2,118,149,False,0,126,0,0.8,2,3.0,2,Unknown
+44,0,2,118,242,False,1,149,0,0.3,1,1.0,2,Unknown
+52,1,1,128,205,True,1,184,0,0.0,2,0.0,2,Unknown
+66,0,0,178,228,True,1,165,1,1.0,1,2.0,3,Unknown
+58,1,0,125,300,False,0,171,0,0.0,2,2.0,3,Unknown
+56,1,1,120,236,False,1,178,0,0.8,2,0.0,2,Unknown
+60,1,0,125,258,False,0,141,1,2.8,1,1.0,3,Unknown
+41,0,1,126,306,False,1,163,0,0.0,2,0.0,2,Unknown
+49,0,0,130,269,False,1,163,0,0.0,2,0.0,2,Unknown
+64,1,3,170,227,False,0,155,0,0.6,1,0.0,3,Unknown
+49,1,2,118,149,False,0,126,0,0.8,2,3.0,2,Unknown
+57,1,1,124,261,False,1,141,0,0.3,2,0.0,3,Unknown
+60,1,0,117,230,True,1,160,1,1.4,2,2.0,3,Unknown
+62,0,0,150,244,False,1,154,1,1.4,1,0.0,2,Unknown
+54,0,1,132,288,True,0,159,1,0.0,2,1.0,2,Unknown
+67,1,2,152,212,False,0,150,0,0.8,1,0.0,3,Unknown
+38,1,2,138,175,False,1,173,0,0.0,2,4.0,2,Unknown
+60,1,2,140,185,False,0,155,0,3.0,1,0.0,2,Unknown
+51,1,2,125,245,True,0,166,0,2.4,1,0.0,2,Unknown
+44,1,1,130,219,False,0,188,0,0.0,2,0.0,2,Unknown
+54,1,1,192,283,False,0,195,0,0.0,2,1.0,3,Unknown
+46,1,0,140,311,False,1,120,1,1.8,1,2.0,3,Unknown
+39,0,2,138,220,False,1,152,0,0.0,1,0.0,2,Unknown
+42,1,2,130,180,False,1,150,0,0.0,2,0.0,2,Unknown
+47,1,0,110,275,False,0,118,1,1.0,1,1.0,2,Unknown
+45,0,1,112,160,False,1,138,0,0.0,1,0.0,2,Unknown
+55,1,0,132,353,False,1,132,1,1.2,1,1.0,3,Unknown
+57,1,0,165,289,True,0,124,0,1.0,1,3.0,3,Unknown
+35,1,0,120,198,False,1,130,1,1.6,1,0.0,3,Unknown
+62,0,0,140,394,False,0,157,0,1.2,1,0.0,2,Unknown
+35,0,0,138,183,False,1,182,0,1.4,2,0.0,2,Unknown
+64,0,0,180,325,False,1,154,1,0.0,2,0.0,2,Unknown
+38,1,3,120,231,False,1,182,1,3.8,1,0.0,3,Unknown
+66,1,0,120,302,False,0,151,0,0.4,1,0.0,2,Unknown
+44,1,2,120,226,False,1,169,0,0.0,2,0.0,2,Unknown
+54,1,2,150,232,False,0,165,0,1.6,2,0.0,3,Unknown
+48,1,0,122,222,False,0,186,0,0.0,2,0.0,2,Unknown
+55,0,1,132,342,False,1,166,0,1.2,2,0.0,2,Unknown
+58,0,0,170,225,True,0,146,1,2.8,1,2.0,1,Unknown
+45,1,0,104,208,False,0,148,1,3.0,1,0.0,2,Unknown
+53,1,0,123,282,False,1,95,1,2.0,1,2.0,3,Unknown
+67,1,0,120,237,False,1,71,0,1.0,1,0.0,2,Unknown
+58,1,2,132,224,False,0,173,0,3.2,2,2.0,3,Unknown
+71,0,2,110,265,True,0,130,0,0.0,2,1.0,2,Unknown
+43,1,0,110,211,False,1,161,0,0.0,2,0.0,3,Unknown
+44,1,1,120,263,False,1,173,0,0.0,2,0.0,3,Unknown
+39,0,2,138,220,False,1,152,0,0.0,1,0.0,2,Unknown
+54,1,0,110,206,False,0,108,1,0.0,1,1.0,2,Unknown
+66,1,0,160,228,False,0,138,0,2.3,2,0.0,1,Unknown
+56,1,0,130,283,True,0,103,1,1.6,0,0.0,3,Unknown
+57,1,0,132,207,False,1,168,1,0.0,2,0.0,3,Unknown
+44,1,1,130,219,False,0,188,0,0.0,2,0.0,2,Unknown
+55,1,0,160,289,False,0,145,1,0.8,1,1.0,3,Unknown
+41,0,1,105,198,False,1,168,0,0.0,2,1.0,2,Unknown
+45,0,1,130,234,False,0,175,0,0.6,1,0.0,2,Unknown
+35,1,1,122,192,False,1,174,0,0.0,2,0.0,2,Unknown
+41,0,1,130,204,False,0,172,0,1.4,2,0.0,2,Unknown
+64,1,3,110,211,False,0,144,1,1.8,1,0.0,2,Unknown
+58,1,2,132,224,False,0,173,0,3.2,2,2.0,3,Unknown
+71,0,2,110,265,True,0,130,0,0.0,2,1.0,2,Unknown
+64,0,2,140,313,False,1,133,0,0.2,2,0.0,3,Unknown
+71,0,1,160,302,False,1,162,0,0.4,2,2.0,2,Unknown
+58,0,2,120,340,False,1,172,0,0.0,2,0.0,2,Unknown
+40,1,0,152,223,False,1,181,0,0.0,2,0.0,3,Unknown
+52,1,2,138,223,False,1,169,0,0.0,2,4.0,2,Unknown
+58,1,0,128,259,False,0,130,1,3.0,1,2.0,3,Unknown
+61,1,2,150,243,True,1,137,1,1.0,1,0.0,2,Unknown
+59,1,2,150,212,True,1,157,0,1.6,2,0.0,2,Unknown
+56,0,0,200,288,True,0,133,1,4.0,0,2.0,3,Unknown
+67,1,0,100,299,False,0,125,1,0.9,1,2.0,2,Unknown
+67,1,0,120,237,False,1,71,0,1.0,1,0.0,2,Unknown
+58,1,0,150,270,False,0,111,1,0.8,2,0.0,3,Unknown
+35,1,1,122,192,False,1,174,0,0.0,2,0.0,2,Unknown
+52,1,1,120,325,False,1,172,0,0.2,2,0.0,2,Unknown
+46,0,1,105,204,False,1,172,0,0.0,2,0.0,2,Unknown
+51,1,2,94,227,False,1,154,1,0.0,2,1.0,3,Unknown
+55,0,1,132,342,False,1,166,0,1.2,2,0.0,2,Unknown
+60,1,0,145,282,False,0,142,1,2.8,1,2.0,3,Unknown
+52,0,2,136,196,False,0,169,0,0.1,1,0.0,2,Unknown
+62,1,0,120,267,False,1,99,1,1.8,1,2.0,3,Unknown
+44,0,2,118,242,False,1,149,0,0.3,1,1.0,2,Unknown
+44,1,1,120,220,False,1,170,0,0.0,2,0.0,2,Unknown
+59,1,2,126,218,True,1,134,0,2.2,1,1.0,1,Unknown
+56,0,1,140,294,False,0,153,0,1.3,1,0.0,2,Unknown
+61,1,0,120,260,False,1,140,1,3.6,1,1.0,3,Unknown
+48,1,0,130,256,True,0,150,1,0.0,2,2.0,3,Unknown
+70,1,2,160,269,False,1,112,1,2.9,1,1.0,3,Unknown
+74,0,1,120,269,False,0,121,1,0.2,2,1.0,2,Unknown
+40,1,3,140,199,False,1,178,1,1.4,2,0.0,3,Unknown
+42,1,3,148,244,False,0,178,0,0.8,2,2.0,2,Unknown
+64,0,2,140,313,False,1,133,0,0.2,2,0.0,3,Unknown
+63,0,2,135,252,False,0,172,0,0.0,2,0.0,2,Unknown
+59,1,0,140,177,False,1,162,1,0.0,2,1.0,3,Unknown
+53,0,2,128,216,False,0,115,0,0.0,2,0.0,0,Unknown
+53,0,0,130,264,False,0,143,0,0.4,1,0.0,2,Unknown
+48,0,2,130,275,False,1,139,0,0.2,2,0.0,2,Unknown
+45,1,0,142,309,False,0,147,1,0.0,1,3.0,3,Unknown
+66,1,1,160,246,False,1,120,1,0.0,1,3.0,1,Unknown
+48,1,1,130,245,False,0,180,0,0.2,1,0.0,2,Unknown
+56,0,1,140,294,False,0,153,0,1.3,1,0.0,2,Unknown
+54,1,1,192,283,False,0,195,0,0.0,2,1.0,3,Unknown
+57,1,0,150,276,False,0,112,1,0.6,1,1.0,1,Unknown
+70,1,0,130,322,False,0,109,0,2.4,1,3.0,2,Unknown
+53,0,2,128,216,False,0,115,0,0.0,2,0.0,0,Unknown
+37,0,2,120,215,False,1,170,0,0.0,2,0.0,2,Unknown
+63,0,0,108,269,False,1,169,1,1.8,1,2.0,2,Unknown
+37,1,2,130,250,False,1,187,0,3.5,0,0.0,2,Unknown
+54,0,2,110,214,False,1,158,0,1.6,1,0.0,2,Unknown
+60,1,0,130,206,False,0,132,1,2.4,1,2.0,3,Unknown
+58,1,0,150,270,False,0,111,1,0.8,2,0.0,3,Unknown
+57,1,2,150,126,True,1,173,0,0.2,2,1.0,3,Unknown
+54,1,2,125,273,False,0,152,0,0.5,0,1.0,2,Unknown
+56,1,2,130,256,True,0,142,1,0.6,1,1.0,1,Unknown
+60,1,0,130,253,False,1,144,1,1.4,2,1.0,3,Unknown
+38,1,2,138,175,False,1,173,0,0.0,2,4.0,2,Unknown
+44,1,2,120,226,False,1,169,0,0.0,2,0.0,2,Unknown
+65,0,2,155,269,False,1,148,0,0.8,2,0.0,2,Unknown
+52,1,2,172,199,True,1,162,0,0.5,2,0.0,3,Unknown
+41,1,1,120,157,False,1,182,0,0.0,2,0.0,2,Unknown
+66,1,1,160,246,False,1,120,1,0.0,1,3.0,1,Unknown
+50,1,0,150,243,False,0,128,0,2.6,1,0.0,3,Unknown
+54,0,2,108,267,False,0,167,0,0.0,2,0.0,2,Unknown
+43,1,0,132,247,True,0,143,1,0.1,1,4.0,3,Unknown
+62,0,2,130,263,False,1,97,0,1.2,1,1.0,3,Unknown
+66,1,0,120,302,False,0,151,0,0.4,1,0.0,2,Unknown
+50,1,0,144,200,False,0,126,1,0.9,1,0.0,3,Unknown
+57,1,0,110,335,False,1,143,1,3.0,1,1.0,3,Unknown
+57,1,0,110,201,False,1,126,1,1.5,1,0.0,1,Unknown
+57,1,1,124,261,False,1,141,0,0.3,2,0.0,3,Unknown
+46,0,0,138,243,False,0,152,1,0.0,1,0.0,2,Unknown
+59,1,0,164,176,True,0,90,0,1.0,1,2.0,1,Unknown
+67,1,0,160,286,False,0,108,1,1.5,1,3.0,2,Unknown
+59,1,3,134,204,False,1,162,0,0.8,2,2.0,2,Unknown
+53,0,2,128,216,False,0,115,0,0.0,2,0.0,0,Unknown
+48,1,0,122,222,False,0,186,0,0.0,2,0.0,2,Unknown
+62,1,2,130,231,False,1,146,0,1.8,1,3.0,3,Unknown
+43,0,2,122,213,False,1,165,0,0.2,1,0.0,2,Unknown
+53,1,2,130,246,True,0,173,0,0.0,2,3.0,2,Unknown
+57,0,1,130,236,False,0,174,0,0.0,1,1.0,2,Unknown
+53,1,2,130,246,True,0,173,0,0.0,2,3.0,2,Unknown
+58,1,2,112,230,False,0,165,0,2.5,1,1.0,3,Unknown
+48,1,1,110,229,False,1,168,0,1.0,0,0.0,3,Unknown
+58,1,2,105,240,False,0,154,1,0.6,1,0.0,3,Unknown
+51,1,2,110,175,False,1,123,0,0.6,2,0.0,2,Unknown
+43,0,0,132,341,True,0,136,1,3.0,1,0.0,3,Unknown
+55,1,0,132,353,False,1,132,1,1.2,1,1.0,3,Unknown
+54,0,2,110,214,False,1,158,0,1.6,1,0.0,2,Unknown
+58,1,1,120,284,False,0,160,0,1.8,1,0.0,2,Unknown
+46,0,2,142,177,False,0,160,1,1.4,0,0.0,2,Unknown
+66,1,0,160,228,False,0,138,0,2.3,2,0.0,1,Unknown
+59,1,1,140,221,False,1,164,1,0.0,2,0.0,2,Unknown
+64,0,0,130,303,False,1,122,0,2.0,1,2.0,2,Unknown
+67,1,0,120,237,False,1,71,0,1.0,1,0.0,2,Unknown
+52,1,3,118,186,False,0,190,0,0.0,1,0.0,1,Unknown
+58,1,0,146,218,False,1,105,0,2.0,1,1.0,3,Unknown
+58,1,2,132,224,False,0,173,0,3.2,2,2.0,3,Unknown
+59,1,0,110,239,False,0,142,1,1.2,1,1.0,3,Unknown
+58,1,0,150,270,False,0,111,1,0.8,2,0.0,3,Unknown
+35,1,0,126,282,False,0,156,1,0.0,2,0.0,3,Unknown
+51,1,2,110,175,False,1,123,0,0.6,2,0.0,2,Unknown
+42,0,2,120,209,False,1,173,0,0.0,1,0.0,2,Unknown
+77,1,0,125,304,False,0,162,1,0.0,2,3.0,2,Unknown
+64,1,0,120,246,False,0,96,1,2.2,0,1.0,2,Unknown
+63,1,3,145,233,True,0,150,0,2.3,0,0.0,1,Unknown
+58,0,1,136,319,True,0,152,0,0.0,2,2.0,2,Unknown
+45,1,3,110,264,False,1,132,0,1.2,1,0.0,3,Unknown
+51,1,2,110,175,False,1,123,0,0.6,2,0.0,2,Unknown
+62,0,0,160,164,False,0,145,0,6.2,0,3.0,3,Unknown
+63,1,0,130,330,True,0,132,1,1.8,2,3.0,3,Unknown
+66,0,2,146,278,False,0,152,0,0.0,1,1.0,2,Unknown
+68,1,2,180,274,True,0,150,1,1.6,1,0.0,3,Unknown
+40,1,0,110,167,False,0,114,1,2.0,1,0.0,3,Unknown
+66,1,0,160,228,False,0,138,0,2.3,2,0.0,1,Unknown
+63,1,3,145,233,True,0,150,0,2.3,0,0.0,1,Unknown
+49,1,2,120,188,False,1,139,0,2.0,1,3.0,3,Unknown
+71,0,0,112,149,False,1,125,0,1.6,1,0.0,2,Unknown
+70,1,1,156,245,False,0,143,0,0.0,2,0.0,2,Unknown
+46,0,1,105,204,False,1,172,0,0.0,2,0.0,2,Unknown
+61,1,0,140,207,False,0,138,1,1.9,2,1.0,3,Unknown
+56,1,2,130,256,True,0,142,1,0.6,1,1.0,1,Unknown
+58,1,2,140,211,True,0,165,0,0.0,2,0.0,2,Unknown
+58,1,0,100,234,False,1,156,0,0.1,2,1.0,3,Unknown
+46,0,0,138,243,False,0,152,1,0.0,1,0.0,2,Unknown
+46,1,2,150,231,False,1,147,0,3.6,1,0.0,2,Unknown
+41,0,1,105,198,False,1,168,0,0.0,2,1.0,2,Unknown
+56,1,0,125,249,True,0,144,1,1.2,1,1.0,2,Unknown
+57,1,0,150,276,False,0,112,1,0.6,1,1.0,1,Unknown
+70,1,0,130,322,False,0,109,0,2.4,1,3.0,2,Unknown
+59,1,3,170,288,False,0,159,0,0.2,1,0.0,3,Unknown
+41,0,1,130,204,False,0,172,0,1.4,2,0.0,2,Unknown
+54,1,2,125,273,False,0,152,0,0.5,0,1.0,2,Unknown
+52,1,2,138,223,False,1,169,0,0.0,2,4.0,2,Unknown
+62,0,0,124,209,False,1,163,0,0.0,2,0.0,2,Unknown
+65,0,2,160,360,False,0,151,0,0.8,2,0.0,2,Unknown
+57,0,0,128,303,False,0,159,0,0.0,2,1.0,2,Unknown
+42,0,0,102,265,False,0,122,0,0.6,1,0.0,2,Unknown
+57,0,0,120,354,False,1,163,1,0.6,2,0.0,2,Unknown
+58,0,1,136,319,True,0,152,0,0.0,2,2.0,2,Unknown
+45,1,0,142,309,False,0,147,1,0.0,1,3.0,3,Unknown
+51,0,0,130,305,False,1,142,1,1.2,1,0.0,3,Unknown
+54,0,2,160,201,False,1,163,0,0.0,2,1.0,2,Unknown
+57,1,2,150,168,False,1,174,0,1.6,2,0.0,2,Unknown
+43,1,0,132,247,True,0,143,1,0.1,1,4.0,3,Unknown
+47,1,2,108,243,False,1,152,0,0.0,2,0.0,2,Unknown
+67,1,2,152,212,False,0,150,0,0.8,1,0.0,3,Unknown
+65,0,0,150,225,False,0,114,0,1.0,1,3.0,3,Unknown
+60,0,2,102,318,False,1,160,0,0.0,2,1.0,2,Unknown
+37,1,2,130,250,False,1,187,0,3.5,0,0.0,2,Unknown
+41,0,2,112,268,False,0,172,1,0.0,2,0.0,2,Unknown
+57,0,0,120,354,False,1,163,1,0.6,2,0.0,2,Unknown
+59,0,0,174,249,False,1,143,1,0.0,1,0.0,2,Unknown
+67,1,0,120,229,False,0,129,1,2.6,1,2.0,3,Unknown
+47,1,2,130,253,False,1,179,0,0.0,2,0.0,2,Unknown
+58,1,1,120,284,False,0,160,0,1.8,1,0.0,2,Unknown
+62,0,0,150,244,False,1,154,1,1.4,1,0.0,2,Unknown
+60,1,0,140,293,False,0,170,0,1.2,1,2.0,3,Unknown
+57,1,0,152,274,False,1,88,1,1.2,1,1.0,3,Unknown
+57,1,2,150,168,False,1,174,0,1.6,2,0.0,2,Unknown
+47,1,2,130,253,False,1,179,0,0.0,2,0.0,2,Unknown
+52,1,1,128,205,True,1,184,0,0.0,2,0.0,2,Unknown
+53,1,2,130,246,True,0,173,0,0.0,2,3.0,2,Unknown
+55,1,0,160,289,False,0,145,1,0.8,1,1.0,3,Unknown
+51,0,2,120,295,False,0,157,0,0.6,2,0.0,2,Unknown
+52,1,0,112,230,False,1,160,0,0.0,2,1.0,2,Unknown
+63,0,0,150,407,False,0,154,0,4.0,1,3.0,3,Unknown
+49,0,1,134,271,False,1,162,0,0.0,1,0.0,2,Unknown
+66,0,0,178,228,True,1,165,1,1.0,1,2.0,3,Unknown
+49,0,1,134,271,False,1,162,0,0.0,1,0.0,2,Unknown
+65,0,0,150,225,False,0,114,0,1.0,1,3.0,3,Unknown
+69,1,3,160,234,True,0,131,0,0.1,1,1.0,2,Unknown
+47,1,2,108,243,False,1,152,0,0.0,2,0.0,2,Unknown
+39,0,2,138,220,False,1,152,0,0.0,1,0.0,2,Unknown
+43,1,0,150,247,False,1,171,0,1.5,2,0.0,2,Unknown
+51,1,0,140,261,False,0,186,1,0.0,2,0.0,2,Unknown
+69,1,2,140,254,False,0,146,0,2.0,1,3.0,3,Unknown
+48,1,2,124,255,True,1,175,0,0.0,2,2.0,2,Unknown
+52,1,3,118,186,False,0,190,0,0.0,1,0.0,1,Unknown
+43,1,0,110,211,False,1,161,0,0.0,2,0.0,3,Unknown
+67,0,2,115,564,False,0,160,0,1.6,1,0.0,3,Unknown
+38,1,2,138,175,False,1,173,0,0.0,2,4.0,2,Unknown
+44,1,1,130,219,False,0,188,0,0.0,2,0.0,2,Unknown
+47,1,0,110,275,False,0,118,1,1.0,1,1.0,2,Unknown
+61,1,2,150,243,True,1,137,1,1.0,1,0.0,2,Unknown
+67,1,0,160,286,False,0,108,1,1.5,1,3.0,2,Unknown
+60,0,3,150,240,False,1,171,0,0.9,2,0.0,2,Unknown
+64,0,2,140,313,False,1,133,0,0.2,2,0.0,3,Unknown
+58,0,0,130,197,False,1,131,0,0.6,1,0.0,2,Unknown
+41,1,2,130,214,False,0,168,0,2.0,1,0.0,2,Unknown
+48,1,1,110,229,False,1,168,0,1.0,0,0.0,3,Unknown
+57,1,2,150,126,True,1,173,0,0.2,2,1.0,3,Unknown
+57,1,0,165,289,True,0,124,0,1.0,1,3.0,3,Unknown
+57,1,2,128,229,False,0,150,0,0.4,1,1.0,3,Unknown
+39,1,2,140,321,False,0,182,0,0.0,2,0.0,2,Unknown
+58,1,0,128,216,False,0,131,1,2.2,1,3.0,3,Unknown
+51,0,0,130,305,False,1,142,1,1.2,1,0.0,3,Unknown
+63,0,0,150,407,False,0,154,0,4.0,1,3.0,3,Unknown
+51,1,0,140,298,False,1,122,1,4.2,1,3.0,3,Unknown
+35,1,1,122,192,False,1,174,0,0.0,2,0.0,2,Unknown
+65,1,0,110,248,False,0,158,0,0.6,2,2.0,1,Unknown
+62,1,1,120,281,False,0,103,0,1.4,1,1.0,3,Unknown
+41,1,0,110,172,False,0,158,0,0.0,2,0.0,3,Unknown
+65,1,0,135,254,False,0,127,0,2.8,1,1.0,3,Unknown
+54,0,1,132,288,True,0,159,1,0.0,2,1.0,2,Unknown
+61,1,2,150,243,True,1,137,1,1.0,1,0.0,2,Unknown
+57,0,0,128,303,False,0,159,0,0.0,2,1.0,2,Unknown
+57,1,2,150,168,False,1,174,0,1.6,2,0.0,2,Unknown
+64,1,2,125,309,False,1,131,1,1.8,1,0.0,3,Unknown
+55,1,0,132,353,False,1,132,1,1.2,1,1.0,3,Unknown
+51,1,2,125,245,True,0,166,0,2.4,1,0.0,2,Unknown
+59,1,0,135,234,False,1,161,0,0.5,1,0.0,3,Unknown
+68,1,2,180,274,True,0,150,1,1.6,1,0.0,3,Unknown
+57,1,1,154,232,False,0,164,0,0.0,2,1.0,2,Unknown
+54,1,0,140,239,False,1,160,0,1.2,2,0.0,2,Unknown
+46,0,2,142,177,False,0,160,1,1.4,0,0.0,2,Unknown
+71,0,0,112,149,False,1,125,0,1.6,1,0.0,2,Unknown
+35,0,0,138,183,False,1,182,0,1.4,2,0.0,2,Unknown
+46,0,2,142,177,False,0,160,1,1.4,0,0.0,2,Unknown
+45,0,1,130,234,False,0,175,0,0.6,1,0.0,2,Unknown
+47,1,2,108,243,False,1,152,0,0.0,2,0.0,2,Unknown
+44,0,2,118,242,False,1,149,0,0.3,1,1.0,2,Unknown
+61,1,0,120,260,False,1,140,1,3.6,1,1.0,3,Unknown
+41,0,1,130,204,False,0,172,0,1.4,2,0.0,2,Unknown
+56,0,0,200,288,True,0,133,1,4.0,0,2.0,3,Unknown
+55,0,0,180,327,False,2,117,1,3.4,1,0.0,2,Unknown
+54,0,1,132,288,True,0,159,1,0.0,2,1.0,2,Unknown
+43,1,0,120,177,False,0,120,1,2.5,1,0.0,3,Unknown
+44,1,0,112,290,False,0,153,0,0.0,2,1.0,2,Unknown
+54,1,0,110,206,False,0,108,1,0.0,1,1.0,2,Unknown
+44,1,1,120,220,False,1,170,0,0.0,2,0.0,2,Unknown
+49,1,2,120,188,False,1,139,0,2.0,1,3.0,3,Unknown
+60,1,0,130,206,False,0,132,1,2.4,1,2.0,3,Unknown
+41,0,1,105,198,False,1,168,0,0.0,2,1.0,2,Unknown
+49,1,2,120,188,False,1,139,0,2.0,1,3.0,3,Unknown
+61,1,0,148,203,False,1,161,0,0.0,2,1.0,3,Unknown
+59,1,0,140,177,False,1,162,1,0.0,2,1.0,3,Unknown
+58,1,1,125,220,False,1,144,0,0.4,1,4.0,3,Unknown
+67,0,2,152,277,False,1,172,0,0.0,2,1.0,2,Unknown
+61,1,0,148,203,False,1,161,0,0.0,2,1.0,3,Unknown
+58,1,2,112,230,False,0,165,0,2.5,1,1.0,3,Unknown
+51,0,2,130,256,False,0,149,0,0.5,2,0.0,2,Unknown
+62,0,0,160,164,False,0,145,0,6.2,0,3.0,3,Unknown
+62,0,0,124,209,False,1,163,0,0.0,2,0.0,2,Unknown
+59,1,3,178,270,False,0,145,0,4.2,0,0.0,3,Unknown
+69,1,3,160,234,True,0,131,0,0.1,1,1.0,2,Unknown
+60,0,0,150,258,False,0,157,0,2.6,1,2.0,3,Unknown
+65,0,2,155,269,False,1,148,0,0.8,2,0.0,2,Unknown
+63,0,0,124,197,False,1,136,1,0.0,1,0.0,2,Unknown
+53,0,0,138,234,False,0,160,0,0.0,2,0.0,2,Unknown
+54,0,2,108,267,False,0,167,0,0.0,2,0.0,2,Unknown
+76,0,2,140,197,False,2,116,0,1.1,1,0.0,2,Unknown
+50,0,2,120,219,False,1,158,0,1.6,1,0.0,2,Unknown
+52,1,1,120,325,False,1,172,0,0.2,2,0.0,2,Unknown
+46,1,0,120,249,False,0,144,0,0.8,2,0.0,3,Unknown
+64,1,3,170,227,False,0,155,0,0.6,1,0.0,3,Unknown
+58,1,0,128,259,False,0,130,1,3.0,1,2.0,3,Unknown
+44,1,2,140,235,False,0,180,0,0.0,2,0.0,2,Unknown
+62,0,0,140,394,False,0,157,0,1.2,1,0.0,2,Unknown
+59,1,3,134,204,False,1,162,0,0.8,2,2.0,2,Unknown
+54,1,2,125,273,False,0,152,0,0.5,0,1.0,2,Unknown
+48,1,1,110,229,False,1,168,0,1.0,0,0.0,3,Unknown
+70,1,0,130,322,False,0,109,0,2.4,1,3.0,2,Unknown
+67,0,0,106,223,False,1,142,0,0.3,2,2.0,2,Unknown
+51,0,2,120,295,False,0,157,0,0.6,2,0.0,2,Unknown
+68,1,2,118,277,False,1,151,0,1.0,2,1.0,3,Unknown
+69,1,2,140,254,False,0,146,0,2.0,1,3.0,3,Unknown
+54,1,0,122,286,False,0,116,1,3.2,1,2.0,2,Unknown
+43,0,0,132,341,True,0,136,1,3.0,1,0.0,3,Unknown
+53,1,2,130,197,True,0,152,0,1.2,0,0.0,2,Unknown
+58,1,0,100,234,False,1,156,0,0.1,2,1.0,3,Unknown
+67,1,0,125,254,True,1,163,0,0.2,1,2.0,3,Unknown
+59,1,0,140,177,False,1,162,1,0.0,2,1.0,3,Unknown
+48,1,0,122,222,False,0,186,0,0.0,2,0.0,2,Unknown
+39,0,2,94,199,False,1,179,0,0.0,2,0.0,2,Unknown
+67,1,0,120,237,False,1,71,0,1.0,1,0.0,2,Unknown
+58,0,0,130,197,False,1,131,0,0.6,1,0.0,2,Unknown
+65,0,2,155,269,False,1,148,0,0.8,2,0.0,2,Unknown
+42,0,2,120,209,False,1,173,0,0.0,1,0.0,2,Unknown
+44,1,0,112,290,False,0,153,0,0.0,2,1.0,2,Unknown
+56,1,0,132,184,False,0,105,1,2.1,1,1.0,1,Unknown
+53,0,0,138,234,False,0,160,0,0.0,2,0.0,2,Unknown
+50,0,0,110,254,False,0,159,0,0.0,2,0.0,2,Unknown
+41,1,2,130,214,False,0,168,0,2.0,1,0.0,2,Unknown
+54,0,2,160,201,False,1,163,0,0.0,2,1.0,2,Unknown
+42,1,2,120,240,True,1,194,0,0.8,0,0.0,3,Unknown
+54,0,2,135,304,True,1,170,0,0.0,2,0.0,2,Unknown
+60,1,0,145,282,False,0,142,1,2.8,1,2.0,3,Unknown
+34,1,3,118,182,False,0,174,0,0.0,2,0.0,2,Unknown
+44,1,0,112,290,False,0,153,0,0.0,2,1.0,2,Unknown
+60,1,0,125,258,False,0,141,1,2.8,1,1.0,3,Unknown
+43,1,0,150,247,False,1,171,0,1.5,2,0.0,2,Unknown
+52,1,3,152,298,True,1,178,0,1.2,1,0.0,3,Unknown
+70,1,0,130,322,False,0,109,0,2.4,1,3.0,2,Unknown
+62,0,0,140,394,False,0,157,0,1.2,1,0.0,2,Unknown
+58,1,0,146,218,False,1,105,0,2.0,1,1.0,3,Unknown
+46,1,1,101,197,True,1,156,0,0.0,2,0.0,3,Unknown
+44,1,2,140,235,False,0,180,0,0.0,2,0.0,2,Unknown
+55,1,1,130,262,False,1,155,0,0.0,2,0.0,2,Unknown
+43,1,0,120,177,False,0,120,1,2.5,1,0.0,3,Unknown
+55,1,0,132,353,False,1,132,1,1.2,1,1.0,3,Unknown
+40,1,3,140,199,False,1,178,1,1.4,2,0.0,3,Unknown
+64,1,2,125,309,False,1,131,1,1.8,1,0.0,3,Unknown
+59,1,0,164,176,True,0,90,0,1.0,1,2.0,1,Unknown
+61,0,0,145,307,False,0,146,1,1.0,1,0.0,3,Unknown
+54,1,0,122,286,False,0,116,1,3.2,1,2.0,2,Unknown
+74,0,1,120,269,False,0,121,1,0.2,2,1.0,2,Unknown
+63,0,0,108,269,False,1,169,1,1.8,1,2.0,2,Unknown
+70,1,2,160,269,False,1,112,1,2.9,1,1.0,3,Unknown
+63,0,0,108,269,False,1,169,1,1.8,1,2.0,2,Unknown
+64,1,0,145,212,False,0,132,0,2.0,1,2.0,1,Unknown
+61,1,0,148,203,False,1,161,0,0.0,2,1.0,3,Unknown
+59,1,1,140,221,False,1,164,1,0.0,2,0.0,2,Unknown
+38,1,2,138,175,False,1,173,0,0.0,2,4.0,2,Unknown
+58,1,1,120,284,False,0,160,0,1.8,1,0.0,2,Unknown
+63,0,1,140,195,False,1,179,0,0.0,2,2.0,2,Unknown
+62,0,2,130,263,False,1,97,0,1.2,1,1.0,3,Unknown
+46,1,0,140,311,False,1,120,1,1.8,1,2.0,3,Unknown
+58,0,2,120,340,False,1,172,0,0.0,2,0.0,2,Unknown
+63,0,1,140,195,False,1,179,0,0.0,2,2.0,2,Unknown
+47,1,2,130,253,False,1,179,0,0.0,2,0.0,2,Unknown
+71,0,2,110,265,True,0,130,0,0.0,2,1.0,2,Unknown
+66,1,0,112,212,False,0,132,1,0.1,2,1.0,2,Unknown
+42,1,0,136,315,False,1,125,1,1.8,1,0.0,1,Unknown
+64,1,0,145,212,False,0,132,0,2.0,1,2.0,1,Unknown
+55,0,0,180,327,False,2,117,1,3.4,1,0.0,2,Unknown
+43,0,0,132,341,True,0,136,1,3.0,1,0.0,3,Unknown
+55,0,0,128,205,False,2,130,1,2.0,1,1.0,3,Unknown
+58,0,0,170,225,True,0,146,1,2.8,1,2.0,1,Unknown
+55,1,0,140,217,False,1,111,1,5.6,0,0.0,3,Unknown
+51,0,0,130,305,False,1,142,1,1.2,1,0.0,3,Unknown
+50,0,2,120,219,False,1,158,0,1.6,1,0.0,2,Unknown
+43,1,0,115,303,False,1,181,0,1.2,1,0.0,2,Unknown
+41,0,1,126,306,False,1,163,0,0.0,2,0.0,2,Unknown
+49,1,1,130,266,False,1,171,0,0.6,2,0.0,2,Unknown
+65,1,0,110,248,False,0,158,0,0.6,2,2.0,1,Unknown
+57,1,0,152,274,False,1,88,1,1.2,1,1.0,3,Unknown
+48,1,0,130,256,True,0,150,1,0.0,2,2.0,3,Unknown
+62,0,0,138,294,True,1,106,0,1.9,1,3.0,2,Unknown
+61,1,3,134,234,False,1,145,0,2.6,1,2.0,2,Unknown
+59,1,3,178,270,False,0,145,0,4.2,0,0.0,3,Unknown
+69,1,2,140,254,False,0,146,0,2.0,1,3.0,3,Unknown
+58,1,2,132,224,False,0,173,0,3.2,2,2.0,3,Unknown
+38,1,3,120,231,False,1,182,1,3.8,1,0.0,3,Unknown
+69,0,3,140,239,False,1,151,0,1.8,2,2.0,2,Unknown
+65,1,3,138,282,True,0,174,0,1.4,1,1.0,2,Unknown
+45,1,3,110,264,False,1,132,0,1.2,1,0.0,3,Unknown
+49,1,1,130,266,False,1,171,0,0.6,2,0.0,2,Unknown
+45,0,1,130,234,False,0,175,0,0.6,1,0.0,2,Unknown
+61,1,0,138,166,False,0,125,1,3.6,1,1.0,2,Unknown
+52,1,0,125,212,False,1,168,0,1.0,2,2.0,3,Unknown
+53,0,0,130,264,False,0,143,0,0.4,1,0.0,2,Unknown
+59,0,0,174,249,False,1,143,1,0.0,1,0.0,2,Unknown
+58,0,2,120,340,False,1,172,0,0.0,2,0.0,2,Unknown
+65,1,3,138,282,True,0,174,0,1.4,1,1.0,2,Unknown
+58,0,0,130,197,False,1,131,0,0.6,1,0.0,2,Unknown
+46,0,0,138,243,False,0,152,1,0.0,1,0.0,2,Unknown
+56,0,0,134,409,False,0,150,1,1.9,1,2.0,3,Unknown
+64,1,0,128,263,False,1,105,1,0.2,1,1.0,3,Unknown
+65,1,0,120,177,False,1,140,0,0.4,2,0.0,3,Unknown
+44,1,2,120,226,False,1,169,0,0.0,2,0.0,2,Unknown
+50,1,0,150,243,False,0,128,0,2.6,1,0.0,3,Unknown
+47,1,2,108,243,False,1,152,0,0.0,2,0.0,2,Unknown
+64,0,0,130,303,False,1,122,0,2.0,1,2.0,2,Unknown
+71,0,0,112,149,False,1,125,0,1.6,1,0.0,2,Unknown
+45,0,1,130,234,False,0,175,0,0.6,1,0.0,2,Unknown
+62,1,0,120,267,False,1,99,1,1.8,1,2.0,3,Unknown
+41,1,1,120,157,False,1,182,0,0.0,2,0.0,2,Unknown
+66,0,3,150,226,False,1,114,0,2.6,0,0.0,2,Unknown
+56,1,0,130,283,True,0,103,1,1.6,0,0.0,3,Unknown
+41,0,1,126,306,False,1,163,0,0.0,2,0.0,2,Unknown
+41,1,1,110,235,False,1,153,0,0.0,2,0.0,2,Unknown
+57,0,1,130,236,False,0,174,0,0.0,1,1.0,2,Unknown
+39,0,2,138,220,False,1,152,0,0.0,1,0.0,2,Unknown
+64,1,2,125,309,False,1,131,1,1.8,1,0.0,3,Unknown
+59,1,0,138,271,False,0,182,0,0.0,2,0.0,2,Unknown
+61,1,0,138,166,False,0,125,1,3.6,1,1.0,2,Unknown
+58,1,0,114,318,False,2,140,0,4.4,0,3.0,1,Unknown
+47,1,0,112,204,False,1,143,0,0.1,2,0.0,2,Unknown
+58,0,0,100,248,False,0,122,0,1.0,1,0.0,2,Unknown
+66,0,3,150,226,False,1,114,0,2.6,0,0.0,2,Unknown
+65,0,2,140,417,True,0,157,0,0.8,2,1.0,2,Unknown
+35,1,1,122,192,False,1,174,0,0.0,2,0.0,2,Unknown
+57,1,1,124,261,False,1,141,0,0.3,2,0.0,3,Unknown
+29,1,1,130,204,False,0,202,0,0.0,2,0.0,2,Unknown
+66,1,1,160,246,False,1,120,1,0.0,1,3.0,1,Unknown
+61,0,0,130,330,False,0,169,0,0.0,2,0.0,2,Unknown
+52,1,0,125,212,False,1,168,0,1.0,2,2.0,3,Unknown
+68,1,2,118,277,False,1,151,0,1.0,2,1.0,3,Unknown
+54,1,2,120,258,False,0,147,0,0.4,1,0.0,3,Unknown
+63,1,0,130,330,True,0,132,1,1.8,2,3.0,3,Unknown
+58,1,0,100,234,False,1,156,0,0.1,2,1.0,3,Unknown
+60,1,0,130,253,False,1,144,1,1.4,2,1.0,3,Unknown
+63,1,0,130,254,False,0,147,0,1.4,1,1.0,3,Unknown
+41,0,2,112,268,False,0,172,1,0.0,2,0.0,2,Unknown
+68,1,2,180,274,True,0,150,1,1.6,1,0.0,3,Unknown
+42,1,1,120,295,False,1,162,0,0.0,2,0.0,2,Unknown
+59,1,0,170,326,False,0,140,1,3.4,0,0.0,3,Unknown
+59,1,0,164,176,True,0,90,0,1.0,1,2.0,1,Unknown
+43,1,0,120,177,False,0,120,1,2.5,1,0.0,3,Unknown
+60,1,2,140,185,False,0,155,0,3.0,1,0.0,2,Unknown
+63,0,0,150,407,False,0,154,0,4.0,1,3.0,3,Unknown
+52,1,0,128,204,True,1,156,1,1.0,1,0.0,0,Unknown
+58,1,0,125,300,False,0,171,0,0.0,2,2.0,3,Unknown
+56,0,0,200,288,True,0,133,1,4.0,0,2.0,3,Unknown
+54,0,2,135,304,True,1,170,0,0.0,2,0.0,2,Unknown
+58,1,2,105,240,False,0,154,1,0.6,1,0.0,3,Unknown
+55,0,1,135,250,False,0,161,0,1.4,1,0.0,2,Unknown
+53,1,0,140,203,True,0,155,1,3.1,0,0.0,3,Unknown
+63,0,1,140,195,False,1,179,0,0.0,2,2.0,2,Unknown
+39,1,0,118,219,False,1,140,0,1.2,1,0.0,3,Unknown
+35,1,0,126,282,False,0,156,1,0.0,2,0.0,3,Unknown
+50,0,2,120,219,False,1,158,0,1.6,1,0.0,2,Unknown
+67,1,2,152,212,False,0,150,0,0.8,1,0.0,3,Unknown
+66,1,0,112,212,False,0,132,1,0.1,2,1.0,2,Unknown
+35,1,0,126,282,False,0,156,1,0.0,2,0.0,3,Unknown
+41,1,2,130,214,False,0,168,0,2.0,1,0.0,2,Unknown
+35,1,0,120,198,False,1,130,1,1.6,1,0.0,3,Unknown
+71,0,1,160,302,False,1,162,0,0.4,2,2.0,2,Unknown
+57,1,0,110,201,False,1,126,1,1.5,1,0.0,1,Unknown
+51,1,2,94,227,False,1,154,1,0.0,2,1.0,3,Unknown
+58,1,0,128,216,False,0,131,1,2.2,1,3.0,3,Unknown
+57,1,2,128,229,False,0,150,0,0.4,1,1.0,3,Unknown
+56,0,1,140,294,False,0,153,0,1.3,1,0.0,2,Unknown
+60,0,2,120,178,True,1,96,0,0.0,2,0.0,2,Unknown
+45,1,3,110,264,False,1,132,0,1.2,1,0.0,3,Unknown
+56,1,1,130,221,False,0,163,0,0.0,2,0.0,3,Unknown
+35,1,0,120,198,False,1,130,1,1.6,1,0.0,3,Unknown
+45,0,1,112,160,False,1,138,0,0.0,1,0.0,2,Unknown
+66,0,3,150,226,False,1,114,0,2.6,0,0.0,2,Unknown
+51,1,3,125,213,False,0,125,1,1.4,2,1.0,2,Unknown
+70,1,1,156,245,False,0,143,0,0.0,2,0.0,2,Unknown
+55,0,0,128,205,False,2,130,1,2.0,1,1.0,3,Unknown
+56,1,2,130,256,True,0,142,1,0.6,1,1.0,1,Unknown
+55,0,1,135,250,False,0,161,0,1.4,1,0.0,2,Unknown
+52,1,0,108,233,True,1,147,0,0.1,2,3.0,3,Unknown
+64,1,2,140,335,False,1,158,0,0.0,2,0.0,2,Unknown
+45,1,0,115,260,False,0,185,0,0.0,2,0.0,2,Unknown
+67,0,2,152,277,False,1,172,0,0.0,2,1.0,2,Unknown
+68,0,2,120,211,False,0,115,0,1.5,1,0.0,2,Unknown
+74,0,1,120,269,False,0,121,1,0.2,2,1.0,2,Unknown
+60,0,0,150,258,False,0,157,0,2.6,1,2.0,3,Unknown
+48,1,0,124,274,False,0,166,0,0.5,1,0.0,3,Unknown
+56,1,1,130,221,False,0,163,0,0.0,2,0.0,3,Unknown
+46,1,0,140,311,False,1,120,1,1.8,1,2.0,3,Unknown
+55,0,1,135,250,False,0,161,0,1.4,1,0.0,2,Unknown
+44,1,1,120,220,False,1,170,0,0.0,2,0.0,2,Unknown
+52,1,0,112,230,False,1,160,0,0.0,2,1.0,2,Unknown
+51,1,2,94,227,False,1,154,1,0.0,2,1.0,3,Unknown
+44,0,2,108,141,False,1,175,0,0.6,1,0.0,2,Unknown
+52,1,0,128,204,True,1,156,1,1.0,1,0.0,0,Unknown
+50,1,2,129,196,False,1,163,0,0.0,2,0.0,2,Unknown
+59,1,0,110,239,False,0,142,1,1.2,1,1.0,3,Unknown
+67,1,0,120,229,False,0,129,1,2.6,1,2.0,3,Unknown
+58,1,0,125,300,False,0,171,0,0.0,2,2.0,3,Unknown
+52,1,0,128,255,False,1,161,1,0.0,2,1.0,3,Unknown
+44,1,2,140,235,False,0,180,0,0.0,2,0.0,2,Unknown
+41,0,2,112,268,False,0,172,1,0.0,2,0.0,2,Unknown
+63,1,0,130,330,True,0,132,1,1.8,2,3.0,3,Unknown
+58,1,1,125,220,False,1,144,0,0.4,1,4.0,3,Unknown
+60,0,2,102,318,False,1,160,0,0.0,2,1.0,2,Unknown
+51,1,2,100,222,False,1,143,1,1.2,1,0.0,2,Unknown
+64,1,2,140,335,False,1,158,0,0.0,2,0.0,2,Unknown
+60,1,0,117,230,True,1,160,1,1.4,2,2.0,3,Unknown
+44,1,2,120,226,False,1,169,0,0.0,2,0.0,2,Unknown
+58,1,1,125,220,False,1,144,0,0.4,1,4.0,3,Unknown
+55,1,1,130,262,False,1,155,0,0.0,2,0.0,2,Unknown
+65,0,2,160,360,False,0,151,0,0.8,2,0.0,2,Unknown
+48,1,1,130,245,False,0,180,0,0.2,1,0.0,2,Unknown
+65,1,0,120,177,False,1,140,0,0.4,2,0.0,3,Unknown
+51,0,2,130,256,False,0,149,0,0.5,2,0.0,2,Unknown
+48,1,2,124,255,True,1,175,0,0.0,2,2.0,2,Unknown
+64,1,0,120,246,False,0,96,1,2.2,0,1.0,2,Unknown
+66,1,0,160,228,False,0,138,0,2.3,2,0.0,1,Unknown
+46,0,1,105,204,False,1,172,0,0.0,2,0.0,2,Unknown
+61,0,0,130,330,False,0,169,0,0.0,2,0.0,2,Unknown
+57,1,0,150,276,False,0,112,1,0.6,1,1.0,1,Unknown
+49,0,0,130,269,False,1,163,0,0.0,2,0.0,2,Unknown
+56,1,1,130,221,False,0,163,0,0.0,2,0.0,3,Unknown
+58,0,3,150,283,True,0,162,0,1.0,2,0.0,2,Unknown
+63,1,0,140,187,False,0,144,1,4.0,2,2.0,3,Unknown
+57,1,0,110,335,False,1,143,1,3.0,1,1.0,3,Unknown
+57,1,0,110,335,False,1,143,1,3.0,1,1.0,3,Unknown
+68,1,0,144,193,True,1,141,0,3.4,1,2.0,3,Unknown
+46,1,1,101,197,True,1,156,0,0.0,2,0.0,3,Unknown
+71,0,2,110,265,True,0,130,0,0.0,2,1.0,2,Unknown
+41,1,1,135,203,False,1,132,0,0.0,1,0.0,1,Unknown
+45,0,0,138,236,False,0,152,1,0.2,1,0.0,2,Unknown
+62,0,0,150,244,False,1,154,1,1.4,1,0.0,2,Unknown
+65,0,0,150,225,False,0,114,0,1.0,1,3.0,3,Unknown
+48,0,2,130,275,False,1,139,0,0.2,2,0.0,2,Unknown
+51,1,2,100,222,False,1,143,1,1.2,1,0.0,2,Unknown
+61,0,0,145,307,False,0,146,1,1.0,1,0.0,3,Unknown
+53,1,0,123,282,False,1,95,1,2.0,1,2.0,3,Unknown
+59,1,3,134,204,False,1,162,0,0.8,2,2.0,2,Unknown
+34,0,1,118,210,False,1,192,0,0.7,2,0.0,2,Unknown
+44,1,0,120,169,False,1,144,1,2.8,0,0.0,1,Unknown
+58,1,0,146,218,False,1,105,0,2.0,1,1.0,3,Unknown
+64,0,0,130,303,False,1,122,0,2.0,1,2.0,2,Unknown
+56,1,1,120,240,False,1,169,0,0.0,0,0.0,2,Unknown
+54,1,2,150,232,False,0,165,0,1.6,2,0.0,3,Unknown
+55,1,0,160,289,False,0,145,1,0.8,1,1.0,3,Unknown
+67,1,0,125,254,True,1,163,0,0.2,1,2.0,3,Unknown
+51,1,0,140,298,False,1,122,1,4.2,1,3.0,3,Unknown
+62,0,0,138,294,True,1,106,0,1.9,1,3.0,2,Unknown
+62,1,1,120,281,False,0,103,0,1.4,1,1.0,3,Unknown
+54,1,0,110,239,False,1,126,1,2.8,1,1.0,3,Unknown
+54,1,0,110,239,False,1,126,1,2.8,1,1.0,3,Unknown
+68,1,0,144,193,True,1,141,0,3.4,1,2.0,3,Unknown
+60,0,2,120,178,True,1,96,0,0.0,2,0.0,2,Unknown
+61,1,3,134,234,False,1,145,0,2.6,1,2.0,2,Unknown
+62,1,1,128,208,True,0,140,0,0.0,2,0.0,2,Unknown
+41,1,1,135,203,False,1,132,0,0.0,1,0.0,1,Unknown
+65,0,0,150,225,False,0,114,0,1.0,1,3.0,3,Unknown
+59,1,3,170,288,False,0,159,0,0.2,1,0.0,3,Unknown
+43,1,0,115,303,False,1,181,0,1.2,1,0.0,2,Unknown
+67,1,0,120,229,False,0,129,1,2.6,1,2.0,3,Unknown
+63,1,3,145,233,True,0,150,0,2.3,0,0.0,1,Unknown
+63,0,0,124,197,False,1,136,1,0.0,1,0.0,2,Unknown
+52,1,0,112,230,False,1,160,0,0.0,2,1.0,2,Unknown
+58,0,0,130,197,False,1,131,0,0.6,1,0.0,2,Unknown
+53,1,0,142,226,False,0,111,1,0.0,2,0.0,3,Unknown
+57,1,0,150,276,False,0,112,1,0.6,1,1.0,1,Unknown
+44,1,2,130,233,False,1,179,1,0.4,2,0.0,2,Unknown
+51,1,2,94,227,False,1,154,1,0.0,2,1.0,3,Unknown
+54,0,2,110,214,False,1,158,0,1.6,1,0.0,2,Unknown
+40,1,0,110,167,False,0,114,1,2.0,1,0.0,3,Unknown
+57,1,1,124,261,False,1,141,0,0.3,2,0.0,3,Unknown
+62,0,0,140,268,False,0,160,0,3.6,0,2.0,2,Unknown
+53,1,0,140,203,True,0,155,1,3.1,0,0.0,3,Unknown
+62,1,1,128,208,True,0,140,0,0.0,2,0.0,2,Unknown
+58,1,2,105,240,False,0,154,1,0.6,1,0.0,3,Unknown
+70,1,1,156,245,False,0,143,0,0.0,2,0.0,2,Unknown
+45,1,0,115,260,False,0,185,0,0.0,2,0.0,2,Unknown
+42,1,3,148,244,False,0,178,0,0.8,2,2.0,2,Unknown
+58,0,0,170,225,True,0,146,1,2.8,1,2.0,1,Unknown
+61,1,0,140,207,False,0,138,1,1.9,2,1.0,3,Unknown
+62,0,0,140,268,False,0,160,0,3.6,0,2.0,2,Unknown
+60,1,0,130,253,False,1,144,1,1.4,2,1.0,3,Unknown
+54,1,0,140,239,False,1,160,0,1.2,2,0.0,2,Unknown
+61,1,0,138,166,False,0,125,1,3.6,1,1.0,2,Unknown
+63,0,2,135,252,False,0,172,0,0.0,2,0.0,2,Unknown
+42,1,2,130,180,False,1,150,0,0.0,2,0.0,2,Unknown
+57,1,2,128,229,False,0,150,0,0.4,1,1.0,3,Unknown
+44,1,2,130,233,False,1,179,1,0.4,2,0.0,2,Unknown
+54,1,0,124,266,False,0,109,1,2.2,1,1.0,3,Unknown
+51,1,2,100,222,False,1,143,1,1.2,1,0.0,2,Unknown
+58,1,1,125,220,False,1,144,0,0.4,1,4.0,3,Unknown
+68,1,2,118,277,False,1,151,0,1.0,2,1.0,3,Unknown
+55,1,0,140,217,False,1,111,1,5.6,0,0.0,3,Unknown
+42,1,0,136,315,False,1,125,1,1.8,1,0.0,1,Unknown
+49,1,2,118,149,False,0,126,0,0.8,2,3.0,2,Unknown
+53,0,0,138,234,False,0,160,0,0.0,2,0.0,2,Unknown
+52,1,2,172,199,True,1,162,0,0.5,2,0.0,3,Unknown
+51,1,3,125,213,False,0,125,1,1.4,2,1.0,2,Unknown
+51,1,0,140,261,False,0,186,1,0.0,2,0.0,2,Unknown
+70,1,0,145,174,False,1,125,1,2.6,0,0.0,3,Unknown
+35,0,0,138,183,False,1,182,0,1.4,2,0.0,2,Unknown
+58,1,2,112,230,False,0,165,0,2.5,1,1.0,3,Unknown
+59,1,3,160,273,False,0,125,0,0.0,2,0.0,2,Unknown
+60,1,0,140,293,False,0,170,0,1.2,1,2.0,3,Unknown
+56,1,0,132,184,False,0,105,1,2.1,1,1.0,1,Unknown
+35,0,0,138,183,False,1,182,0,1.4,2,0.0,2,Unknown
+61,1,0,138,166,False,0,125,1,3.6,1,1.0,2,Unknown
+58,0,3,150,283,True,0,162,0,1.0,2,0.0,2,Unknown
+52,1,0,128,255,False,1,161,1,0.0,2,1.0,3,Unknown
+58,1,1,120,284,False,0,160,0,1.8,1,0.0,2,Unknown
+37,1,2,130,250,False,1,187,0,3.5,0,0.0,2,Unknown
+52,1,0,128,255,False,1,161,1,0.0,2,1.0,3,Unknown
+67,1,0,120,229,False,0,129,1,2.6,1,2.0,3,Unknown
+65,1,3,138,282,True,0,174,0,1.4,1,1.0,2,Unknown
+46,1,1,101,197,True,1,156,0,0.0,2,0.0,3,Unknown
+68,0,2,120,211,False,0,115,0,1.5,1,0.0,2,Unknown
+43,1,0,115,303,False,1,181,0,1.2,1,0.0,2,Unknown
+68,0,2,120,211,False,0,115,0,1.5,1,0.0,2,Unknown
+51,1,0,140,299,False,1,173,1,1.6,2,0.0,3,Unknown
+52,1,0,112,230,False,1,160,0,0.0,2,1.0,2,Unknown
+64,1,2,140,335,False,1,158,0,0.0,2,0.0,2,Unknown
+59,1,3,170,288,False,0,159,0,0.2,1,0.0,3,Unknown
+52,1,0,125,212,False,1,168,0,1.0,2,2.0,3,Unknown
+59,1,3,160,273,False,0,125,0,0.0,2,0.0,2,Unknown
+60,0,3,150,240,False,1,171,0,0.9,2,0.0,2,Unknown
+41,1,2,112,250,False,1,179,0,0.0,2,0.0,2,Unknown
+41,1,1,110,235,False,1,153,0,0.0,2,0.0,2,Unknown
+56,1,1,120,240,False,1,169,0,0.0,0,0.0,2,Unknown
+56,1,1,120,236,False,1,178,0,0.8,2,0.0,2,Unknown
+48,0,2,130,275,False,1,139,0,0.2,2,0.0,2,Unknown
+39,1,2,140,321,False,0,182,0,0.0,2,0.0,2,Unknown
+64,1,3,170,227,False,0,155,0,0.6,1,0.0,3,Unknown
+57,1,0,140,192,False,1,148,0,0.4,1,0.0,1,Unknown
+59,1,3,160,273,False,0,125,0,0.0,2,0.0,2,Unknown
+60,1,0,130,206,False,0,132,1,2.4,1,2.0,3,Unknown
+61,1,0,140,207,False,0,138,1,1.9,2,1.0,3,Unknown
+43,0,2,122,213,False,1,165,0,0.2,1,0.0,2,Unknown
+54,1,0,120,188,False,1,113,0,1.4,1,1.0,3,Unknown
+59,1,0,138,271,False,0,182,0,0.0,2,0.0,2,Unknown
+57,1,0,132,207,False,1,168,1,0.0,2,0.0,3,Unknown
+57,1,1,154,232,False,0,164,0,0.0,2,1.0,2,Unknown
+57,1,0,130,131,False,1,115,1,1.2,1,1.0,3,Unknown
+48,1,0,124,274,False,0,166,0,0.5,1,0.0,3,Unknown
+70,1,0,145,174,False,1,125,1,2.6,0,0.0,3,Unknown
+57,1,0,165,289,True,0,124,0,1.0,1,3.0,3,Unknown
+61,1,0,120,260,False,1,140,1,3.6,1,1.0,3,Unknown
+57,1,0,110,201,False,1,126,1,1.5,1,0.0,1,Unknown
+60,0,0,150,258,False,0,157,0,2.6,1,2.0,3,Unknown
+63,0,0,150,407,False,0,154,0,4.0,1,3.0,3,Unknown
+55,0,0,128,205,False,2,130,1,2.0,1,1.0,3,Unknown
+64,0,0,180,325,False,1,154,1,0.0,2,0.0,2,Unknown
+54,1,0,110,239,False,1,126,1,2.8,1,1.0,3,Unknown
+52,1,0,128,204,True,1,156,1,1.0,1,0.0,0,Unknown
+51,1,0,140,299,False,1,173,1,1.6,2,0.0,3,Unknown
+62,0,2,130,263,False,1,97,0,1.2,1,1.0,3,Unknown
+59,1,3,178,270,False,0,145,0,4.2,0,0.0,3,Unknown
+52,1,1,134,201,False,1,158,0,0.8,2,1.0,2,Unknown
+42,0,0,102,265,False,0,122,0,0.6,1,0.0,2,Unknown
+59,1,0,135,234,False,1,161,0,0.5,1,0.0,3,Unknown
+61,1,3,134,234,False,1,145,0,2.6,1,2.0,2,Unknown
+42,0,0,102,265,False,0,122,0,0.6,1,0.0,2,Unknown
+62,0,0,140,268,False,0,160,0,3.6,0,2.0,2,Unknown
+59,1,2,126,218,True,1,134,0,2.2,1,1.0,1,Unknown
+55,1,1,130,262,False,1,155,0,0.0,2,0.0,2,Unknown
+64,1,0,120,246,False,0,96,1,2.2,0,1.0,2,Unknown
+42,1,0,140,226,False,1,178,0,0.0,2,0.0,2,Unknown
+50,0,1,120,244,False,1,162,0,1.1,2,0.0,2,Unknown
+62,1,0,120,267,False,1,99,1,1.8,1,2.0,3,Unknown
+50,1,0,144,200,False,0,126,1,0.9,1,0.0,3,Unknown
+50,1,2,140,233,False,1,163,0,0.6,1,1.0,3,Unknown
+58,0,1,136,319,True,0,152,0,0.0,2,2.0,2,Unknown
+35,1,0,120,198,False,1,130,1,1.6,1,0.0,3,Unknown
+45,1,0,104,208,False,0,148,1,3.0,1,0.0,2,Unknown
+66,1,0,112,212,False,0,132,1,0.1,2,1.0,2,Unknown
+46,1,0,120,249,False,0,144,0,0.8,2,0.0,3,Unknown
+65,1,0,135,254,False,0,127,0,2.8,1,1.0,3,Unknown
+47,1,2,130,253,False,1,179,0,0.0,2,0.0,2,Unknown
+59,1,3,134,204,False,1,162,0,0.8,2,2.0,2,Unknown
+38,1,3,120,231,False,1,182,1,3.8,1,0.0,3,Unknown
+39,1,0,118,219,False,1,140,0,1.2,1,0.0,3,Unknown
+58,1,0,146,218,False,1,105,0,2.0,1,1.0,3,Unknown
+44,1,1,120,263,False,1,173,0,0.0,2,0.0,3,Unknown
+54,1,0,140,239,False,1,160,0,1.2,2,0.0,2,Unknown
+61,0,0,130,330,False,0,169,0,0.0,2,0.0,2,Unknown
+57,1,0,130,131,False,1,115,1,1.2,1,1.0,3,Unknown
+54,1,0,110,206,False,0,108,1,0.0,1,1.0,2,Unknown
+42,1,2,120,240,True,1,194,0,0.8,0,0.0,3,Unknown
+54,1,0,124,266,False,0,109,1,2.2,1,1.0,3,Unknown
+60,1,0,130,206,False,0,132,1,2.4,1,2.0,3,Unknown
+65,1,0,135,254,False,0,127,0,2.8,1,1.0,3,Unknown
+40,1,0,152,223,False,1,181,0,0.0,2,0.0,3,Unknown
+51,0,2,140,308,False,0,142,0,1.5,2,1.0,2,Unknown
+38,1,3,120,231,False,1,182,1,3.8,1,0.0,3,Unknown
+42,1,2,130,180,False,1,150,0,0.0,2,0.0,2,Unknown
+56,1,1,120,240,False,1,169,0,0.0,0,0.0,2,Unknown
+43,1,2,130,315,False,1,162,0,1.9,2,1.0,2,Unknown
+64,1,2,140,335,False,1,158,0,0.0,2,0.0,2,Unknown
+53,1,0,142,226,False,0,111,1,0.0,2,0.0,3,Unknown
+49,0,1,134,271,False,1,162,0,0.0,1,0.0,2,Unknown
+57,0,0,140,241,False,1,123,1,0.2,1,0.0,3,Unknown
+52,0,2,136,196,False,0,169,0,0.1,1,0.0,2,Unknown
+69,0,3,140,239,False,1,151,0,1.8,2,2.0,2,Unknown
+65,1,0,120,177,False,1,140,0,0.4,2,0.0,3,Unknown
+66,0,0,178,228,True,1,165,1,1.0,1,2.0,3,Unknown
+56,1,3,120,193,False,0,162,0,1.9,1,0.0,3,Unknown
+67,0,2,152,277,False,1,172,0,0.0,2,1.0,2,Unknown
+54,0,2,160,201,False,1,163,0,0.0,2,1.0,2,Unknown
+70,1,0,145,174,False,1,125,1,2.6,0,0.0,3,Unknown
+57,1,0,132,207,False,1,168,1,0.0,2,0.0,3,Unknown
+67,1,0,160,286,False,0,108,1,1.5,1,3.0,2,Unknown
+62,0,2,130,263,False,1,97,0,1.2,1,1.0,3,Unknown
+54,0,2,135,304,True,1,170,0,0.0,2,0.0,2,Unknown
+45,0,0,138,236,False,0,152,1,0.2,1,0.0,2,Unknown
+53,0,0,130,264,False,0,143,0,0.4,1,0.0,2,Unknown
+62,1,2,130,231,False,1,146,0,1.8,1,3.0,3,Unknown
+49,0,0,130,269,False,1,163,0,0.0,2,0.0,2,Unknown
+50,1,2,140,233,False,1,163,0,0.6,1,1.0,3,Unknown
+65,0,2,140,417,True,0,157,0,0.8,2,1.0,2,Unknown
+69,0,3,140,239,False,1,151,0,1.8,2,2.0,2,Unknown
+52,0,2,136,196,False,0,169,0,0.1,1,0.0,2,Unknown
+58,0,0,100,248,False,0,122,0,1.0,1,0.0,2,Unknown
+52,1,0,108,233,True,1,147,0,0.1,2,3.0,3,Unknown
+57,0,0,140,241,False,1,123,1,0.2,1,0.0,3,Unknown
+44,0,2,108,141,False,1,175,0,0.6,1,0.0,2,Unknown
+76,0,2,140,197,False,2,116,0,1.1,1,0.0,2,Unknown
+58,1,0,128,259,False,0,130,1,3.0,1,2.0,3,Unknown
+60,0,2,120,178,True,1,96,0,0.0,2,0.0,2,Unknown
+53,1,0,140,203,True,0,155,1,3.1,0,0.0,3,Unknown
+52,1,1,120,325,False,1,172,0,0.2,2,0.0,2,Unknown
+38,1,2,138,175,False,1,173,0,0.0,2,4.0,2,Unknown
+52,1,2,172,199,True,1,162,0,0.5,2,0.0,3,Unknown
+52,1,3,118,186,False,0,190,0,0.0,1,0.0,1,Unknown
+51,1,2,125,245,True,0,166,0,2.4,1,0.0,2,Unknown
+43,1,0,110,211,False,1,161,0,0.0,2,0.0,3,Unknown
+39,1,0,118,219,False,1,140,0,1.2,1,0.0,3,Unknown
+63,0,0,108,269,False,1,169,1,1.8,1,2.0,2,Unknown
+52,1,1,128,205,True,1,184,0,0.0,2,0.0,2,Unknown
+44,1,0,110,197,False,0,177,0,0.0,2,1.0,2,Unknown
+45,1,0,142,309,False,0,147,1,0.0,1,3.0,3,Unknown
+57,1,0,140,192,False,1,148,0,0.4,1,0.0,1,Unknown
+39,1,0,118,219,False,1,140,0,1.2,1,0.0,3,Unknown
+67,0,0,106,223,False,1,142,0,0.3,2,2.0,2,Unknown
+64,1,0,128,263,False,1,105,1,0.2,1,1.0,3,Unknown
+59,1,0,135,234,False,1,161,0,0.5,1,0.0,3,Unknown
+62,1,2,130,231,False,1,146,0,1.8,1,3.0,3,Unknown
+55,0,0,180,327,False,2,117,1,3.4,1,0.0,2,Unknown
+57,1,1,154,232,False,0,164,0,0.0,2,1.0,2,Unknown
+60,1,0,140,293,False,0,170,0,1.2,1,2.0,3,Unknown
+71,0,1,160,302,False,1,162,0,0.4,2,2.0,2,Unknown
+56,1,1,120,236,False,1,178,0,0.8,2,0.0,2,Unknown
+60,1,0,117,230,True,1,160,1,1.4,2,2.0,3,Unknown
+50,0,0,110,254,False,0,159,0,0.0,2,0.0,2,Unknown
+43,1,0,132,247,True,0,143,1,0.1,1,4.0,3,Unknown
+59,1,0,110,239,False,0,142,1,1.2,1,1.0,3,Unknown
+44,1,1,120,263,False,1,173,0,0.0,2,0.0,3,Unknown
+56,0,0,134,409,False,0,150,1,1.9,1,2.0,3,Unknown
+54,1,0,120,188,False,1,113,0,1.4,1,1.0,3,Unknown
+42,1,0,136,315,False,1,125,1,1.8,1,0.0,1,Unknown
+67,1,0,125,254,True,1,163,0,0.2,1,2.0,3,Unknown
+64,1,0,145,212,False,0,132,0,2.0,1,2.0,1,Unknown
+42,1,0,140,226,False,1,178,0,0.0,2,0.0,2,Unknown
+66,1,0,112,212,False,0,132,1,0.1,2,1.0,2,Unknown
+52,1,0,108,233,True,1,147,0,0.1,2,3.0,3,Unknown
+51,0,2,140,308,False,0,142,0,1.5,2,1.0,2,Unknown
+55,0,0,128,205,False,2,130,1,2.0,1,1.0,3,Unknown
+58,1,2,140,211,True,0,165,0,0.0,2,0.0,2,Unknown
+56,1,3,120,193,False,0,162,0,1.9,1,0.0,3,Unknown
+42,1,1,120,295,False,1,162,0,0.0,2,0.0,2,Unknown
+40,1,0,152,223,False,1,181,0,0.0,2,0.0,3,Unknown
+51,1,0,140,299,False,1,173,1,1.6,2,0.0,3,Unknown
+45,1,1,128,308,False,0,170,0,0.0,2,0.0,2,Unknown
+48,1,1,110,229,False,1,168,0,1.0,0,0.0,3,Unknown
+58,1,0,114,318,False,2,140,0,4.4,0,3.0,1,Unknown
+44,0,2,108,141,False,1,175,0,0.6,1,0.0,2,Unknown
+58,1,0,128,216,False,0,131,1,2.2,1,3.0,3,Unknown
+65,1,3,138,282,True,0,174,0,1.4,1,1.0,2,Unknown
+53,1,0,123,282,False,1,95,1,2.0,1,2.0,3,Unknown
+41,1,0,110,172,False,0,158,0,0.0,2,0.0,3,Unknown
+47,1,0,112,204,False,1,143,0,0.1,2,0.0,2,Unknown
+59,1,1,140,221,False,1,164,1,0.0,2,0.0,2,Unknown
+60,1,0,125,258,False,0,141,1,2.8,1,1.0,3,Unknown
+47,1,0,110,275,False,0,118,1,1.0,1,1.0,2,Unknown
+50,0,0,110,254,False,0,159,0,0.0,2,0.0,2,Unknown
+54,1,0,120,188,False,1,113,0,1.4,1,1.0,3,Unknown
